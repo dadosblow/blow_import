@@ -1,0 +1,81 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Motivo Desconto;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe
+01/12/2025;01/12/2025 07:54;Pagamento;68010004;Eduarda Lopes de souza;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 08:06;Pagamento;62921405;Paola Nadal Piacini;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-105,00;Paola/Gabriel Familia;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Gabriel Fonseca Bruttomesso;No Emitida
+28/11/2025;01/12/2025 08:11;Pagamento;62607447;Cacilda Isaacsson;10,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;10,00;0,00;0,00;0,00;0,00;0,00;10,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 08:51;Pagamento;74238060;Mariana Duarte;0,00;0;0,00;0;0,00;0;0,00;55,00;1;0,00;-55,00;Influencer/ marketing;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 09:06;Pagamento;69708219;Lisiane Fabres;0,00;0;0,00;0;0,00;0;0,00;110,00;2;0,00;-110,00;Influencer/ marketing;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 09:14;Pagamento;64097312;Jacqueline Bigliardi Bandeira;30,00;2;14,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;44,00;0,00;0,00;44,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 09:47;Pagamento;63775817;Mrcia Cibele;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 09:57;Pagamento;65861731;Branca Menegaz;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 10:10;Pagamento;64909196;Priscila Cleff;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 10:21;Pagamento;69342657;virginia costa lopes;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;105,00;0,00;0,00;105,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 10:35;Pagamento;65104374;Sabrina glaeser da silva;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 11:15;Pagamento;79703892;Janine Waechter;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 11:16;Pagamento;62695444;Beatriz da Costa Koci;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 11:29;Pagamento;77853354;Ana Paula;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 11:32;Pagamento;72315390;Pamela Freitas Perleberg;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;85,00;0,00;0,00;0,00;0,00;85,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 11:48;Pagamento;67278254;Bruna mariah martins batists lopes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;55,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 11:57;Pagamento;66185514;denise kaufmann;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 12:29;Pagamento;79617719;Ariadne Finkler;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 12:30;Pagamento;68091152;Eliara Sanguine;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 12:39;Pagamento;71556439;Cristiane Curi Hallal;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;-10,00;Cupom Frequencia Na Semana;0,00;53,00;0,00;0,00;0,00;0,00;0,00;53,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 12:50;Pagamento;67216622;Leticia Cecotti;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Gabriel Fonseca Bruttomesso;No Emitida
+01/12/2025;01/12/2025 13:48;Pagamento;65074916;Rita oliveira;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,00;Cupom Frequencia Na Semana;0,00;0,00;0,00;0,00;74,00;0,00;0,00;74,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 14:46;Pagamento;79706029;Maria Teresa Galvo Neves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 15:18;Pagamento;79702199;Marilia Wetzel;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 15:22;Pagamento;66901021;Bruna Pires;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;Cupom Frequencia Na Semana;65,00;0,00;0,00;0,00;0,00;0,00;0,00;65,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 15:23;Pagamento;66563064;dna de oliveira ramos;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;85,00;0,00;0,00;0,00;0,00;85,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 15:38;Pagamento;63747685;Ioni Ramalho;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 15:49;Pagamento;79551352;Silvana pedrotti;90,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;90,00;0,00;0,00;0,00;0,00;0,00;90,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 16:22;Pagamento;79696852;Ana Jlia Pedrotti Gonalves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 16:27;Pagamento;71821404;Erika Hulverscheidt Carvalho;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;Cupom Frequencia Na Semana;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 17:11;Pagamento;75777614;Mirian Santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 17:59;Pagamento;64158227;Fabiana Zimmerman;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 18:25;Pagamento;65861731;Branca Menegaz;60,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;60,00;0,00;0,00;60,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 18:49;Pagamento;65228766;Daiane Freda Araujo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 19:03;Pagamento;77206106;Maria Moreira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+01/12/2025;01/12/2025 19:03;Pagamento;74744921;Maria Antonella Sanchez Amilivia;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 07:27;Pagamento;65048326;Neusa Maria Mello Ness;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 07:42;Pagamento;71628005;Fernanda Morales;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 08:49;Pagamento;65598846;rafaela malufe;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,00;Cupom Frequencia Na Semana;0,00;74,00;0,00;0,00;0,00;0,00;0,00;74,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 09:12;Pagamento;69249265;Mariel Lapa;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-45,00;Aniversrio scia do clube;0,00;20,00;0,00;0,00;0,00;0,00;0,00;20,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 09:17;Pagamento;63234489;Raquel Falchi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 09:38;Pagamento;63307752;Maristela Schenatto;60,00;3;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;68,00;0,00;0,00;0,00;0,00;0,00;0,00;68,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 10:04;Pagamento;62579358;Marcia Afonso;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 10:42;Pagamento;65380261;Margarida de Carvalho Lobato;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 11:00;Pagamento;63226251;Manuela Gomes Costa de Lacerda;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 11:28;Pagamento;75956556;Suzana Zanotta Nunes;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;63,00;0,00;0,00;0,00;0,00;63,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 11:29;Pagamento;64942958;Luciara Bilhalva Corra;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 11:31;Pagamento;63886206;Lidia Rosselli;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;63,00;0,00;0,00;63,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 11:47;Pagamento;63273243;Jacqueline Rosa;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 11:55;Pagamento;77890071;Monique Silveira Garcia;105,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-105,00;Profissional;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 12:34;Pagamento;66917393;Delania Afonso;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,00;Cupom Frequencia Na Semana;44,00;0,00;0,00;0,00;0,00;0,00;0,00;44,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 12:53;Pagamento;64684078;Priscila cardozo timm;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 13:01;Pagamento;66825214;Helena Guimares Alves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 13:33;Pagamento;71285579;Vitria Antunes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,00;Cupom Frequencia Na Semana;0,00;44,00;0,00;0,00;0,00;0,00;0,00;44,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 13:51;Pagamento;64187713;Paola klain;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 14:02;Pagamento;66909355;LUANA FIRME NETTO;85,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;93,00;0,00;0,00;93,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 14:18;Pagamento;62607338;Kamilla ferreira hax;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 14:28;Pagamento;63580685;valeria magales jorge;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 14:33;Pagamento;70726235;Julia Asso;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;75,00;0,00;0,00;0,00;0,00;0,00;0,00;75,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:00;Pagamento;65608992;Mirela Lima Jomaa;130,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;130,00;0,00;0,00;130,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:08;Pagamento;63492658;Valria Del Puerto Borges;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;Cupom Frequencia Na Semana;0,00;0,00;0,00;0,00;75,00;0,00;0,00;75,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:09;Pagamento;62605776;Natlia Garcez;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;Cupom Frequencia Na Semana;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:17;Pagamento;67944515;Carla Patzlaff Ribeiro;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-65,00;Profissional;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:24;Pagamento;65104374;Sabrina glaeser da silva;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 15:24;Pagamento;63391770;Ana Cristina Moraes dos Santos;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Carla Patzlaff Ribeiro;No Emitida
+02/12/2025;02/12/2025 15:31;Pagamento;73087655;Amanda Dos Santos Esteves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:32;Pagamento;67391702;Ana Paula Maciel de Lima;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:33;Pagamento;64095278;Marcelle Maciel de lima;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 15:55;Pagamento;63239193;Nidia Baron Ricachenevsky Scholl;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,00;Cupom Frequencia Na Semana;0,00;0,00;44,00;0,00;0,00;0,00;0,00;44,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 16:17;Pagamento;70830455;Bruna Vasconcelos;85,00;2;105,90;1;0,00;0;0,00;0,00;0;0,00;0,00;;190,90;0,00;0,00;0,00;0,00;0,00;0,00;190,90;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 16:18;Pagamento;63785584;LUCIA HELENA GONZALES REAL;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 16:25;Pagamento;69228184;Jessica Konrad;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 16:48;Pagamento;74238060;Mariana Duarte;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-85,00;Influencer/ marketing;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 16:53;Pagamento;63664373;Anelise Reis Gaya;105,00;2;14,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;119,00;0,00;0,00;0,00;0,00;0,00;0,00;119,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 17:09;Pagamento;62607239;Fernanda Geraldo Pappen;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 17:30;Pagamento;65343982;Adriene Pacheco Gross;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 17:39;Pagamento;77978947;Elenice Vieira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 17:50;Pagamento;66672803;Graciele Ferreira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 18:05;Pagamento;63543405;Rafaela Marques da Rocha;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Monique Silveira Garcia;No Emitida
+02/12/2025;02/12/2025 20:58;Pagamento;78145742;Isabel Cristina Moreira Camargo;0,00;0;0,00;0;90,00;1;90,00;0,00;0;0,00;-90,00;Clube de Assinaturas;0,00;0,00;0,00;0,00;90,00;0,00;0,00;90,00;Isabel Cristina Moreira Camargo;No Emitida

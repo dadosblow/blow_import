@@ -1,0 +1,350 @@
+﻿Atendimento/Venda;Pagamento / Estorno;Data de Liberação da Comissão;Profissional;Serviço/Produto/Pacote;Categoria;Consumo de Pacote;Cliente;CPF;Valor;Desconto Cliente;Pago em;Desconto Operadora;Custo operacional;Valor Base Comissão;% Comissão;Valor Comissão;Quem registrou a transação;Comissão para
+01/12/2025;01/12/2025 10:45;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Luiza Yamin;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 10:57;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Vera Cunha;;45,00;0,00;Elo Crédito;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 11:00;01/12/2025;040-Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Mara Silvia de Oliveira;004.790.251-50;40,00;0,00;;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 11:04;01/12/2025;067 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Marianna Macedo;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 11:04;01/12/2025;067 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Marianna Macedo;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 11:04;01/12/2025;067 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Marianna Macedo;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:38;01/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Nathalia Buzanelli;015.080.026-65;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 12:38;01/12/2025;028 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Nathalia Buzanelli;015.080.026-65;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:39;01/12/2025;065- Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;priscilla dubugras;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:39;01/12/2025;047 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;priscilla dubugras;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:39;01/12/2025;065- Blow da vez;BLEND Repair;Tratamentos;NÃO;priscilla dubugras;;20,00;0,00;Visa;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 12:39;01/12/2025;065- Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;priscilla dubugras;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:39;01/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Gabriela Motta;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 12:40;01/12/2025;054 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Giovanna oliveira;059.620.421-31;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:40;01/12/2025;040-Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Larissa Costa;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 12:41;01/12/2025;039-Blow da vez;bLOw com Mega;bLOw (escova);NÃO;Ana Luiza Zinato;600.180.603-90;75,00;0,00;Visa Electron;0,00;-24,50;75,00;70,00;28,00;Karol;Profissional
+01/12/2025;01/12/2025 12:52;01/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;THALINE SARAIVA;009.555.911-63;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 12:52;01/12/2025;028 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;THALINE SARAIVA;009.555.911-63;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 13:03;01/12/2025;039-Blow da vez;Happy Hour - Blond;Tratamentos;NÃO;Natalia Ramalho;;30,00;0,00;Elo Débito;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 13:03;01/12/2025;039-Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Natalia Ramalho;;40,00;0,00;Elo Débito;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 13:21;01/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Patricia leal;968.195.107-72;45,00;0,00;American Express;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 13:21;01/12/2025;049 - Blow da vez;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Patricia leal;968.195.107-72;10,00;0,00;American Express;0,00;0,00;10,00;70,00;7,00;Karol;Profissional
+01/12/2025;01/12/2025 13:25;01/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Giovanna oliveira;059.620.421-31;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 13:25;01/12/2025;065- Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Gabriela Muniz;027.534.931-46;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 13:25;01/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Gabriela Muniz;027.534.931-46;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 13:25;01/12/2025;065- Blow da vez;BLEND Repair;Tratamentos;NÃO;Gabriela Muniz;027.534.931-46;20,00;0,00;;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 13:42;01/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Renata cristina silva trinta;460.075.043-87;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 13:42;01/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Renata cristina silva trinta;460.075.043-87;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 13:49;01/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Camilla Noranha Campos Pina;974.199.311-00;45,00;0,00;Dinheiro;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 13:49;01/12/2025;039-Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Camilla Noranha Campos Pina;974.199.311-00;50,00;0,00;Dinheiro;0,00;-12,00;50,00;70,00;23,00;Karol;Profissional
+01/12/2025;01/12/2025 13:53;01/12/2025;039-Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Rosane de Jesus Ribeiro;017.727.445-06;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 13:53;01/12/2025;039-Blow da vez;BLEND Repair;Tratamentos;NÃO;Rosane de Jesus Ribeiro;017.727.445-06;20,00;0,00;;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 13:54;01/12/2025;053 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Lorena Aquino Lemos;927.455.981-04;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 13:54;01/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Lorena Aquino Lemos;927.455.981-04;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:03;01/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;ADRIANA DA SILVA COLETTI;007.881.101-52;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:08;01/12/2025;022 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Rayza Loiola;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 14:08;01/12/2025;022 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Rayza Loiola;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 14:08;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Rayza Loiola;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:14;01/12/2025;067 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Paula Carvalho;000.387.011-11;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:14;01/12/2025;067 - Blow da vez;BLEND Repair;Tratamentos;NÃO;Ana Paula Carvalho;000.387.011-11;20,00;0,00;Visa;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 14:14;01/12/2025;067 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Ana Paula Carvalho;000.387.011-11;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 14:14;01/12/2025;040-Blow da vez;BLEND Repair;Tratamentos;NÃO;Ana Paula Carvalho;000.387.011-11;20,00;0,00;Visa;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 14:14;01/12/2025;040-Blow da vez;bLOw - Kids;bLOw (escova);NÃO;Ana Paula Carvalho;000.387.011-11;35,00;0,00;Visa;0,00;-10,50;35,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:14;01/12/2025;040-Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Ana Paula Carvalho;000.387.011-11;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 14:17;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;PRISCILLA DO NASCIMENTO DOS SANTOS;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:57;01/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Tatiana Franca;795.845.431-72;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:57;01/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;PRISCILLA DO NASCIMENTO DOS SANTOS;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 14:57;01/12/2025;054 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;PRISCILLA DO NASCIMENTO DOS SANTOS;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 14:58;01/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sulamita Paiva;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 15:03;01/12/2025;065- Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Karolyne Augusta Nunes;021.645.371-22;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 15:03;01/12/2025;065- Blow da vez;BLEND Repair;Tratamentos;NÃO;Karolyne Augusta Nunes;021.645.371-22;20,00;0,00;;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 15:03;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Karolyne Augusta Nunes;021.645.371-22;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 15:03;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;058 - Ariedson Sardinha Lima;614.323.733-66;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 15:13;01/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Anna Coelho;044.638.331-75;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 15:28;01/12/2025;047 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Denise Reis;;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 15:48;01/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Cristiane Pimenta da Veiga;573.240.501-15;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 15:50;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Daniele Albuquerque Ladislau;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:13;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;058 - Ariedson Sardinha Lima;614.323.733-66;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:13;01/12/2025;022 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;058 - Ariedson Sardinha Lima;614.323.733-66;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 16:13;01/12/2025;022 - Blow da vez;BLEND Repair;Tratamentos;NÃO;058 - Ariedson Sardinha Lima;614.323.733-66;20,00;0,00;;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 16:13;01/12/2025;022 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;058 - Ariedson Sardinha Lima;614.323.733-66;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 16:17;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Júlia Loubet;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:17;01/12/2025;065- Blow da vez;BLEND Repair;Tratamentos;NÃO;Ana Júlia Loubet;;20,00;0,00;PIX;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 16:17;01/12/2025;065- Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Ana Júlia Loubet;;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 16:27;01/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Lílian Venzon Kraemar;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:27;01/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Aline Sammarco Freitas;220.001.078-85;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:28;01/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Patricia Cayres Ramos;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:33;01/12/2025;054 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Maria Elisabete Costa Cavalcante;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 16:33;01/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Maria Elisabete Costa Cavalcante;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:36;01/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Alice Carolina F O Lins e Silva;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:58;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Drielly Mattos Rodrigues;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 16:58;01/12/2025;022 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Drielly Mattos Rodrigues;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 16:58;01/12/2025;022 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Drielly Mattos Rodrigues;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 17:10;01/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Nereida;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 17:10;01/12/2025;049 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Nereida;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 17:25;01/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Chiorlin;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 17:25;01/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Chiorlin;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 17:25;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Chiorlin;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 17:33;01/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Carvalho;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 17:56;01/12/2025;022 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Lidia Parente;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 17:56;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Lidia Parente;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 17:56;01/12/2025;022 - Blow da vez;BLEND Repair;Tratamentos;NÃO;Lidia Parente;;20,00;0,00;Visa;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 17:57;01/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fabíola Mendonça;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:00;01/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Jacqueline Barros;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:11;01/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Poliana Nunes Soares da Silva Reis;001.241.961-36;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:11;01/12/2025;053 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Poliana Nunes Soares da Silva Reis;001.241.961-36;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 18:16;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Loyane Alburqueque;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:42;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isabella dinniz;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:46;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;067 - Monica de Jesus Tavares;038.792.221-00;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:46;01/12/2025;022 - Blow da vez;BLEND Repair;Tratamentos;NÃO;067 - Monica de Jesus Tavares;038.792.221-00;20,00;0,00;;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+01/12/2025;01/12/2025 18:46;01/12/2025;022 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;067 - Monica de Jesus Tavares;038.792.221-00;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 18:46;01/12/2025;022 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;067 - Monica de Jesus Tavares;038.792.221-00;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 18:49;01/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Priscila Temperani;811.538.050-49;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:52;01/12/2025;047 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Vanessa De oliveira;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 18:52;01/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Vanessa De oliveira;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 18:59;01/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Virgínia Coutinho;376.892.401-78;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 19:41;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Amanda Lopes de Carvalho;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 19:41;01/12/2025;022 - Blow da vez;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Amanda Lopes de Carvalho;;10,00;0,00;Visa Electron;0,00;0,00;10,00;70,00;7,00;Karol;Profissional
+01/12/2025;01/12/2025 19:54;01/12/2025;065- Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Karolyne Augusta Nunes;021.645.371-22;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+01/12/2025;01/12/2025 20:07;01/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Lucia Miranda;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+01/12/2025;01/12/2025 20:07;01/12/2025;022 - Blow da vez;Blow Lab Touca de Cetim Anti-Frizz;Home Care - Revenda;NÃO;Lucia Miranda;;56,90;0,00;Visa;0,00;0,00;56,90;5,00;2,84;Karol;Profissional
+02/12/2025;02/12/2025 08:00;02/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Isabel Grillo Araujo;573.529.681-72;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 08:00;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isabel Grillo Araujo;573.529.681-72;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 08:00;02/12/2025;Karol;Blow Lab Shampoo Detox 250ml;Home Care - Revenda;NÃO;Isabel Grillo Araujo;573.529.681-72;79,90;0,00;Mastercard;0,00;0,00;79,90;5,00;4,00;Karol;Profissional
+02/12/2025;02/12/2025 08:21;02/12/2025;032 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Pilar Blanco;090.596.561-21;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 08:29;02/12/2025;022 - Blow da vez;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Patrícia Ferreira e Silva Gomes de Souza;;10,00;0,00;Visa;0,00;0,00;10,00;70,00;7,00;Karol;Profissional
+02/12/2025;02/12/2025 08:29;02/12/2025;022 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Patrícia Ferreira e Silva Gomes de Souza;;40,00;0,00;Visa;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 08:32;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariane Mourao;026.910.953-63;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 08:45;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ines careiea;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 08:45;02/12/2025;047 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Ines careiea;;50,00;0,00;Visa;0,00;-12,00;50,00;70,00;23,00;Karol;Profissional
+02/12/2025;02/12/2025 08:46;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Heloisa Elleres Lopes;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 09:08;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Gracie Allen Alves De Mello Sales;694.757.501-00;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 09:11;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Alessandra Neiva;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 09:17;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Luiza Melo;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:12;02/12/2025;032 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Vitória Castelo Branco;013.758.962-02;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 10:12;02/12/2025;032 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Vitória Castelo Branco;013.758.962-02;40,00;0,00;Visa Electron;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:14;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Franco de Oliveira;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:28;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Rubia Danyla Gama Pinheiro;939.150.555-49;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:28;02/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Rubia Danyla Gama Pinheiro;939.150.555-49;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 10:33;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isabel Martinelli;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:46;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Rayanne Mayara Marzagão;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:47;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Virginia Siqueira Misson;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:47;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Virginia Siqueira Misson;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 10:59;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;walderes Dias;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 11:08;02/12/2025;046 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Marcella Dantas Teixeira;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 11:08;02/12/2025;046 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Marcella Dantas Teixeira;;40,00;0,00;Visa Electron;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 11:19;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;JULIANE ALMUDI DE FREITAS;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 11:29;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Luciane Meira Jácome franco;;45,00;0,00;Visa Electron, Dinheiro;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 11:29;02/12/2025;022 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Luciane Meira Jácome franco;;30,00;0,00;Visa Electron, Dinheiro;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 11:35;02/12/2025;032 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Bethânia Itagjba Aguiar Arifa;715.296.911-68;40,00;0,00;;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 11:36;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Tatiane López;302.958.958-70;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 11:58;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Patricia Weingrill de Moraes;;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 12:02;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isadora profirio;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 12:25;02/12/2025;053 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Fernanda Vidal Rollemberg;041.894.091-62;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 12:25;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fernanda Vidal Rollemberg;041.894.091-62;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 12:29;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Karla Rogéria Rodrigues;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 12:29;02/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Karla Rogéria Rodrigues;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 12:38;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;SANDRA FARJ;123.432.358-30;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 12:38;02/12/2025;054 - Blow da vez;Happy Hour - Blond;Tratamentos;NÃO;SANDRA FARJ;123.432.358-30;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 12:45;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Flávia Aparecida D Avila Silveira  D Avila;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:01;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;CAMILA INDRUSIAK BULSING;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:01;02/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;CAMILA INDRUSIAK BULSING;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 13:02;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Giovana Queiroz;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:04;02/12/2025;046 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Viviane Fernandes;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 13:04;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Viviane Fernandes;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:30;02/12/2025;022 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Camila Póvoa;;40,00;0,00;;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:32;02/12/2025;047 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Gabriella França Toniol;037.098.531-17;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:59;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;LARYSSA LIRA;041.422.631-37;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 13:59;02/12/2025;046 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Tatiana Tamer;;40,00;0,00;Visa;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 14:00;02/12/2025;053 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Isabela Tessutti;003.934.261-14;40,00;0,00;Visa Electron;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 14:01;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Maria Isabella;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+02/12/2025;02/12/2025 14:01;02/12/2025;032 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Maria Isabella;;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+02/12/2025;02/12/2025 15:07;02/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Andréa Augusta Albuquerque Marques;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:07;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Andréa Augusta Albuquerque Marques;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:08;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Eunice Pimentel de Oliveira;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:08;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Natalia Sacchi;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:08;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fabiana Ribeiro guimaraes;014.315.035-92;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:08;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Michelle Rocha;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:08;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Talita Borges;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:08;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Jannifer Lino de oliveira;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:11;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Julyana Peres Carvalho Portugal;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:11;02/12/2025;022 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Julyana Peres Carvalho Portugal;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:25;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;LIVIA MEIRELLES FERREIRA DE PINHO;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 15:28;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana claudia paz Zanoni hausen;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:03;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;LENA OLIVEIRA DE CARVALHO;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:03;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;LENA OLIVEIRA DE CARVALHO;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:08;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Júlia Neves;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:08;02/12/2025;046 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Júlia Neves;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:17;02/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Elisa Pinchemel;;30,00;0,00;Maestro/Redeshop;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:17;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Elisa Pinchemel;;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:18;02/12/2025;053 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Angelita Silva Santos;;30,00;0,00;Dinheiro;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:18;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Angelita Silva Santos;;45,00;0,00;Dinheiro;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:24;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Viviane Gomide Cirilo;573.719.701-87;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:32;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Azevedo;;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:46;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Anne Vieira;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:47;02/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Nathalia Vaz;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 16:50;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Erica Oliveira Cruz Laboissiere;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:05;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Flavia Nice Costa Da Silva;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:10;02/12/2025;047 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Luziene  Moraes;222.880.581-53;40,00;0,00;Elo Débito;0,00;-14,00;40,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:10;02/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Luziene  Moraes;222.880.581-53;30,00;0,00;Elo Débito;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:24;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isabella Sousa;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:24;02/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Karla Cristina Montes;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:24;02/12/2025;046 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Karla Cristina Montes;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:30;02/12/2025;054 - Blow da vez;bLOw com Mega;bLOw (escova);NÃO;JULYANNA BORGES;;75,00;0,00;Mastercard;0,00;-24,50;75,00;70,00;28,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:43;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Manuela Oliveira;;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:57;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ariane dosSantos;056.543.674-04;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:57;02/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Ariane dosSantos;056.543.674-04;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:58;02/12/2025;022 - Blow da vez;soma TOC;Outros adicionais diferentes de tratamento;NÃO;Mayane;;20,00;0,00;Maestro/Redeshop;0,00;-4,00;20,00;70,00;10,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:58;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mayane;;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 17:58;02/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Lívia Gervasio;031.136.316-45;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 18:01;02/12/2025;046 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Jacqueline Ferreira;042.829.761-79;40,00;0,00;Maestro/Redeshop, Dinheiro;0,00;-14,00;40,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 18:01;02/12/2025;046 - Blow da vez;soma Mega/ Extensão;Outros adicionais diferentes de tratamento;NÃO;Jacqueline Ferreira;042.829.761-79;30,00;0,00;Maestro/Redeshop, Dinheiro;0,00;-7,00;30,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 18:39;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Maria Paula Filpo;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 18:44;02/12/2025;046 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Luciana Lima Rocha;988.107.311-15;40,00;0,00;Good Card, Visa;0,00;-14,00;40,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 18:44;02/12/2025;046 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Luciana Lima Rocha;988.107.311-15;30,00;0,00;Good Card, Visa;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 18:44;02/12/2025;Karol;Clube do bLOw - Plano Duplo;Pacotes;NÃO;Luciana Lima Rocha;988.107.311-15;85,00;0,00;Good Card, Visa;0,00;0,00;85,00;10,00;8,50;Carmilene;Profissional
+02/12/2025;02/12/2025 19:02;02/12/2025;053 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;CAMILE VIEIRA ALMEIDA;;30,00;0,00;Good Card, Visa;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 19:02;02/12/2025;053 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;CAMILE VIEIRA ALMEIDA;;40,00;0,00;Good Card, Visa;0,00;-14,00;40,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 19:03;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sonia Gotijo Chagas;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 19:42;02/12/2025;053 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sophia R. Cunha;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 19:42;02/12/2025;053 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Sophia R. Cunha;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+02/12/2025;02/12/2025 19:45;02/12/2025;022 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Livia Lenci;331.879.208-02;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 20:00;02/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Vanuza Afonso;;45,00;0,00;Maestro/Redeshop;0,00;-17,50;45,00;70,00;14,00;Carmilene;Profissional
+02/12/2025;02/12/2025 20:00;02/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Vanuza Afonso;;30,00;0,00;Maestro/Redeshop;0,00;-6,00;30,00;70,00;15,00;Carmilene;Profissional
+03/12/2025;03/12/2025 08:31;03/12/2025;054 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Erica Doutor Rocha De Amorim;;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 08:31;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Erica Doutor Rocha De Amorim;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 08:36;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Amanda Cristiny Soares de Araújo;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 08:37;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Paula M G Reis;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:00;03/12/2025;054 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Aurea Bartoli;;40,00;0,00;Mastercard;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:04;03/12/2025;032 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Taise Gasparete;013.266.016-44;40,00;0,00;;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:12;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Maria do carmo;;45,00;0,00;Dinheiro;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:25;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Luíza de Queiroz França;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:28;03/12/2025;028 - Blow da vez;Penteado;Penteados;NÃO;Fernanda Figueiredo;;139,00;0,00;Visa;0,00;-41,30;139,00;70,00;56,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:28;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fernanda Figueiredo;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:28;03/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Fernanda Figueiredo;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 09:28;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fernanda Figueiredo;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:03;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Karine Bessa;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:05;03/12/2025;039-Blow da vez;bLOw com Mega;bLOw (escova);NÃO;Kelly Araújo;;75,00;0,00;Dinheiro;0,00;-24,50;75,00;70,00;28,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:05;03/12/2025;039-Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Kelly Araújo;;30,00;0,00;Dinheiro;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:07;03/12/2025;049 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Ivonete Granjeiro;289.949.901-78;30,00;0,00;American Express;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:07;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ivonete Granjeiro;289.949.901-78;45,00;0,00;American Express;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:09;03/12/2025;040-Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Fernanda Prado;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:09;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fernanda Prado;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:13;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Darc Santos;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:23;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Angelita Oliveira;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:23;03/12/2025;054 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Angelita Oliveira;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:23;03/12/2025;054 - Blow da vez;soma zGorjeta 10;Gorjetas;NÃO;Angelita Oliveira;;20,00;0,00;Mastercard;0,00;0,00;20,00;100,00;20,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:31;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Bruna Santosn;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:36;03/12/2025;039-Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Maria Soemia Araujo;;40,00;0,00;;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:42;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;PAULA VELOSO AQUINO;708.479.161-20;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:47;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Renata sandoval;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 10:52;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Rejane Paschoal;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:05;03/12/2025;049 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;LADY OLIVEIRA;;40,00;0,00;Visa Electron;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:05;03/12/2025;049 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;LADY OLIVEIRA;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:10;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Flávia Angélica;059.743.816-10;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:10;03/12/2025;046 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Flávia Angélica;059.743.816-10;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:17;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Tamia Perez;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:18;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sasha freire;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:22;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Erika Zaidan;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:23;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fatima Santos;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:26;03/12/2025;039-Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Regina Vieira;308.370.811-49;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:30;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sofia Ferreira;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:34;03/12/2025;028 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Lidiene Braga;025.409.703-03;40,00;0,00;PIX;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:34;03/12/2025;028 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Lidiene Braga;025.409.703-03;50,00;0,00;PIX;0,00;-12,00;50,00;70,00;23,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:39;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;ana luiza nunes;005.405.841-42;45,00;0,00;Elo Débito;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:42;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Gabrielly Barbosa Silva;311.738.358-14;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:51;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Andrea Noletto;275.979.461-04;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:51;03/12/2025;049 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Andrea Noletto;275.979.461-04;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 11:59;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;PATRÍCIA PANTOVANIA;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:07;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sirley Barros de Oliveira;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:11;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Barsante;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:13;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Larissa Mesquita Brandão;569.650.363-20;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:18;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sandra Ferraz;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:28;03/12/2025;065- Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;ADRIANA DA SILVA COLETTI;007.881.101-52;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:28;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;ADRIANA DA SILVA COLETTI;007.881.101-52;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:36;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Leticia Sten;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:41;03/12/2025;028 - Blow da vez;bLOw com Mega;bLOw (escova);NÃO;Giuliana Cristina souto Silva;619.378.191-91;75,00;0,00;Visa Electron;0,00;-24,50;75,00;70,00;28,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:41;03/12/2025;028 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Giuliana Cristina souto Silva;619.378.191-91;50,00;0,00;Visa Electron;0,00;-12,00;50,00;70,00;23,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:42;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Júlia Morais;300.553.181-34;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:45;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Girleide Vasconcelos barbosa;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:49;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Érica Teles;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:51;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fabiana Ribeiro guimaraes;014.315.035-92;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 12:52;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Janaína Gonçalves Valle;472.418.020-04;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:01;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Monalisa Machado;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:07;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Rosilene Pontes Lima;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:14;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;028 -Catiana Cardoso Bastos;036.730.461-95;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:15;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Emily Pontes;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:40;03/12/2025;058 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;VANESSA GUIMARAES FONSECA;709.117.461-53;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:43;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Juliana PFS Guedes;025.949.914-57;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:43;03/12/2025;047 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Juliana PFS Guedes;025.949.914-57;50,00;0,00;Visa Electron;0,00;-12,00;50,00;70,00;23,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:48;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Gabriele Collares;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Cristiane;Profissional
+03/12/2025;03/12/2025 13:48;03/12/2025;046 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Gabriele Collares;;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Cristiane;Profissional
+03/12/2025;03/12/2025 14:26;03/12/2025;028 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Ana Lúcia Pascon;263.227.901-10;50,00;0,00;Visa Electron;0,00;-12,00;50,00;70,00;23,00;Karol;Profissional
+03/12/2025;03/12/2025 14:26;03/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Lúcia Pascon;263.227.901-10;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 14:28;03/12/2025;040-Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Mellina  Lima;958.661.321-68;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 14:28;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mellina  Lima;958.661.321-68;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 14:58;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Bianka Oliveira;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 14:58;03/12/2025;049 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Bianka Oliveira;;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:10;03/12/2025;058 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;RAPHAELLA CORREIA DA COSTA;;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:10;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;RAPHAELLA CORREIA DA COSTA;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:13;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Carmem Coelho;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:13;03/12/2025;046 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Luiza Moraes;;30,00;0,00;Good Card, Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:13;03/12/2025;046 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Luiza Moraes;;40,00;0,00;Good Card, Visa;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:21;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Roberta Almeida Pedrosa;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:22;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;karollyne Alves;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:25;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Gabrielle Benevides;067.872.711-23;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:32;03/12/2025;039-Blow da vez;soma Mega/ Extensão;Outros adicionais diferentes de tratamento;NÃO;Sarah Martins Martins;024.967.181-60;30,00;0,00;Mastercard;0,00;-7,00;30,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:32;03/12/2025;039-Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Sarah Martins Martins;024.967.181-60;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:32;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sarah Martins Martins;024.967.181-60;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:32;03/12/2025;039-Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Sarah Martins Martins;024.967.181-60;30,00;0,00;Mastercard;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:35;03/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;gerlane baccarin;;45,00;0,00;Dinheiro;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:35;03/12/2025;028 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;gerlane baccarin;;30,00;0,00;Dinheiro;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:35;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Luiza Bastos;;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:38;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Marcela Brant;482.765.291-00;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:38;03/12/2025;054 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Marcela Brant;482.765.291-00;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:40;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Adriana Crispim;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 15:40;03/12/2025;065- Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Adriana Crispim;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 15:59;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Catarina Sandoval Marques;055.243.141-90;45,00;0,00;Mastercard;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:13;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Zélia Maria Freire Melo Nunes;055.931.081-10;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:13;03/12/2025;049 - Blow da vez;Happy Hour - Blond;Tratamentos;NÃO;Zélia Maria Freire Melo Nunes;055.931.081-10;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 16:17;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;MICHELE LOBO;688.643.451-91;45,00;0,00;Dinheiro;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:17;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;MICHELE LOBO;688.643.451-91;45,00;0,00;Dinheiro;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:20;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mariana Carneiro Ribeiro;091.131.731-70;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:20;03/12/2025;047 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Mariana Carneiro Ribeiro;091.131.731-70;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 16:28;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Rita Goret da Silva Suassuna;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:29;03/12/2025;046 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Vivianne Rocha;;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:40;03/12/2025;032 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Christiane vargas;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 16:40;03/12/2025;054 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Christiane vargas;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:43;03/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sabrina blom chen yen;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 16:43;03/12/2025;028 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;Sabrina blom chen yen;;50,00;0,00;Visa;0,00;-12,00;50,00;70,00;23,00;Karol;Profissional
+03/12/2025;03/12/2025 17:01;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Angela Nascimento;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:03;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Eliana Simões lins;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:08;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isabella Sousa;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:16;03/12/2025;040-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Isabella Sousa;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:16;03/12/2025;040-Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Isabella Sousa;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 17:26;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Sandra Mara Ferrari;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:40;03/12/2025;039-Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Andressa Silva Soares;072.369.631-43;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 17:40;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Andressa Silva Soares;072.369.631-43;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:40;03/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Mylena Damaceno;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:45;03/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Nara Souza;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 17:45;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Nara Souza;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:45;03/12/2025;065- Blow da vez;bLOw - Kids;bLOw (escova);NÃO;Nara Souza;;35,00;0,00;Visa;0,00;-10,50;35,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:45;03/12/2025;065- Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Nara Souza;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 17:46;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;ANA CAROLINA DOS SANTOS FERREIRA BEREZOWSKI;903.857.641-20;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:53;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fernanda Alves do Lago;057.948.917-50;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 17:53;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Fernanda Alves do Lago;057.948.917-50;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:00;03/12/2025;028 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Mírian Araújo;719.625.301-91;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:00;03/12/2025;049 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Mirian Araujo;719.625.301-91;40,00;0,00;Good Card;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:03;03/12/2025;049 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Mirian Araujo;719.625.301-91;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:05;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Jacqueline Faria de Santana;863.770.781-53;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:06;03/12/2025;032 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Lucimar do Vale Andrade;297.970.551-91;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:16;03/12/2025;040-Blow da vez;bLOw - Clube Duplo;bLOw (escova);NÃO;Claudia moraes;;40,00;0,00;Dinheiro;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:28;03/12/2025;028 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Maria Eugênia Benevides;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:28;03/12/2025;028 - Blow da vez;bLOw - Clube Duplo;bLOw (escova);SIM;Maria Eugênia Benevides;;40,00;0,00;Visa Electron;0,00;-14,00;40,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:28;03/12/2025;039-Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Maria Eduarda Ferrari;;45,00;0,00;PIX;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:28;03/12/2025;039-Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Maria Eduarda Ferrari;;30,00;0,00;PIX;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:34;03/12/2025;046 - Blow da vez;BLEND Repair;Tratamentos;NÃO;047 - Everaldo Bone de Sousa Silva;961.248.493-72;20,00;0,00;;0,00;-6,00;20,00;70,00;8,00;Karol;Profissional
+03/12/2025;03/12/2025 18:34;03/12/2025;046 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;047 - Everaldo Bone de Sousa Silva;961.248.493-72;45,00;0,00;;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:34;03/12/2025;046 - Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;047 - Everaldo Bone de Sousa Silva;961.248.493-72;30,00;0,00;;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:50;03/12/2025;065- Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Ana Carolina Uliana;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:50;03/12/2025;065- Blow da vez;Happy Hour - Hidratação;Tratamentos;NÃO;Ana Carolina Uliana;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:55;03/12/2025;058 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Luciana Lamas Martins;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 18:55;03/12/2025;058 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Luciana Lamas Martins;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:55;03/12/2025;047 - Blow da vez;Happy Hour - Nutrição;Tratamentos;NÃO;Luciana Lamas Martins;;30,00;0,00;Visa;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 18:55;03/12/2025;047 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Luciana Lamas Martins;;45,00;0,00;Visa;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 19:15;03/12/2025;047 - Blow da vez;Happy Hour - Reconstrução;Tratamentos;NÃO;058 - Ariedson Sardinha Lima;614.323.733-66;50,00;0,00;;0,00;-12,00;50,00;70,00;23,00;Karol;Profissional
+03/12/2025;03/12/2025 19:19;03/12/2025;028 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Raffaela Montanaro;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional
+03/12/2025;03/12/2025 19:19;03/12/2025;049 - Blow da vez;Happy Hour - Detox;Tratamentos;NÃO;Raffaela Montanaro;;30,00;0,00;Visa Electron;0,00;-6,00;30,00;70,00;15,00;Karol;Profissional
+03/12/2025;03/12/2025 19:19;03/12/2025;049 - Blow da vez;bLOw - Escova modelada ou lisa;bLOw (escova);NÃO;Raffaela Montanaro;;45,00;0,00;Visa Electron;0,00;-17,50;45,00;70,00;14,00;Karol;Profissional

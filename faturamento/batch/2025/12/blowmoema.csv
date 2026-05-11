@@ -1,0 +1,100 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Motivo Desconto;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe
+01/12/2025;01/12/2025 07:58;Pagamento;76772589;VANESSA CARDOSO DE SA;30,00;2;14,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;44,00;0,00;0,00;0,00;0,00;0,00;44,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 08:08;Pagamento;78651464;Sirlene Aguiar;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 08:15;Pagamento;79659294;Suyanne Pinheiro;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;59,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 08:25;Pagamento;72851799;Tereza Cristina de Jesus;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 09:19;Pagamento;75084823;Luisa Ayusso;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 09:20;Pagamento;74589798;Ana Luiza Giocondo;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 09:47;Pagamento;71494878;Antonielle Freitas;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 10:08;Pagamento;79704776;Silmara Lauar;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;89,00;0,00;0,00;0,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 10:35;Pagamento;79701342;Beatriz Escobar;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;59,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 11:32;Pagamento;73839287;Flavia Dangelo;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 11:40;Pagamento;79613284;isabel costa;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 11:56;Pagamento;79613219;cristiane cunha;89,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;89,00;0,00;0,00;0,00;0,00;0,00;0,00;89,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 12:09;Pagamento;76526700;Camila Thomaz;89,00;2;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;99,00;0,00;0,00;0,00;0,00;0,00;0,00;99,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 12:21;Pagamento;72605494;Sandra Veiga;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 12:22;Pagamento;79709265;Bianca Rodrigues;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 12:27;Pagamento;79353317;Dbora Danzi Faria;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 13:04;Pagamento;77188421;Ktia Elisa Hilgert Rizoti;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 13:06;Pagamento;78768816;Myllena Couto;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 13:39;Pagamento;73658813;Simone Rochelle;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 13:58;Pagamento;71871295;Eliana Dias Goldhar;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 14:05;Pagamento;76948273;Bruna Andrade silva;59,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;67,00;0,00;0,00;0,00;0,00;0,00;67,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 14:14;Pagamento;74113873;Mariana Werneck;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 14:15;Pagamento;78688794;Elizabeth L Abbate;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 14:20;Pagamento;76006222;Sylvia sgorlon;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 14:51;Pagamento;79696729;Maria Luiza Lima Melo Carvalho;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 14:53;Pagamento;76463324;Sabrine Lopes;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;89,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 15:24;Pagamento;72040963;Luciana Lerner;89,00;2;24,00;2;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;113,00;0,00;0,00;0,00;0,00;0,00;113,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 15:44;Pagamento;72497011;Luciana Paula Costa Astudillo;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;89,00;0,00;0,00;0,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;01/12/2025 16:01;Pagamento;74528164;Adriana de Carvalho Paiva de Carvalho Paiva;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 16:05;Pagamento;74428408;maria gorete gomes de lima;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 16:24;Pagamento;74381049;Maria Aparecida Mansur;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;89,00;0,00;0,00;0,00;0,00;0,00;89,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 16:28;Pagamento;71823213;camila pepe;69,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 17:31;Pagamento;78195311;Roberta Louise;119,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;127,00;0,00;0,00;0,00;0,00;0,00;0,00;127,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 17:50;Pagamento;78223467;Heloisa Carvalho;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 18:01;Pagamento;72614812;karinna;109,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-109,00;INFLUENCER;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 18:49;Pagamento;73254194;Joserlane nascimento costa;119,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;119,00;0,00;0,00;0,00;0,00;0,00;119,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 18:50;Pagamento;71574575;Camila Matos de Aquino;0,00;0;0,00;0;90,00;1;90,00;0,00;0;0,00;-90,00;Clube de Assinaturas;0,00;0,00;0,00;0,00;90,00;0,00;0,00;90,00;Camila Matos de Aquino;No Emitida
+01/12/2025;01/12/2025 19:37;Pagamento;72326835;Natlia Massaro Raimundo;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;01/12/2025 20:04;Pagamento;77865174;Renata Marquesi;0,00;0;0,00;0;90,00;1;90,00;0,00;0;0,00;-90,00;Clube de Assinaturas;0,00;0,00;0,00;0,00;90,00;0,00;0,00;90,00;Renata Marquesi;No Emitida
+02/12/2025;02/12/2025 07:51;Pagamento;76666935;Gabriella Faria;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;79,00;0,00;0,00;0,00;0,00;0,00;20,00;79,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 08:20;Pagamento;79227513;adriana Bonfa;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 08:43;Pagamento;79265628;Mariana Carvalho Passos;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 08:44;Pagamento;79265628;Mariana Carvalho Passos;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;30,00;0,00;0,00;0,00;0,00;0,00;30,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 08:45;Pagamento;72534697;REGINA CANTERE;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 08:49;Pagamento;71772445;paula collaco;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 09:13;Pagamento;76738318;Patrcia Trevisan de Almeida Marques;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 09:43;Pagamento;78744350;Thas Gasperini;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 09:43;Pagamento;78744350;Thas Gasperini;10,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;10,00;0,00;0,00;0,00;0,00;0,00;0,00;10,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 09:44;Pagamento;72747936;Maria Lucia De Mendona Kfouri;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 09:50;Pagamento;77797199;Ana Carolina Garcia Falcao;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 11:38;Pagamento;75688662;Ana Carolina Gomes;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 11:57;Pagamento;76853102;Flora Lorca;89,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;89,00;0,00;0,00;0,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 11:57;Pagamento;78814771;Ana Paula Porto;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 11:59;Pagamento;73875922;Vania Vinci Teixeira;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;10,00;69,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 12:16;Pagamento;74679389;Isabela Dias da Silva;0,00;0;0,00;0;45,00;1;45,00;0,00;0;0,00;-45,00;Clube de Assinaturas;0,00;0,00;0,00;0,00;45,00;0,00;0,00;45,00;Isabela Dias da Silva;No Emitida
+02/12/2025;02/12/2025 12:21;Pagamento;74312662;Michelle Golgo;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;89,00;0,00;0,00;0,00;0,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 12:30;Pagamento;72101134;Fernanda Bruno;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 12:36;Pagamento;72631407;Cristiane Atui;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 12:41;Pagamento;79756705;Nahla Ibrahim Barbosa;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 12:48;Pagamento;78152000;Anna Beatriz;0,00;0;0,00;0;90,00;1;90,00;0,00;0;0,00;-90,00;Clube de Assinaturas;0,00;0,00;0,00;0,00;90,00;0,00;0,00;90,00;Anna Beatriz;No Emitida
+02/12/2025;02/12/2025 12:59;Pagamento;79007985;Natasha Vilela de Abreu Silva Berford;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 13:00;Pagamento;71791455;Gislaine Rodrigues;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;89,00;0,00;0,00;0,00;0,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 13:16;Pagamento;76657002;Sheila Evans;59,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;67,00;0,00;0,00;0,00;0,00;0,00;67,00;Barbara Rita Ferreira;No Emitida
+01/12/2025;02/12/2025 13:16;Pagamento;74092060;Olivia Rodrigues Buoro;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karinna Daiana de Barros;No Emitida
+01/12/2025;02/12/2025 13:16;Pagamento;73768779;viviam alves;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;59,00;0,00;0,00;0,00;0,00;59,00;Karinna Daiana de Barros;No Emitida
+02/12/2025;02/12/2025 13:32;Pagamento;75916944;LIGIA ELAINE LIMA;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;89,00;0,00;0,00;0,00;0,00;0,00;0,00;89,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 13:43;Pagamento;79522058;Carolina Dias;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 14:12;Pagamento;79689404;camila gomes;119,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;119,00;0,00;0,00;119,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 14:14;Pagamento;74458067;Elisabeth Pinatti;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 14:27;Pagamento;79762500;Dbora Rodrigues;139,00;2;175,80;2;0,00;0;0,00;0,00;0;0,00;0,00;;314,80;0,00;0,00;0,00;0,00;0,00;0,00;314,80;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 14:28;Pagamento;76444583;Elisiane Tonoli;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 14:37;Pagamento;79748723;Selene Procopio dos Santos Ruiz;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 14:44;Pagamento;78194960;Julia dos Santos Prado Ruiz;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 15:08;Pagamento;79763793;Eliene conga;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;89,00;0,00;0,00;89,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 15:20;Pagamento;79761545;Priscila Melo;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 15:22;Pagamento;73217449;Raquel Oliveira;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Suellen Castro;No Emitida
+02/12/2025;02/12/2025 15:38;Pagamento;78806036;Daniela Miranda Vannucci;0,00;0;0,00;0;90,00;1;90,00;0,00;0;0,00;-90,00;Clube de Assinaturas;0,00;0,00;0,00;0,00;90,00;0,00;0,00;90,00;Daniela Miranda Vannucci;No Emitida
+02/12/2025;02/12/2025 15:59;Pagamento;79766556;Larissa Behar;59,00;1;18,00;2;0,00;0;0,00;0,00;0;0,00;0,00;;77,00;0,00;0,00;0,00;0,00;0,00;0,00;77,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 16:07;Pagamento;78806036;Daniela Miranda Vannucci;0,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;10,00;0,00;0,00;0,00;0,00;10,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 16:43;Pagamento;75182275;Maria Alice Cunha;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 16:47;Pagamento;79759989;Pamela Cristofoletti;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 16:49;Pagamento;77255740;Maria Carolina Freire;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 16:55;Pagamento;79007614;Elloa Martins Oliveira da Rocha;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,80;Cupom sem desconto na comisso;47,20;0,00;0,00;0,00;0,00;0,00;0,00;47,20;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 17:20;Pagamento;79446244;Ricardo;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 17:34;Pagamento;75626358;manuela torello;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 17:42;Pagamento;79765247;Manuela Porrua;109,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;117,00;0,00;0,00;0,00;0,00;0,00;117,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 18:22;Pagamento;75418573;Silvia B Catelli;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 18:27;Pagamento;73127410;Ariene Santos;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 18:37;Pagamento;76049318;Agnes Vasconcellos;59,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;75,00;0,00;0,00;0,00;0,00;6,00;75,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 19:14;Pagamento;79239930;Eliane Abbud Mazar;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Karinna Daiana de Barros;No Emitida
+02/12/2025;02/12/2025 19:23;Pagamento;79774066;Victoria almeida;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;89,00;0,00;0,00;0,00;0,00;0,00;0,00;89,00;Karinna Daiana de Barros;No Emitida
+02/12/2025;02/12/2025 19:25;Pagamento;78780905;Camila Carsten;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-59,00;INFLUENCER;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karinna Daiana de Barros;No Emitida
+02/12/2025;02/12/2025 19:26;Pagamento;71913063;Mariana Cunha Lima;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Karinna Daiana de Barros;No Emitida
+02/12/2025;02/12/2025 19:34;Pagamento;79774339;Cristina Brum;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;89,00;0,00;0,00;0,00;0,00;0,00;0,00;89,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 19:36;Pagamento;73465722;Eliane Gabriel;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 19:55;Pagamento;79757723;Milene Costa;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-11,80;Cupom sem desconto na comisso;47,20;0,00;0,00;0,00;0,00;0,00;0,00;47,20;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 20:09;Pagamento;79777885;Barbara Camila Souza Martins;109,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;109,00;0,00;0,00;109,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 20:13;Pagamento;74963231;Camilla Carvalho;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Barbara Rita Ferreira;No Emitida
+02/12/2025;02/12/2025 20:16;Pagamento;78621663;Lara Oliveira;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Barbara Rita Ferreira;No Emitida

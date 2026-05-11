@@ -1,0 +1,88 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Motivo Desconto;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe
+01/12/2025;01/12/2025 08:58;Pagamento;74769056;claudia abreu silva;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:15;Pagamento;65899541;Lisiane Barbosa Machado;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:20;Pagamento;43760025;Luciane Segala Negretto;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:20;Pagamento;79029304;Marina kurek borges;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:40;Pagamento;44188039;VIRGINIA CAMPOS FERNANDES;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:41;Pagamento;46400641;Scheila Negruni;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:41;Pagamento;62580172;Juliana Schiavon Meireles;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:42;Pagamento;71400350;rica Zaina gertiuk;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:43;Pagamento;42294663;Caroline schurhaus;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:44;Pagamento;62600142;Carla Claudino;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:44;Pagamento;57828453;Jheniffer artuzo antrobos;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:45;Pagamento;67263028;Magali de Lima Bakalarczyk;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:45;Pagamento;46365148;Monise Fiorasi;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:46;Pagamento;66293222;Elisa Eccel;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:46;Pagamento;43152296;Cecilia Lima Belcorso;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 09:49;Pagamento;69291730;Brbara Krejci;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 10:05;Pagamento;47190526;Julia de Souza;99,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;99,00;0,00;0,00;0,00;0,00;0,00;99,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 10:26;Pagamento;35944193;Gisele Nunes Parisotto;99,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;99,00;0,00;0,00;0,00;0,00;0,00;0,00;99,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 10:26;Pagamento;44453381;Isabele Parizotto;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 11:23;Pagamento;79688212;Deborah Zanatta;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 11:42;Pagamento;50550171;Adriana V. Eichstaedt;119,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;119,00;0,00;0,00;0,00;0,00;0,00;0,00;119,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 12:00;Pagamento;79639996;Maria Clara;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+01/12/2025;01/12/2025 13:34;Pagamento;79705530;Greyce Kelli Mller Damo;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 14:03;Pagamento;79712119;Maria Eduarda de Morais Silva;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 14:24;Pagamento;74919155;Caroline Barbieri;109,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;109,00;0,00;0,00;0,00;0,00;0,00;0,00;109,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 14:36;Pagamento;76102414;Victoria samilly de Sousa Marques;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;75,00;0,00;0,00;0,00;0,00;0,00;75,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 15:06;Pagamento;71710326;Gabriela Stringhi Comin de Mello;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;69,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 15:23;Pagamento;60958850;Leygila teixeira;129,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;129,00;0,00;0,00;129,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 15:54;Pagamento;36798524;Vaniza Smaniotto;99,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;99,00;0,00;0,00;0,00;0,00;99,00;Fernanda Bellini;No Emitida
+29/11/2025;01/12/2025 16:19;Pagamento;40077252;Ana Melka;129,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-129,00;influencers;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 16:40;Pagamento;46119586;Anna Meneguzzi;99,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;99,00;0,00;0,00;0,00;0,00;0,00;99,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 17:00;Pagamento;46408418;Betina Vilarino;79,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;79,00;0,00;0,00;79,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 17:11;Pagamento;69495069;Dayane Aline  Zanatta;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 17:17;Pagamento;66306462;Georgia leao muller;50,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;50,00;0,00;0,00;50,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 17:22;Pagamento;38304006;Lorelei Manfro;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 18:00;Pagamento;55892088;Maria Izabel rebeschini Bento;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+01/12/2025;01/12/2025 18:16;Pagamento;34330478;Geisa Lobato;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 08:53;Pagamento;35825177;Fernanda Magnanti;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 08:53;Pagamento;57626835;Iara Benitez;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 08:54;Pagamento;34371516;Caroline Rubio Da Silva;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 08:54;Pagamento;39514794;ELIANA MARCONDES PEREIRA;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 08:55;Pagamento;74913078;maria Gabriela camargo Sibardeli;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 08:55;Pagamento;75957500;Fatima Perico Sardi;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 08:56;Pagamento;34176280;Francini Correa Gressler;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 09:12;Pagamento;34209562;Carmen Derossi;45,00;1;0,00;0;0,00;0;0,00;0,00;0;5,00;0,00;;0,00;0,00;50,00;0,00;0,00;0,00;0,00;50,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 10:10;Pagamento;43124407;SABRINE SPENGLER SESTREM;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 10:11;Pagamento;41108036;Ana Luiza Maia Pederneiras Ballstaedt;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 10:17;Pagamento;41342400;Marina Caroline Zanela;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 11:29;Pagamento;77192547;Pamela Simoes;69,00;1;0,00;0;0,00;0;0,00;0,00;0;1,00;0,00;;0,00;0,00;70,00;0,00;0,00;0,00;0,00;70,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 11:37;Pagamento;49317285;Juliana Beal Paschoal;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 12:37;Pagamento;59835685;Patricia Mariotti;99,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;99,00;0,00;0,00;0,00;0,00;0,00;99,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 12:47;Pagamento;46069140;Ktia  Bianchini;79,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;79,00;0,00;0,00;0,00;0,00;0,00;79,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 13:00;Pagamento;64320550;Paola Becke Menegheti;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 13:26;Pagamento;54064945;Paula Barbieri;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 13:27;Pagamento;70242338;Rafaelle Valenza;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 13:27;Pagamento;70242338;Rafaelle Valenza;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 13:49;Pagamento;34221093;Catia Regina Rabelo  Bastos;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 14:03;Pagamento;65023824;Mari Lucia Corretora;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;45,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 14:07;Pagamento;42294663;Caroline schurhaus;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 14:38;Pagamento;60763258;CRISTIANE GALNATTER;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;69,00;0,00;0,00;0,00;0,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 14:51;Pagamento;46103301;Gisi Borges;50,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;50,00;0,00;0,00;0,00;0,00;0,00;50,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 15:15;Pagamento;48846628;Kalyane Zuconelli;10,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;10,00;0,00;0,00;0,00;0,00;0,00;10,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 15:23;Pagamento;66140407;Carol Castro;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;75,00;0,00;0,00;0,00;0,00;0,00;75,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 15:32;Pagamento;75589215;Fernanda Bellini;129,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-129,00;Modelos com comisso;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 15:35;Pagamento;43598144;Sandra Zolet;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;68,00;-1,00;0,00;0,00;0,00;68,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:04;Pagamento;56622786;Alice bosquirolli;69,00;1;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;74,00;0,00;0,00;0,00;0,00;0,00;74,00;Adriana Vero Pereira Silva;Emitida
+02/12/2025;02/12/2025 16:32;Pagamento;74767650;Claudete dos Santos;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:36;Pagamento;54982599;Liege Pedrozo;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:36;Pagamento;42269685;Thais Regina;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:40;Pagamento;46562478;Janana Palma;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:41;Pagamento;65032506;Vanessa Silveira;159,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;-1,00;158,00;0,00;0,00;158,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:49;Pagamento;55124610;Veronica f rsilva;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:51;Pagamento;74922086;Aparecida  Camargo Sibardeli;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:56;Pagamento;39299187;Camila Carolina Mafra Martins;0,00;0;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:56;Pagamento;73866657;Carla Almeida;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 16:57;Pagamento;70242338;Rafaelle Valenza;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 17:02;Pagamento;48970027;Ana Paula Junqueira;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;69,00;0,00;0,00;69,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 17:17;Pagamento;40653270;Regina Noronha;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 17:30;Pagamento;66079592;Gessica Cunha;99,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;99,00;0,00;0,00;0,00;0,00;0,00;0,00;99,00;Adriana Vero Pereira Silva;No Emitida
+02/12/2025;02/12/2025 17:38;Pagamento;77413343;Milena Mansano;50,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;50,00;0,00;0,00;0,00;0,00;0,00;0,00;50,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 18:47;Pagamento;46124800;Natassia Kiess;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 18:51;Pagamento;46124800;Natassia Kiess;30,00;2;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;35,00;0,00;0,00;35,00;Fernanda Bellini;Emitida
+02/12/2025;02/12/2025 19:03;Pagamento;63517427;Ana Carolina de Oliveira Melo;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 19:07;Pagamento;56708622;gabriela coutinho;69,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;69,00;0,00;0,00;0,00;0,00;0,00;69,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 19:29;Pagamento;77118989;Bruna Homem Andriolo;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 19:29;Pagamento;77898382;Bruna Homem Andriolo;30,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;30,00;0,00;0,00;30,00;Fernanda Bellini;No Emitida
+02/12/2025;02/12/2025 19:45;Pagamento;67211513;Victria Torres;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;30,00;0,00;0,00;0,00;0,00;0,00;30,00;Fernanda Bellini;No Emitida

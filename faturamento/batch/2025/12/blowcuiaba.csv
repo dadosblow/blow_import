@@ -1,0 +1,61 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe
+01/12/2025;01/12/2025 07:46;Pagamento;56346696;LUCIA HELENA DA ROSA;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;75,00;0,00;0,00;0,00;0,00;0,00;75,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 08:06;Pagamento;79610924;Lauanah macedo brandao;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 08:20;Pagamento;39536338;Rafaella Claudino;59,00;1;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;64,00;0,00;0,00;0,00;0,00;0,00;0,00;64,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 09:03;Pagamento;41096836;Gisela  Santos Fabrcio;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 09:20;Pagamento;39596212;Fabiana Martello;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 09:32;Pagamento;65355553;Marielle Karina;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 09:43;Pagamento;44642668;Tania Mara de Souza Baggio;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;70,00;0,00;0,00;-11,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 11:25;Pagamento;39929722;Rafaela Souza Haddad;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;100,00;0,00;0,00;-11,00;0,00;89,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 11:42;Pagamento;39360383;Gabrielly Neves de Souza;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 12:04;Pagamento;48038538;Giselle Costa;109,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;109,00;0,00;0,00;0,00;0,00;0,00;109,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 12:24;Pagamento;49232521;Thaissa kochhann Cheida;0,00;2;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 13:06;Pagamento;44946711;Elisangela Monteiro Campos;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 13:08;Pagamento;78289617;Fabiana Benites;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 13:18;Pagamento;47372050;Cleide Regina  Ribeiro Nascimento;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 13:45;Pagamento;56182370;Delze Maria Xavier Bispo Rezende;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 14:15;Pagamento;48713889;Mara  Arruda;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 14:32;Pagamento;71122875;Luciana Carvalho Aguiar;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+01/12/2025;01/12/2025 14:54;Pagamento;79716615;Jessica Paes de Barros;0,00;1;5,00;1;45,00;1;0,00;0,00;0;0,00;0,00;45,00;5,00;0,00;0,00;0,00;0,00;0,00;50,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 15:36;Pagamento;69907597;rafaele metelo;59,00;1;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;64,00;0,00;0,00;0,00;0,00;0,00;0,00;64,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 16:01;Pagamento;64178170;Tatiane Fernandes Almeida;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;59,00;0,00;0,00;59,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 16:08;Pagamento;45669639;Larissa Vieira Guimares Schucht;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 16:21;Pagamento;79733282;Tamara silva arujo;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 16:56;Pagamento;39098115;Emanouelly Costa Nadaf;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 17:00;Pagamento;63740633;Alessandra Erotildes da silva;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 17:23;Pagamento;39197221;Alessandra Costa;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 17:34;Pagamento;79709320;Luciana Ferreira Gomes da Silva;228,00;5;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;228,00;0,00;0,00;0,00;0,00;0,00;0,00;228,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 18:00;Pagamento;72361106;Fabiana Aparecida de Campos Magalhes Buzetti;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;59,00;0,00;0,00;59,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 18:28;Pagamento;79709320;Luciana Ferreira Gomes da Silva;10,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;10,00;0,00;0,00;10,00;Karine de Magalhes Silva;No Emitida
+01/12/2025;01/12/2025 19:46;Pagamento;47143868;ELBA VICENTINA DE MORAES;0,00;1;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 07:29;Pagamento;60898275;Walkyria Francisquetti;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 07:56;Pagamento;61183582;Amanda Martinazzo Bier;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 08:19;Pagamento;47839308;marimax almeida;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 09:56;Pagamento;71964398;Paola tessaro;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;89,00;0,00;0,00;89,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 10:50;Pagamento;61056461;Fabia reginar zys de oliveira;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 11:26;Pagamento;39778846;Carolina Barcelos;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 11:26;Pagamento;39398439;Ana Paula  Sigarini Garcia;0,00;1;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 11:37;Pagamento;43001743;Denise  Delamare;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 12:14;Pagamento;79759636;Luciana Duarte;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 12:45;Pagamento;78327695;Maria Fernanda Facio;59,00;1;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;64,00;0,00;0,00;0,00;0,00;0,00;0,00;64,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 13:17;Pagamento;79739952;Marilene oliveira hiller;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 13:21;Pagamento;41103685;Roseli da Cunha Macedo hiller;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 13:28;Pagamento;67337961;Randara Ferreira;30,00;2;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;0,00;35,00;0,00;0,00;0,00;0,00;0,00;35,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 13:45;Pagamento;46940461;Vitria Mesquita Corra da Costa Cruz;118,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;118,00;0,00;0,00;0,00;0,00;0,00;0,00;118,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 14:13;Pagamento;39873527;Maria Tereza Santana;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Karine de Magalhes Silva;No Emitida
+02/12/2025;02/12/2025 14:39;Pagamento;66386582;Leila dileia grutka menegheti radis;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 14:56;Pagamento;51884157;priscilla hiller;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;59,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 15:06;Pagamento;68320023;Giselle Ftima da Silva;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 15:19;Pagamento;46436906;Ana Luiza;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 15:31;Pagamento;51319025;sueli neres;50,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;50,00;0,00;0,00;0,00;0,00;50,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 15:49;Pagamento;79739952;Marilene oliveira hiller;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;100,00;0,00;0,00;-41,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 16:22;Pagamento;57999764;modelo;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-59,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Kamilly Rosa dos Santos Sampaio;No Emitida
+02/12/2025;02/12/2025 16:30;Pagamento;50096284;Dione Duarte;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;59,00;0,00;0,00;59,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 17:26;Pagamento;41665670;Letcia da Silva pardo Paiva;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 17:36;Pagamento;45411045;Marceli Gomes de Oliveira;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;45,00;0,00;0,00;45,00;Jlia Moraes dos Santos;No Emitida
+02/12/2025;02/12/2025 18:02;Pagamento;42168146;Telma Carvalho Leite Pinho;59,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Kamilly Rosa dos Santos Sampaio;No Emitida
+02/12/2025;02/12/2025 18:04;Pagamento;43084925;Deisy Okamura;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Kamilly Rosa dos Santos Sampaio;No Emitida
+02/12/2025;02/12/2025 18:12;Pagamento;41643639;talita meurer alberti;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Kamilly Rosa dos Santos Sampaio;No Emitida
+18/11/2025;02/12/2025 18:44;Pagamento;39873527;Maria Tereza Santana;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Kamilly Rosa dos Santos Sampaio;No Emitida
+02/12/2025;02/12/2025 18:44;Pagamento;62826617;Wesllayne kelly freitas redeZ;89,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-89,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Kamilly Rosa dos Santos Sampaio;No Emitida
+02/12/2025;02/12/2025 19:05;Pagamento;43221542;Juliana Fernandes;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;105,00;0,00;0,00;-30,00;0,00;75,00;Kamilly Rosa dos Santos Sampaio;No Emitida

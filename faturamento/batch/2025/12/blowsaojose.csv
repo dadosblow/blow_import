@@ -1,0 +1,94 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Motivo Desconto;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe
+01/12/2025;01/12/2025 07:56;Pagamento;79559421;Jaqueline Jaracescki;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 08:38;Pagamento;73273162;Micaelle Espindola;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 08:57;Pagamento;71189180;Francielle branco;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 10:19;Pagamento;74534416;Natana Chiamulera;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 10:28;Pagamento;79519253;Lusania Peres Krs da Silva;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 11:47;Pagamento;74814864;Luana de Sousa da Silva;125,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;125,00;0,00;0,00;0,00;0,00;0,00;125,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 11:52;Pagamento;73199956;noeli Freiberger;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 12:14;Pagamento;73380461;Carolina quintana guedes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 12:21;Pagamento;79707015;Rosangela Neckel;145,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;145,00;0,00;0,00;0,00;0,00;0,00;0,00;145,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 12:26;Pagamento;75710960;Mariah de jesus;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;95,00;0,00;0,00;0,00;0,00;0,00;95,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 12:56;Pagamento;71385158;Mariah Caciatore;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 12:59;Pagamento;79622862;Cludia Mrcia Muniz Da Silva;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 13:06;Pagamento;76853361;Maria Cristina;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 13:46;Pagamento;79607134;Beatriz aparecida sagaz;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:03;Pagamento;79711235;Martha Pereira;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;65,00;0,00;0,00;0,00;0,00;0,00;65,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:13;Pagamento;71189769;Rafaela Vazquez;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:14;Pagamento;72817552;Izabel dos Anjos Martins;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:14;Pagamento;71052761;Juliana Helena dos Santos;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:15;Pagamento;71029327;Jessica Sales Fraga Ramos;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:16;Pagamento;72835222;Paola f vieira;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:16;Pagamento;72276079;Nicole vicente borsa;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:17;Pagamento;71678704;Andreza Dalla Costa;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:17;Pagamento;75886910;Flavia Machado;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:18;Pagamento;71621946;Aliny Abreu Zilli;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:18;Pagamento;78397360;Fbia Porto;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:35;Pagamento;75475856;fernanda gerber ramos;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;75,00;0,00;0,00;0,00;0,00;0,00;0,00;75,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 14:59;Pagamento;72011469;Zenita Camargo Siebert;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;01/12/2025 16:15;Pagamento;71852511;Deise Marli dos Santos clasen;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Bruna nascimento;No Emitida
+01/12/2025;01/12/2025 16:16;Pagamento;72724837;Vanessa Fornazari Nunes;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 16:22;Pagamento;74220075;Rosangela do sesc;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 16:27;Pagamento;74291127;Fabiana Simas da Silva Batista;65,00;2;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;70,00;0,00;0,00;0,00;0,00;0,00;70,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 16:51;Pagamento;75491919;Jerusa Dina Furlani;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 16:52;Pagamento;71007667;Micheli Alves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 17:35;Pagamento;75285604;Nara livia Coelho de Oliveira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 17:47;Pagamento;74150604;Yasmine Lacerda;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 17:56;Pagamento;75908806;Andreza Clasen;0,00;0;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Bruna nascimento;No Emitida
+01/12/2025;01/12/2025 18:06;Pagamento;79710618;Patrine Rodrigues;55,00;1;79,90;1;0,00;0;0,00;0,00;0;0,00;0,00;;134,90;0,00;0,00;0,00;0,00;0,00;0,00;134,90;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 18:07;Pagamento;76452774;JESSICA MARTINS;0,00;0;79,90;1;0,00;0;0,00;0,00;0;0,00;0,00;;79,90;0,00;0,00;0,00;0,00;0,00;0,00;79,90;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 18:16;Pagamento;71401738;Nlli Musiat;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 18:40;Pagamento;74991865;Tatiana Glavam Silveira;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 19:15;Pagamento;71441185;Bruna nascimento;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-85,00;Bruna/familia;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 19:28;Pagamento;76567437;Larissa Ferreira;135,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;135,00;0,00;0,00;135,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 19:29;Pagamento;75908806;Andreza Clasen;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Lissandra Vargas Dias - So Jos;No Emitida
+01/12/2025;01/12/2025 19:43;Pagamento;79740198;Simone Savoldi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 08:15;Pagamento;74240310;Lisiane Foleto Iochims;115,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;115,00;0,00;0,00;0,00;0,00;0,00;0,00;115,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 08:44;Pagamento;73196742;Andressa Ribeiro;85,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 09:30;Pagamento;79746309;Christina Casarin;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 10:00;Pagamento;74727605;Paolla vidal;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 10:30;Pagamento;79741319;Danielle Pereira Batista;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 10:51;Pagamento;72468214;Bianca  Martins;60,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;60,00;0,00;0,00;0,00;0,00;0,00;0,00;60,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 11:26;Pagamento;73489231;Francielle Macari;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-45,00;Aniversrio scia do clube;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 12:02;Pagamento;77478249;Maria Isabela Fraga Barbi;110,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;110,00;0,00;0,00;0,00;0,00;0,00;0,00;110,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 12:16;Pagamento;77211061;Natalia Perrone;110,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;110,00;0,00;0,00;0,00;0,00;0,00;0,00;110,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 12:41;Pagamento;73714832;Carolina Matos;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 12:43;Pagamento;78793144;Ariana Campos;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;65,00;0,00;0,00;0,00;0,00;0,00;0,00;65,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 12:48;Pagamento;79759220;eliane winter;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;55,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 12:51;Pagamento;79758867;fabiana costa da rocha;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;75,00;0,00;0,00;0,00;0,00;0,00;0,00;75,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 13:03;Pagamento;71797058;Tuani Custdio de Lima;135,00;4;0,00;0;0,00;0;0,00;0,00;0;0,00;-135,00;Bartender;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 13:35;Pagamento;74272443;rosalia colombi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 13:37;Pagamento;75025073;Luciana Cavazzola;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 13:39;Pagamento;73996034;Thalita Da silva Rodrigues Cardoso;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 13:41;Pagamento;71722388;Brbara Daniel Vieira;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;02/12/2025 13:48;Pagamento;75908806;Andreza Clasen;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Juliana Carvalho;No Emitida
+02/12/2025;02/12/2025 14:19;Pagamento;77221174;Dbora Piangers;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:22;Pagamento;79762113;Marcia Peri Guimares;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;85,00;0,00;0,00;0,00;0,00;85,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 14:23;Pagamento;73254517;Greyce Laurentino;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:31;Pagamento;73279466;Bianca Aparecida Atanazio Lopes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 14:40;Pagamento;71189769;Rafaela Vazquez;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:44;Pagamento;74885496;Dayana Souza de pinho;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:45;Pagamento;78507902;Mylene Ferreira;20,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;20,00;0,00;0,00;0,00;0,00;20,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:46;Pagamento;74216466;marla vargas;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:47;Pagamento;73108550;Marli beninca;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:48;Pagamento;74897053;Maria Edhuarda Alegri De Souza;0,00;0;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Tuani Custdio de Lima;No Emitida
+02/12/2025;02/12/2025 14:50;Pagamento;75695972;Joana muller;10,00;2;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;10,00;0,00;0,00;0,00;0,00;0,00;100,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 14:52;Pagamento;74770793;Dione Mafra;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 14:57;Pagamento;71596396;Jeana Maia;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Tuani Custdio de Lima;No Emitida
+01/12/2025;02/12/2025 15:19;Pagamento;72476681;Liana Gualberto;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-55,00;Influencer;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 15:20;Pagamento;73517698;Thialla lima;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;75,00;0,00;0,00;0,00;0,00;0,00;75,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 15:35;Pagamento;79564035;lucia Helena Marques;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 16:21;Pagamento;71862092;Marli t Vieira Kreusch;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 16:47;Pagamento;71594530;Aline Hoffmamm;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 16:57;Pagamento;79569002;Cynthia Raquel Ferraboli;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;Ajuste de Preo;0,00;39,00;0,00;0,00;0,00;0,00;0,00;39,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 17:00;Pagamento;75805962;Andreia Bertocco;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;Ajuste de Preo;0,00;39,00;0,00;0,00;0,00;0,00;0,00;39,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 17:11;Pagamento;79541188;Letcia Zanona;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-26,00;FR2;29,00;0,00;0,00;0,00;0,00;0,00;0,00;29,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 17:42;Pagamento;71710172;Grazieli Rosemeri da Conceio;40,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;40,00;0,00;0,00;0,00;0,00;0,00;0,00;40,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 18:17;Pagamento;71774885;Maria Coan Farias;55,00;1;95,90;1;0,00;0;0,00;0,00;0;0,00;0,00;;150,90;0,00;0,00;0,00;0,00;0,00;0,00;150,90;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 18:33;Pagamento;73318211;Ana marina buratto;55,00;1;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;60,00;0,00;0,00;0,00;0,00;0,00;0,00;60,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 18:48;Pagamento;77885323;Jessica Balbinot;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;65,00;0,00;0,00;65,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 18:52;Pagamento;71961843;Tainara Nbrega;10,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;10,00;0,00;0,00;0,00;0,00;0,00;10,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 19:39;Pagamento;79131839;STUDIO ARTHUR;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;15,00;40,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 19:42;Pagamento;71806330;Ludymila Schmitz;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 19:48;Pagamento;79156424;Nicoli Demarche;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;55,00;0,00;0,00;0,00;0,00;55,00;Lissandra Vargas Dias - So Jos;No Emitida
+02/12/2025;02/12/2025 19:50;Pagamento;73140354;Jana Mezzari;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Lissandra Vargas Dias - So Jos;No Emitida

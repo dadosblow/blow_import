@@ -1,0 +1,53 @@
+name: Download relatório comissões FULL parte 2
+
+permissions:
+  contents: write    # permite usar o GITHUB_TOKEN p/ push
+
+on:
+  schedule:
+    - cron: "40 3 * * *"   # 00:40 BRT (03:40 UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: blow-autopublish-main
+      cancel-in-progress: false
+
+    steps:
+      # 1) Checkout com histórico completo
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0              # <<< importante
+          persist-credentials: true   # usa GITHUB_TOKEN para push
+
+      # 2) Rode seu script normalmente
+      - name: Setup Python and run script
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+          python dRelatorioComissoes_p2.py
+
+      # 3) Configura o Git no runner
+      - name: Config Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 4) Puxa a main remota antes de commitar (rebase)
+      - name: Rebase with remote main
+        run: |
+          git fetch origin main
+          git pull --rebase origin main || true
+
+      # 5) Commit só se houver mudanças
+      - name: Commit changes (if any)
+        run: |
+          git add -A
+          git commit -m "chore: autopublish $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+
+      # 6) Push para main
+      - name: Push to main
+        run: |
+          git push origin HEAD:main

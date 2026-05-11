@@ -1,0 +1,25 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe
+01/12/2025;01/12/2025 13:34;Pagamento;79703034;Maine Zamperlim;85,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Autoatendimento Americana;No Emitida
+01/12/2025;01/12/2025 13:46;Pagamento;79414326;Bruna Simeoni Boer;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+01/12/2025;01/12/2025 17:39;Pagamento;78225244;Thayane Cerquiare Businari Cerntola;40,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;40,00;0,00;0,00;40,00;Autoatendimento Americana;No Emitida
+01/12/2025;01/12/2025 18:25;Pagamento;77587849;Cibele Marino;10,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;10,00;0,00;0,00;0,00;0,00;10,00;Autoatendimento Americana;No Emitida
+01/12/2025;01/12/2025 18:27;Pagamento;79734490;KACYUMARA;75,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;0,00;83,00;0,00;0,00;0,00;0,00;0,00;83,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 08:53;Pagamento;79494951;Mariana Nascimento Ramos;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 09:32;Pagamento;77687670;Gabrielly Antunes;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 10:15;Pagamento;79487904;Thais Beraldo;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 10:19;Pagamento;79751103;Maria Lcia Soldera;75,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;83,00;0,00;0,00;0,00;0,00;0,00;0,00;83,00;Autoatendimento Americana;Emitida
+02/12/2025;02/12/2025 10:26;Pagamento;78264089;Maria Eduarda Chagas;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-95,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 10:32;Pagamento;77647908;Leandra Isis Vicozo;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;35,00;0,00;-10,00;0,00;0,00;0,00;35,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 10:34;Pagamento;79452176;Natlia Villagelin;59,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;59,00;0,00;0,00;0,00;0,00;0,00;59,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 11:48;Pagamento;79755093;Daniela Nardelice Rodrigues;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 12:49;Pagamento;79163922;SIMONE SACILOTTO;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;45,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 13:41;Pagamento;77590483;Daniela Barbosa;105,00;4;58,90;1;0,00;0;0,00;0,00;0;0,00;-163,90;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 13:57;Pagamento;79760856;Ketty Pisoni;95,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;95,00;0,00;0,00;0,00;0,00;0,00;95,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 14:21;Pagamento;79157626;Rhanna Costa;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 16:55;Pagamento;78916371;Natalia Damasceno;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-45,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 17:18;Pagamento;79678451;Aline Santos;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;0,00;0,00;0,00;0,00;45,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 18:06;Pagamento;79704212;MARIANA DOS SANTOS;90,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 18:57;Pagamento;77190003;Ana Yara;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 18:58;Pagamento;78537960;Ana yara dos Santos lima;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 18:58;Pagamento;79566655;Eduarda Lima Torres;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida
+02/12/2025;02/12/2025 19:01;Pagamento;79605899;Carla Saltorelli;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Autoatendimento Americana;No Emitida

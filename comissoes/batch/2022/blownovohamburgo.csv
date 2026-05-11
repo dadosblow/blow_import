@@ -1,0 +1,464 @@
+Atendimento/Venda;Pagamento / Estorno;Data de Liberaçao da Comissão;Profissional;Assistente;Serviço/Produto/Pacote;Categoria;Consumo de Pacote;Cliente;CPF;Valor;Desconto Cliente;Pago em;Motivo de Desconto;Desconto Operadora;Custo operacional;Valor Base Comissão;% Comissão;Valor Comissão;Quem registrou a transação;Comissão Para
+10/12/2022;09/12/2022 18:48;09/12/2022;007 bLOw da vez;;Leave In Brilho Blow Lab 150ml;Finalizador;NÃO;fernanda Baptista;;75,90;0,00;Maestro/Redeshop;;0,00;0,00;75,90;5,00;3,80;Carol;Profissional
+10/12/2022;09/12/2022 18:48;09/12/2022;007 bLOw da vez;;Leave In Brilho Blow Lab 150ml;Finalizador;NÃO;fernanda Baptista;;75,90;0,00;Maestro/Redeshop;;0,00;0,00;75,90;5,00;3,80;Carol;Profissional
+10/12/2022;10/12/2022 09:13;10/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Raquel Reis;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 10:22;10/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Priscila Grahl;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 10:55;10/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Vanessa Bueno Valério;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 11:36;10/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Leticia Ferreira;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 13:17;10/12/2022;007 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Estela Bernardino Schneider;;30,00;0,00;Maestro/Redeshop;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+10/12/2022;10/12/2022 13:17;10/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Estela Bernardino Schneider;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 13:23;10/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michele Dupont;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:03;10/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Karla Spalging;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:03;10/12/2022;018 Blow da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Karla Spalging;;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:03;10/12/2022;018 Blow da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Karla Spalging;;50,00;0,00;Visa Electron;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:03;10/12/2022;011 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Leandro Luiz Lamb;;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:25;10/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fabiula Pacheco;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:58;10/12/2022;018 Blow da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Carmen Suzana Arruda;;10,00;0,00;Visa;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:58;10/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Carmen Suzana Arruda;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:58;10/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carmen Suzana Arruda;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 14:59;10/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Kerolyn Correa;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 15:17;10/12/2022;011 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Andiara Pereira;026.870.090-75;65,00;0,00;Maestro/Redeshop;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+10/12/2022;10/12/2022 15:53;10/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria Luiza Hoefel;040.873.020-08;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 16:24;10/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Edna Moraes;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 16:24;10/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Edna Moraes;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+10/12/2022;10/12/2022 16:24;10/12/2022;011 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Edna Moraes;;10,00;0,00;Visa;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+10/12/2022;10/12/2022 16:27;10/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maitê Scarssi;004.091.130-69;45,00;0,00;Elo Crédito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 16:27;10/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Maitê Scarssi;004.091.130-69;20,00;0,00;Elo Crédito;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+10/12/2022;10/12/2022 17:05;10/12/2022;018 Blow da vez;;Mascara bLOnd Blow Lab 200gr;Máscara;NÃO;lisete da rosa;;95,90;0,00;Mastercard;;0,00;0,00;95,90;5,00;4,80;Andreia;Profissional
+10/12/2022;10/12/2022 17:15;10/12/2022;009 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;DANIELLE PEREIRA;834.184.310-20;65,00;0,00;Visa;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+10/12/2022;10/12/2022 17:32;10/12/2022;018 Blow da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Bianca W. Schmidt;030.931.020-22;10,00;0,00;Dinheiro, Crédito de Cliente, Dinheiro;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+10/12/2022;10/12/2022 17:32;10/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bianca W. Schmidt;030.931.020-22;45,00;0,00;Dinheiro, Crédito de Cliente, Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 17:32;10/12/2022;018 Blow da vez;;Mascara de Hidratacao Blow Lab 200gr;Máscara;NÃO;Bianca W. Schmidt;030.931.020-22;85,90;0,00;Dinheiro, Crédito de Cliente, Dinheiro;;0,00;0,00;85,90;5,00;4,30;Andreia;Profissional
+10/12/2022;10/12/2022 17:32;10/12/2022;018 Blow da vez;;Shampoo Brilho Blow Lab 250ml;Shampoo;NÃO;Bianca W. Schmidt;030.931.020-22;49,90;0,00;Dinheiro, Crédito de Cliente, Dinheiro;;0,00;0,00;49,90;5,00;2,50;Andreia;Profissional
+10/12/2022;10/12/2022 17:34;10/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cássia Trott;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 18:55;10/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carolina Cyrillo;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 18:55;10/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Carolina Cyrillo;;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+10/12/2022;10/12/2022 19:03;10/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bianca W. Schmidt;030.931.020-22;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 19:04;10/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Scheron Pipoca;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+10/12/2022;10/12/2022 19:04;10/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Scheron Pipoca;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+11/12/2022;11/12/2022 12:48;11/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela Mattos;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+11/12/2022;11/12/2022 14:10;11/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Giovana Schirmer santos;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+11/12/2022;11/12/2022 15:59;11/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Missali Cristine Dieter;;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+11/12/2022;11/12/2022 15:59;11/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Missali Cristine Dieter;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+11/12/2022;11/12/2022 15:59;11/12/2022;007 bLOw da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Missali Cristine Dieter;;39,90;0,00;Maestro/Redeshop;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+11/12/2022;11/12/2022 17:37;11/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Camile Moreira Alves;586.807.560-91;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+11/12/2022;11/12/2022 17:37;11/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Camile Moreira Alves;586.807.560-91;20,00;0,00;Mastercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+11/12/2022;11/12/2022 17:37;11/12/2022;009 bLOw da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Camile Moreira Alves;586.807.560-91;39,90;0,00;Mastercard;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+12/12/2022;12/12/2022 10:54;12/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marischel Ochoa;009.047.420-16;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 11:42;12/12/2022;018 Blow da vez;;bLOw com Mega;bLOw (escova);NÃO;Cláudia Werlang;;65,00;0,00;Visa;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+12/12/2022;12/12/2022 11:42;12/12/2022;018 Blow da vez;;Agua sem gas;Bar;NÃO;Cláudia Werlang;;5,00;0,00;Visa;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+12/12/2022;12/12/2022 12:48;12/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Eloisa Helena de Oliveira;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+12/12/2022;12/12/2022 12:48;12/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Eloisa Helena de Oliveira;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 12:48;12/12/2022;007 bLOw da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Eloisa Helena de Oliveira;;39,90;0,00;Visa;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+12/12/2022;12/12/2022 14:37;12/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Poliana poravoski;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 15:53;12/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Patricia Semensatto de Lima;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 15:53;12/12/2022;018 Blow da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Patricia Semensatto de Lima;;50,00;0,00;Visa;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+12/12/2022;12/12/2022 15:53;12/12/2022;018 Blow da vez;;Leave In Brilho Blow Lab 150ml;Finalizador;NÃO;Patricia Semensatto de Lima;;75,90;0,00;Visa;;0,00;0,00;75,90;5,00;3,80;Andreia;Profissional
+12/12/2022;12/12/2022 16:44;12/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;tais machado;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 17:39;12/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Daniela Muller;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 17:39;12/12/2022;018 Blow da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Daniela Muller;;39,90;0,00;Visa Electron;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+12/12/2022;12/12/2022 19:33;12/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carol Bertuol;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 20:23;12/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Evelin Rohr Arruda;;45,00;0,00;Maestro/Redeshop, Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+12/12/2022;12/12/2022 20:23;12/12/2022;018 Blow da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Evelin Rohr Arruda;;50,00;0,00;Maestro/Redeshop, Dinheiro;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+12/12/2022;12/12/2022 20:23;12/12/2022;018 Blow da vez;;Mascara de Hidratacao Blow Lab 200gr;Máscara;NÃO;Evelin Rohr Arruda;;85,90;0,00;Maestro/Redeshop, Dinheiro;;0,00;0,00;85,90;5,00;4,30;Andreia;Profissional
+12/12/2022;12/12/2022 20:23;12/12/2022;018 Blow da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Evelin Rohr Arruda;;39,90;0,00;Maestro/Redeshop, Dinheiro;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+12/12/2022;16/12/2022 14:05;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cinthia Elisabet Ribeiro do Amaral;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+12/12/2022;16/12/2022 14:05;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Cinthia Elisabet Ribeiro do Amaral;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+12/12/2022;16/12/2022 14:14;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;ketlen;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+12/12/2022;16/12/2022 14:14;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;ketlen;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+12/12/2022;16/12/2022 14:16;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Andreia Terezinha Timm;031.803.359-39;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+12/12/2022;16/12/2022 14:16;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+12/12/2022;18/12/2022 10:56;18/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;rafael medeiros Bandeira Von Wurmb;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+12/12/2022;18/12/2022 10:56;18/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;rafael medeiros Bandeira Von Wurmb;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 09:24;13/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana ewerling;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 09:24;13/12/2022;018 Blow da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Mariana ewerling;;50,00;0,00;Mastercard;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+13/12/2022;13/12/2022 09:24;13/12/2022;018 Blow da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Mariana ewerling;;10,00;0,00;Mastercard;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+13/12/2022;13/12/2022 12:22;13/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Amanda Encina;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 13:55;13/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maiara Borges;023.500.060-42;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 13:55;13/12/2022;011 bLOw da vez;;soma Mega/ Extensão;Outros adicionais diferentes de tratamento;NÃO;Maiara Borges;023.500.060-42;20,00;0,00;Maestro/Redeshop;;0,00;-2,00;20,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 13:55;13/12/2022;011 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Maiara Borges;023.500.060-42;30,00;0,00;Maestro/Redeshop;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+13/12/2022;13/12/2022 15:15;13/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Patricia Auler;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 15:15;13/12/2022;018 Blow da vez;;Happy Hour - Nutrição;Tratamentos;NÃO;Patricia Auler;;30,00;0,00;PIX;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+13/12/2022;13/12/2022 16:30;13/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Graciele Santos da Rosa;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 16:44;13/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Vanessa Zang;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 19:42;13/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Débora Lahm;936.302.470-91;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;13/12/2022 19:42;13/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Débora Lahm;936.302.470-91;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+13/12/2022;13/12/2022 19:42;13/12/2022;011 bLOw da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Débora Lahm;936.302.470-91;39,90;0,00;Visa Electron;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+13/12/2022;15/12/2022 15:15;15/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Andreia Terezinha Timm;031.803.359-39;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+13/12/2022;15/12/2022 15:15;15/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+13/12/2022;15/12/2022 15:20;15/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Iveti mãe dani;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+13/12/2022;15/12/2022 15:20;15/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Iveti mãe dani;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:16;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Jessica;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:16;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Jessica;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:17;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;ketlen;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:17;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;ketlen;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:17;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Kauane;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:17;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Kauane;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:18;16/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;elisangela garcia;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+13/12/2022;16/12/2022 14:18;16/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;elisangela garcia;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+13/12/2022;18/12/2022 14:46;18/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Eduardo Santanna;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+13/12/2022;18/12/2022 14:46;18/12/2022;018 Blow da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Eduardo Santanna;;10,00;0,00;;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+13/12/2022;18/12/2022 14:46;18/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Eduardo Santanna;;45,00;0,00;;;0,00;-1,00;45,00;70,00;30,50;Andreia;Profissional
+14/12/2022;14/12/2022 07:53;14/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Daniela Mello;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 09:45;14/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fabiula Pacheco;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 09:45;14/12/2022;011 bLOw da vez;;Happy Hour - Nutrição;Tratamentos;NÃO;Fabiula Pacheco;;30,00;0,00;Maestro/Redeshop;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+14/12/2022;14/12/2022 11:50;14/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Gabriela Neves;033.131.710-95;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 11:52;14/12/2022;018 Blow da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Ingrid Dal Sasso;;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+14/12/2022;14/12/2022 11:52;14/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ingrid Dal Sasso;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 14:54;14/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luana Marques;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 14:54;14/12/2022;011 bLOw da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Luana Marques;;50,00;0,00;Maestro/Redeshop;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+14/12/2022;14/12/2022 15:43;14/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Solange Mezzomo Konarzewski;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+14/12/2022;14/12/2022 15:43;14/12/2022;009 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Solange Mezzomo Konarzewski;;10,00;0,00;Visa;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+14/12/2022;14/12/2022 15:43;14/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Solange Mezzomo Konarzewski;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 16:26;14/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Cláudia Bondan Reinehr;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 16:26;14/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Ana Cláudia Bondan Reinehr;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+14/12/2022;14/12/2022 16:39;14/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Kátia Regina Klein;473.261.400-06;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 16:39;14/12/2022;018 Blow da vez;;Happy Hour - Detox;Tratamentos;NÃO;Kátia Regina Klein;473.261.400-06;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+14/12/2022;14/12/2022 17:46;14/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Melissa  Fleck;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 17:46;14/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Melissa  Fleck;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+14/12/2022;14/12/2022 17:46;14/12/2022;018 Blow da vez;;Shampoo Detox bLOw Lab 250ml;Shampoo;NÃO;Melissa  Fleck;;55,90;0,00;Visa;;0,00;0,00;55,90;5,00;2,80;Andreia;Profissional
+14/12/2022;14/12/2022 17:46;14/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Leila Daniele Garcia;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;14/12/2022 19:05;14/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Camilla Ourique Severo;013.075.060-38;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;18/12/2022 10:36;18/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;joseane kirch;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;18/12/2022 10:36;18/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;joseane kirch;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+14/12/2022;18/12/2022 10:39;18/12/2022;018 Blow da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;elisangela garcia;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+14/12/2022;18/12/2022 10:39;18/12/2022;018 Blow da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;elisangela garcia;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+15/12/2022;15/12/2022 07:47;15/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marina Luiza Stoffel Leist;031.727.380-94;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 10:31;15/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Eliana Wilhelm;926.344.510-91;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 10:31;15/12/2022;009 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Eliana Wilhelm;926.344.510-91;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+15/12/2022;15/12/2022 11:23;15/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Sofia Olivera;059.767.420-50;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 13:46;15/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cláudia Ludwig Klein;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 14:02;15/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Kelly Rellinger;024.495.960-97;20,00;0,00;PIX;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+15/12/2022;15/12/2022 14:02;15/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Kelly Rellinger;024.495.960-97;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 14:02;15/12/2022;007 bLOw da vez;;Agua com gas;Bar;NÃO;Kelly Rellinger;024.495.960-97;5,00;0,00;PIX;;0,00;0,00;5,00;0,00;0,00;Daniela;Profissional
+15/12/2022;15/12/2022 15:51;15/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Pamela Quadros;025.652.320-71;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 15:51;15/12/2022;009 bLOw da vez;;Agua sem gas;Bar;NÃO;Pamela Quadros;025.652.320-71;5,00;0,00;Maestro/Redeshop;;0,00;0,00;5,00;0,00;0,00;Daniela;Profissional
+15/12/2022;15/12/2022 16:22;15/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Paula L. Jung;818.971.380-91;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 16:30;15/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Aline Jaeger;969.236.600-68;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 16:30;15/12/2022;015;;Agua com gas;Bar;NÃO;Aline Jaeger;969.236.600-68;5,00;0,00;Maestro/Redeshop;;0,00;0,00;5,00;0,00;0,00;Daniela;Profissional
+15/12/2022;15/12/2022 16:59;15/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ananda Crichna  Silva;011.806.550-52;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 17:04;15/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Priscila Ledur;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 17:04;15/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Priscila Ledur;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 17:45;15/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michele Dupont;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+15/12/2022;15/12/2022 17:45;15/12/2022;015;;Touca De Blow em Blow;Acessórios Revenda;NÃO;Michele Dupont;;35,90;0,00;Dinheiro;;0,00;0,00;35,90;5,00;1,80;Daniela;Profissional
+15/12/2022;15/12/2022 18:05;15/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Cássia Petry;;65,00;0,00;Maestro/Redeshop;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+15/12/2022;15/12/2022 18:30;15/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Francine Sbroglio;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 18:30;15/12/2022;011 bLOw da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Francine Sbroglio;;50,00;0,00;Maestro/Redeshop;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+15/12/2022;15/12/2022 18:48;15/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Carla Fernandes;;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+15/12/2022;15/12/2022 18:48;15/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carla Fernandes;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 19:08;15/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luane Henrich;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+15/12/2022;15/12/2022 19:56;15/12/2022;011 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Júlia schuch;;30,00;0,00;Visa;;0,00;-6,00;30,00;70,00;15,00;Jose;Profissional
+15/12/2022;15/12/2022 19:56;15/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Júlia schuch;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Jose;Profissional
+15/12/2022;15/12/2022 20:20;15/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maitê Scarssi;004.091.130-69;45,00;0,00;Elo Crédito;;0,00;-19,50;45,00;70,00;12,00;Jose;Profissional
+16/12/2022;16/12/2022 09:00;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Tatiane Kunzler;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 09:32;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Chaiane De lima;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 10:19;16/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Viviane Braga;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 10:29;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carine Moraes;015.146.190-24;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 10:57;16/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Paulinha Moraes;886.898.160-20;65,00;0,00;Maestro/Redeshop;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+16/12/2022;16/12/2022 11:16;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria de Fátima Feix da Luz;490.731.410-87;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 12:24;16/12/2022;011 bLOw da vez;;Happy Hour - Detox;Tratamentos;NÃO;Jaqueline Barilli;;20,00;0,00;Hipercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+16/12/2022;16/12/2022 12:24;16/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Jaqueline Barilli;;45,00;0,00;Hipercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 12:43;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cristiane Cardoso;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 12:49;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Vanessa dos Santos Leal;;45,00;0,00;Elo Débito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 13:13;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Lisiane sesterrem;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 13:25;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Paulinha Paim;839.044.680-49;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 13:33;16/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Sofia Olivera;059.767.420-50;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 14:12;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Katiéle Schöenardie;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+16/12/2022;16/12/2022 14:12;16/12/2022;009 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Katiéle Schöenardie;;30,00;0,00;Dinheiro;;0,00;-6,00;30,00;70,00;15,00;Daniela;Profissional
+16/12/2022;16/12/2022 15:11;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ina Rocha;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 15:40;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fabiane Gomes Carlos;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 15:40;16/12/2022;015;;Happy Hour - Blond;Tratamentos;NÃO;Fabiane Gomes Carlos;;30,00;0,00;Mastercard;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:13;16/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Andréia Bauer;;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:13;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andréia Bauer;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:33;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Julia Schenkel;;45,00;0,00;Elo Débito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:41;16/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria Aparecida Cidade;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:41;16/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Maria Aparecida Cidade;;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:41;16/12/2022;011 bLOw da vez;;Agua com gas;Bar;NÃO;Maria Aparecida Cidade;;5,00;0,00;Maestro/Redeshop;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+16/12/2022;16/12/2022 16:58;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Munira Lima;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 17:46;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Gabriela Ferraz;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 17:46;16/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Gabriela Ferraz;;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+16/12/2022;16/12/2022 17:49;16/12/2022;011 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Catiane Ribas;;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+16/12/2022;16/12/2022 17:49;16/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Catiane Ribas;;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+16/12/2022;16/12/2022 17:49;16/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Catiane Ribas;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 17:50;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela  Goldoni;022.019.700-84;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 18:23;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Débora Lahm;936.302.470-91;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 18:31;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Carolina Cruz;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 18:31;16/12/2022;009 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Ana Carolina Cruz;;10,00;0,00;Mastercard;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+16/12/2022;16/12/2022 18:31;16/12/2022;009 bLOw da vez;;Agua sem gas;Bar;NÃO;Ana Carolina Cruz;;5,00;0,00;Mastercard;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+16/12/2022;16/12/2022 18:48;16/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Victoria celistre;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 19:04;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luciane De Negri;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 19:20;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marilene de Quadro;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 20:07;16/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Vanessa Bueno Valério;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+16/12/2022;16/12/2022 20:08;16/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana ewerling;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 09:26;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Stéfani Coelho;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 10:06;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria Eduarda Gründling Teixeira;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 10:06;17/12/2022;015;;Happy Hour - Detox;Tratamentos;NÃO;Maria Eduarda Gründling Teixeira;;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+17/12/2022;17/12/2022 10:09;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Adronisia Camara Ochoa;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 10:12;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fabiula Pacheco;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 10:13;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marischel Ochoa;009.047.420-16;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 11:12;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ane Kirsten;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 11:17;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Juliana Anschau França;009.286.860-60;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 11:42;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fernanda giusto;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 12:14;17/12/2022;011 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Solange Mezzomo Konarzewski;;10,00;0,00;Visa;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+17/12/2022;17/12/2022 12:14;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Solange Mezzomo Konarzewski;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 12:41;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Anaí Grings;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 12:42;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 13:53;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Karina S. Spessato;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 14:05;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana Rossi Wosiack;008.012.580-81;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 14:10;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Paulinha Paim;839.044.680-49;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 14:10;17/12/2022;007 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Paulinha Paim;839.044.680-49;30,00;0,00;Visa;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+17/12/2022;17/12/2022 15:31;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Greice kologeski;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 15:31;17/12/2022;009 bLOw da vez;;Touca de Cetim;Acessórios Revenda;NÃO;Greice kologeski;;39,90;0,00;Mastercard;;0,00;0,00;39,90;5,00;2,00;Andreia;Profissional
+17/12/2022;17/12/2022 15:32;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Paola Sandri Groehs;021.735.020-85;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 15:32;17/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Paola Sandri Groehs;021.735.020-85;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+17/12/2022;17/12/2022 15:43;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;GABRIELA ANSCHAU;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 16:07;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marielle Rangel;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 16:18;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Alessandra da Silva Medeiros;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 16:33;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Julia Schenkel;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 16:40;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Giovanna Nitz;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 16:42;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Agatha Gabriela  Vieira;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 16:42;17/12/2022;011 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Agatha Gabriela  Vieira;;30,00;0,00;Mastercard;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+17/12/2022;17/12/2022 17:12;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Luiza Alievi Zimmer;047.776.680-37;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 17:23;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Sabrina Farias Araujo;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 17:24;17/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ingrid Dal Sasso;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 17:28;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Vera L P Soares;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 17:44;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Brenda Menezes;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 18:37;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Victória Morales;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 18:38;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Alzira Machado;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 18:57;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Leandra Galeazzi;603.649.200-68;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 19:16;17/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Manuela de Oliveira;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 19:37;17/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Antônia Stangherlin;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+17/12/2022;17/12/2022 19:50;17/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;INGRID RUSCHEL COIMBRA;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+18/12/2022;18/12/2022 10:48;18/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Priscila Waszak;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+18/12/2022;18/12/2022 10:51;18/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bruna Rabaioli;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+18/12/2022;18/12/2022 13:37;18/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Eduarda Talaska;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+18/12/2022;18/12/2022 16:11;18/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Dinora Elisete dos Santos Pimentel;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+18/12/2022;18/12/2022 16:11;18/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Dinora Elisete dos Santos Pimentel;;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+18/12/2022;18/12/2022 16:41;18/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Natália Koefender Nienow;;65,00;0,00;Visa;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+18/12/2022;18/12/2022 17:50;18/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cleciane Silva;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+19/12/2022;19/12/2022 08:56;19/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela wecker;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+19/12/2022;19/12/2022 10:38;19/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ângela Matielli Frühauf;017.305.890-65;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+19/12/2022;19/12/2022 13:59;19/12/2022;007 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Luciana  Brentano;;65,00;0,00;Mastercard;;0,00;-21,50;65,00;70,00;24,00;Daniela;Profissional
+19/12/2022;19/12/2022 16:47;19/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Jasmine Martins;019.314.570-77;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+19/12/2022;19/12/2022 16:47;19/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Jasmine Martins;019.314.570-77;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Daniela;Profissional
+19/12/2022;19/12/2022 16:47;19/12/2022;007 bLOw da vez;;Serum bLOw Lab 50ml;Finalizador;NÃO;Jasmine Martins;019.314.570-77;65,90;0,00;Maestro/Redeshop;;0,00;0,00;65,90;5,00;3,30;Daniela;Profissional
+19/12/2022;19/12/2022 17:33;19/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela amaral;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+19/12/2022;19/12/2022 18:02;19/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fernanda salgado;451.567.270-34;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+19/12/2022;19/12/2022 19:00;19/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carine Nipper;019.317.360-30;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+19/12/2022;19/12/2022 19:00;19/12/2022;007 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Carine Nipper;019.317.360-30;30,00;0,00;Visa Electron;;0,00;-6,00;30,00;70,00;15,00;Daniela;Profissional
+19/12/2022;19/12/2022 19:34;19/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carmen Beatriz Marchini;288.033.020-34;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Daniela;Profissional
+20/12/2022;20/12/2022 09:38;20/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana ewerling;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 09:38;20/12/2022;011 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Mariana ewerling;;30,00;0,00;PIX;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+20/12/2022;20/12/2022 09:38;20/12/2022;011 bLOw da vez;;Leave In Brilho Blow Lab 150ml;Finalizador;NÃO;Mariana ewerling;;75,90;0,00;PIX;;0,00;0,00;75,90;5,00;3,80;Andreia;Profissional
+20/12/2022;20/12/2022 09:42;20/12/2022;007 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Paulinha Moraes;886.898.160-20;65,00;0,00;Visa Electron;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+20/12/2022;20/12/2022 11:16;20/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Cirana Koch;;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+20/12/2022;20/12/2022 11:16;20/12/2022;011 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Cirana Koch;;65,00;0,00;Dinheiro;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+20/12/2022;20/12/2022 13:31;20/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Janaina  Nunes;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 14:23;20/12/2022;007 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Carina Godoy;030.429.510-81;65,00;0,00;PIX;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+20/12/2022;20/12/2022 15:38;20/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maitê Scarssi;004.091.130-69;45,00;0,00;Elo Crédito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 16:35;20/12/2022;Blow 023;;bLOw com Mega;bLOw (escova);NÃO;Luana Marques;;65,00;0,00;Maestro/Redeshop;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+20/12/2022;20/12/2022 16:48;20/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michelle  Matos;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 16:48;20/12/2022;007 bLOw da vez;;Leave In Brilho Blow Lab 150ml;Finalizador;NÃO;Michelle  Matos;;75,90;0,00;Visa;;0,00;0,00;75,90;5,00;3,80;Andreia;Profissional
+20/12/2022;20/12/2022 17:18;20/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Isa França;051.298.900-19;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 17:33;20/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela amaral;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 18:00;20/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Meri Candioli;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 18:00;20/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Meri Candioli;;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+20/12/2022;20/12/2022 18:14;20/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Suzi Ilgenfritz;001.733.590-60;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 18:29;20/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Vitória Martins Cardoso;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 18:37;20/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Daiane Amaral;019.998.980-01;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 19:34;20/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Natalia Oliveira;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+20/12/2022;20/12/2022 19:54;20/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Lúcia Jotz;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 07:40;21/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Simone  Stoffel;658.046.600-63;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 08:49;21/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Viviane Braga;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 10:20;21/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 10:20;21/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Andreia Terezinha Timm;031.803.359-39;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+21/12/2022;21/12/2022 11:28;21/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Caroline Carvalho Andreatta;002.295.790-19;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 11:31;21/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;marli santana;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 13:07;21/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Aline capra;002.786.340-95;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 13:59;21/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Júlia gross;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 15:03;21/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Jaqueline Barilli;;45,00;0,00;Hipercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 15:12;21/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luana Fipke;024.443.220-10;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 15:12;21/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Luana Fipke;024.443.220-10;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+21/12/2022;21/12/2022 15:47;21/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Larissa Bordon Garcia;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 17:55;21/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Viviane Zimermann Heck;;45,00;0,00;Elo Débito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 18:12;21/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Bruna Lopes;852.906.705-30;20,00;0,00;Mastercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+21/12/2022;21/12/2022 18:12;21/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bruna Lopes;852.906.705-30;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 19:07;21/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Gabriela Zimmermann Prado Rodrigues;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 19:22;21/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Lidiele Oliveira;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+21/12/2022;21/12/2022 19:58;21/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Jessica Matos;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 08:47;22/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michele Ramos;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 08:56;22/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela wecker;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 08:56;22/12/2022;009 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Rafaela wecker;;10,00;0,00;Maestro/Redeshop;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+22/12/2022;22/12/2022 08:56;22/12/2022;009 bLOw da vez;;Agua sem gas;Bar;NÃO;Rafaela wecker;;5,00;0,00;Maestro/Redeshop;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+22/12/2022;22/12/2022 10:28;22/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;NANCY CARVALHO KERBER;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 10:28;22/12/2022;011 bLOw da vez;;Leave In Brilho Blow Lab 150ml;Finalizador;NÃO;NANCY CARVALHO KERBER;;75,90;0,00;Visa;;0,00;0,00;75,90;5,00;3,80;Andreia;Profissional
+22/12/2022;22/12/2022 11:16;22/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Daniela Roehe;732.899.730-34;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 11:20;22/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marischel Ochoa;009.047.420-16;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 11:20;22/12/2022;009 bLOw da vez;;Agua sem gas;Bar;NÃO;Marischel Ochoa;009.047.420-16;5,00;0,00;PIX;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+22/12/2022;22/12/2022 13:00;22/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luana lopes;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 13:00;22/12/2022;011 bLOw da vez;;Happy Hour - Nutrição;Tratamentos;NÃO;Luana lopes;;30,00;0,00;Mastercard;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+22/12/2022;22/12/2022 13:28;22/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Aline Jaeger;969.236.600-68;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 14:00;22/12/2022;015;;Happy Hour - Reconstrução;Tratamentos;NÃO;Ursula Dick;;50,00;0,00;Mastercard;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+22/12/2022;22/12/2022 14:00;22/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Ursula Dick;;65,00;0,00;Mastercard;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+22/12/2022;22/12/2022 15:23;22/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Esther Laux Gheno;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 15:23;22/12/2022;009 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Esther Laux Gheno;;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+22/12/2022;22/12/2022 15:23;22/12/2022;009 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Esther Laux Gheno;;30,00;0,00;Visa Electron;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+22/12/2022;22/12/2022 15:42;22/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria Cristina Jacobsen;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 17:02;22/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carmen Beatriz Marchini;288.033.020-34;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 17:06;22/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Jessica Kaiser;041.642.950-58;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 17:06;22/12/2022;015;;Happy Hour - Reconstrução;Tratamentos;NÃO;Jessica Kaiser;041.642.950-58;50,00;0,00;Mastercard;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+22/12/2022;22/12/2022 18:33;22/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria Aparecida Cidade;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 18:43;22/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Juliana Pinheiro;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;22/12/2022 19:35;22/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Sunny Calsing Duarte;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;23/12/2022 11:12;23/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Marielle Rangel;;45,00;-45,00;;Falha do profissional;0,00;-19,50;0,00;70,00;0,00;Andreia;Profissional
+22/12/2022;23/12/2022 11:38;23/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;joseane kirch;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+22/12/2022;23/12/2022 11:38;23/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;joseane kirch;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+23/12/2022;23/12/2022 08:57;23/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Eliane Rabelo;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 08:57;23/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Eliane Rabelo;;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+23/12/2022;23/12/2022 09:45;23/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Isabel Hoffmann;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 09:46;23/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 12:28;23/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;manoella moutinho;038.150.680-02;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 12:28;23/12/2022;007 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;manoella moutinho;038.150.680-02;20,00;0,00;Visa;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+23/12/2022;23/12/2022 12:54;23/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Natassja Nascimento;033.075.330-45;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 13:34;23/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cássia Trott;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 13:34;23/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Cássia Trott;;20,00;0,00;Mastercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+23/12/2022;23/12/2022 14:40;23/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Renata Rauber Martin;;45,00;0,00;Elo Crédito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 17:47;23/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bruna Quevedos dos Santos;042.154.100-88;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 17:50;23/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cris Dopke;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 17:50;23/12/2022;011 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Cris Dopke;;30,00;0,00;Mastercard;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+23/12/2022;23/12/2022 17:56;23/12/2022;009 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Caroline fischborn;027.570.500-52;65,00;0,00;Maestro/Redeshop;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+23/12/2022;23/12/2022 18:11;23/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Noeli Ribas  Ribas;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 18:21;23/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Merian  Candioli;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 18:47;23/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana Kulmann;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 19:13;23/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bruna Roriz;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 19:20;23/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Siluê Hoffmeister;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 19:31;23/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ângela Matielli Frühauf;017.305.890-65;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 20:15;23/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Patrícia Ana Neumann;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+23/12/2022;23/12/2022 20:17;23/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carina Henriques da Silva;960.182.910-53;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 09:02;24/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Kelly Rellinger;024.495.960-97;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 09:54;24/12/2022;011 bLOw da vez;;Happy Hour - Detox;Tratamentos;NÃO;Morgane Soares;;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+24/12/2022;24/12/2022 09:54;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Morgane Soares;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 09:54;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Morgane Soares;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 10:13;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela wecker;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 10:39;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Gabriela Neves;033.131.710-95;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 10:46;24/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;VANESSA EMILIANO DOS SANTOS;009.951.030-89;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 10:51;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Dinora Elisete dos Santos Pimentel;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:01;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Stael Amanda Arnold;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:01;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Stael Amanda Arnold;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:31;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;manoella moutinho;038.150.680-02;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:37;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;susi Nascimento;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:54;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela Froehlich Mestriner Fernandes;022.469.860-52;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:57;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Adriana de Britto;606.845.260-34;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:57;24/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Adriana de Britto;606.845.260-34;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+24/12/2022;24/12/2022 11:57;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Adriana de Britto;606.845.260-34;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 13:12;24/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Isadora bello ribeiro;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 13:16;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Paula Canette da Rosa;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 13:16;24/12/2022;011 bLOw da vez;;Happy Hour - Reconstrução;Tratamentos;NÃO;Ana Paula Canette da Rosa;;50,00;0,00;Visa;;0,00;-12,00;50,00;70,00;23,00;Andreia;Profissional
+24/12/2022;24/12/2022 13:16;24/12/2022;011 bLOw da vez;;Serum bLOw Lab 50ml;Finalizador;NÃO;Ana Paula Canette da Rosa;;65,90;0,00;Visa;;0,00;0,00;65,90;5,00;3,30;Andreia;Profissional
+24/12/2022;24/12/2022 14:11;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carol Bertuol;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 14:22;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Béverle Flores;;45,00;0,00;Elo Crédito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 14:39;24/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Méroli almeida;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 14:46;24/12/2022;007 bLOw da vez;;Agua sem gas;Bar;NÃO;Méroli almeida;;5,00;0,00;Dinheiro;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+24/12/2022;24/12/2022 15:20;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Natielle Machado;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:02;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Fernanda Brum;;45,00;0,00;Elo Crédito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:02;24/12/2022;Blow 023;;Happy Hour - Hidratação;Tratamentos;NÃO;Fernanda Brum;;20,00;0,00;Elo Crédito;;0,00;-1,00;20,00;100,00;19,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:15;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela wecker;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:31;24/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Priscila Grahl;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:42;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Carolina Levinski Venites;040.903.980-29;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:42;24/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Ana Carolina Levinski Venites;040.903.980-29;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+24/12/2022;24/12/2022 16:57;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Patricia Auler;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 17:00;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bruna Zottmann Jacobus;022.712.830-35;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 17:05;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Daiana kreuz;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 17:24;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Juliana Anschau França;009.286.860-60;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 17:52;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bárbara Laís Becker;022.788.260-18;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 17:58;24/12/2022;Blow 023;;Happy Hour - Blond;Tratamentos;NÃO;Ananda Crichna  Silva;011.806.550-52;30,00;0,00;Mastercard;;0,00;-6,00;30,00;100,00;24,00;Andreia;Profissional
+24/12/2022;24/12/2022 17:58;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ananda Crichna  Silva;011.806.550-52;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:00;24/12/2022;007 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Luana Marques;;65,00;0,00;Mastercard;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:00;24/12/2022;007 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Luana Marques;;10,00;0,00;Mastercard;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:09;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Eliane Kley;918.856.390-15;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:18;24/12/2022;015;;soma TOC;Outros adicionais diferentes de tratamento;NÃO;Júlia Taiana Schmidt;013.583.460-03;10,00;0,00;Visa;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:18;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Júlia Taiana Schmidt;013.583.460-03;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:27;24/12/2022;Blow 023;;Happy Hour - Hidratação;Tratamentos;NÃO;Juliana  Ostjen;;20,00;0,00;Mastercard, Dinheiro;;0,00;-1,00;20,00;100,00;19,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:27;24/12/2022;Blow 023;;Happy Hour - Hidratação;Tratamentos;NÃO;Juliana  Ostjen;;20,00;0,00;Mastercard, Dinheiro;;0,00;-1,00;20,00;100,00;19,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:27;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Juliana  Ostjen;;45,00;0,00;Mastercard, Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:27;24/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Juliana  Ostjen;;45,00;0,00;Mastercard, Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:47;24/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana Paula L. Jung;818.971.380-91;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 18:51;24/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaella Plangg Vier;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 19:15;24/12/2022;007 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;janislei bech;;30,00;0,00;Visa Electron;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+24/12/2022;24/12/2022 19:15;24/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;janislei bech;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+24/12/2022;24/12/2022 19:40;24/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Simone Schefer;008.272.720-14;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+26/12/2022;26/12/2022 11:41;26/12/2022;009 bLOw da vez;;bLOw com Mega;bLOw (escova);NÃO;Franciele Hennemann;;65,00;0,00;PIX;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+26/12/2022;26/12/2022 14:56;26/12/2022;Blow 023;;bLOw com Mega;bLOw (escova);NÃO;Ursula Dick;;65,00;0,00;Visa Electron;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+26/12/2022;26/12/2022 16:48;26/12/2022;007 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Cris Assmann;;30,00;0,00;Mastercard;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+26/12/2022;26/12/2022 16:48;26/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cris Assmann;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+26/12/2022;26/12/2022 17:38;26/12/2022;Blow 023;;Happy Hour - Blond;Tratamentos;NÃO;Maiara Borges;;30,00;0,00;Dinheiro;;0,00;-6,00;30,00;100,00;24,00;Andreia;Profissional
+26/12/2022;26/12/2022 17:38;26/12/2022;Blow 023;;bLOw com Mega;bLOw (escova);NÃO;Maiara Borges;;65,00;0,00;Dinheiro;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+27/12/2022;27/12/2022 10:04;27/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rita de Cassia Cardozo;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 10:04;27/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Rita de Cassia Cardozo;;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+27/12/2022;27/12/2022 10:42;27/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Anne Della Costa;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 10:51;27/12/2022;011 bLOw da vez;;Happy Hour - Nutrição;Tratamentos;NÃO;Mariana ewerling;;30,00;0,00;Maestro/Redeshop;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+27/12/2022;27/12/2022 10:51;27/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana ewerling;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 11:59;27/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 11:59;27/12/2022;Blow 023;;Happy Hour - Hidratação;Tratamentos;NÃO;Andreia Terezinha Timm;031.803.359-39;20,00;0,00;;;0,00;-1,00;20,00;100,00;19,00;Andreia;Profissional
+27/12/2022;27/12/2022 13:54;27/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;tuhane masschmann;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 14:57;27/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;maria do carmo Ludwig;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 15:47;27/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Juciele Isoppo;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 17:34;27/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Catiane Setubal;723.582.541-34;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 18:32;27/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria de Fátima Feix da Luz;490.731.410-87;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+27/12/2022;27/12/2022 19:14;27/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Gabriela Henkel Ribeiro;836.914.990-15;45,00;0,00;Vale-Presente, Crédito de Cliente;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 08:36;28/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cris Dopke;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 08:47;28/12/2022;007 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luciara Regina Sampaio;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 11:48;28/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Paulla Vasconcellos;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 11:49;28/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Sonia vasconcelos;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 13:00;28/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;kathya Brum;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 13:00;28/12/2022;Blow 023;;Happy Hour - Hidratação;Tratamentos;NÃO;kathya Brum;;20,00;0,00;Visa Electron;;0,00;-1,00;20,00;100,00;19,00;Andreia;Profissional
+28/12/2022;28/12/2022 13:00;28/12/2022;Blow 023;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;kathya Brum;;10,00;0,00;Visa Electron;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+28/12/2022;28/12/2022 16:03;28/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michelle  Matos;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 16:03;28/12/2022;011 bLOw da vez;;Serum bLOw Lab 50ml;Finalizador;NÃO;Michelle  Matos;;65,90;0,00;Visa;;0,00;0,00;65,90;5,00;3,30;Andreia;Profissional
+28/12/2022;28/12/2022 19:08;28/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Franciele Trentin;836.714.550-04;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+28/12/2022;28/12/2022 19:08;28/12/2022;Blow 023;;Happy Hour - Hidratação;Tratamentos;NÃO;Franciele Trentin;836.714.550-04;20,00;0,00;Dinheiro;;0,00;-1,00;20,00;100,00;19,00;Andreia;Profissional
+28/12/2022;28/12/2022 19:45;28/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mônica Cristina Rech;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 07:53;29/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andrea Claudia Braun;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 10:19;29/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andiara de Bastiani;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 10:21;29/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ketlin Costa;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 10:33;29/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;sandra Sangalli;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 10:33;29/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;sandra Sangalli;;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+29/12/2022;29/12/2022 10:33;29/12/2022;009 bLOw da vez;;Agua sem gas;Bar;NÃO;sandra Sangalli;;5,00;0,00;Maestro/Redeshop;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+29/12/2022;29/12/2022 12:05;29/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Fabiana Lima;;65,00;0,00;PIX;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+29/12/2022;29/12/2022 12:05;29/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Fabiana Lima;;20,00;0,00;PIX;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+29/12/2022;29/12/2022 12:08;29/12/2022;009 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;joseane kirch;;20,00;0,00;;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+29/12/2022;29/12/2022 12:08;29/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;joseane kirch;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 16:33;29/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cirana Koch;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 19:09;29/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Rafaela Siega;;20,00;0,00;Mastercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+29/12/2022;29/12/2022 19:09;29/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Rafaela Siega;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;29/12/2022 19:48;29/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Bruna Lopes;852.906.705-30;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;30/12/2022 07:57;30/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cris Assmann;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+29/12/2022;30/12/2022 07:57;30/12/2022;015;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Cris Assmann;;10,00;0,00;Mastercard;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+30/12/2022;30/12/2022 09:15;30/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Andreia Terezinha Timm;031.803.359-39;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 09:46;30/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Iveti mãe dani;;45,00;0,00;;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 10:12;30/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michele Caroline Enzweiler;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 12:15;30/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Maria Carolina Batista;011.905.960-67;65,00;0,00;Mastercard;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+30/12/2022;30/12/2022 12:15;30/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;Maria Carolina Batista;011.905.960-67;20,00;0,00;Mastercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+30/12/2022;30/12/2022 13:52;30/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Priscila Silva;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 15:10;30/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Carla Andrea Ulrich;;45,00;0,00;Elo Débito;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 15:10;30/12/2022;011 bLOw da vez;;Happy Hour - Blond;Tratamentos;NÃO;Carla Andrea Ulrich;;30,00;0,00;Elo Débito;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+30/12/2022;30/12/2022 15:21;30/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Maria Aparecida Cidade;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 15:21;30/12/2022;009 bLOw da vez;;Agua sem gas;Bar;NÃO;Maria Aparecida Cidade;;5,00;0,00;Maestro/Redeshop;;0,00;0,00;5,00;0,00;0,00;Andreia;Profissional
+30/12/2022;30/12/2022 16:02;30/12/2022;015;;bLOw com Mega;bLOw (escova);NÃO;Maria Helena Groth;;65,00;0,00;Visa Electron;;0,00;-21,50;65,00;70,00;24,00;Andreia;Profissional
+30/12/2022;30/12/2022 16:44;30/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Renata Galo;;45,00;0,00;Visa Electron;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:21;30/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Ana M Gudrin Wecker;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:21;30/12/2022;011 bLOw da vez;;soma Massajito;Outros adicionais diferentes de tratamento;NÃO;Ana M Gudrin Wecker;;10,00;0,00;Mastercard;;0,00;0,00;10,00;70,00;7,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:21;30/12/2022;011 bLOw da vez;;Happy Hour - Hidratação;Tratamentos;NÃO;Ana M Gudrin Wecker;;20,00;0,00;Mastercard;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:21;30/12/2022;011 bLOw da vez;;Touca De Blow em Blow;Acessórios Revenda;NÃO;Ana M Gudrin Wecker;;35,90;0,00;Mastercard;;0,00;0,00;35,90;5,00;1,80;Andreia;Profissional
+30/12/2022;30/12/2022 17:32;30/12/2022;009 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Cheila Mallmann Gregory;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:32;30/12/2022;009 bLOw da vez;;Happy Hour - Nutrição;Tratamentos;NÃO;Cheila Mallmann Gregory;;30,00;0,00;Maestro/Redeshop;;0,00;-6,00;30,00;70,00;15,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:35;30/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Pamela Mattos;;45,00;0,00;PIX;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:48;30/12/2022;015;;Happy Hour - Hidratação;Tratamentos;NÃO;DEBORA DA SILVA HEINZEN;015.022.840-65;20,00;0,00;Maestro/Redeshop;;0,00;-1,00;20,00;70,00;13,00;Andreia;Profissional
+30/12/2022;30/12/2022 17:48;30/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;DEBORA DA SILVA HEINZEN;015.022.840-65;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 18:24;30/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Iara Maria Kreuz;766.098.120-04;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 18:39;30/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michelle  Matos;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 18:39;30/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Michelle  Matos;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 19:12;30/12/2022;011 bLOw da vez;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Amanda Encina;;45,00;0,00;Maestro/Redeshop;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 19:23;30/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Mariana ewerling;;45,00;0,00;Dinheiro;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 19:53;30/12/2022;Blow 023;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Luciara Regina Sampaio;;45,00;0,00;Mastercard;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional
+30/12/2022;30/12/2022 19:57;30/12/2022;015;;bLOw (escova modelada ou lisa);bLOw (escova);NÃO;Daiana kasper de souza;;45,00;0,00;Visa;;0,00;-19,50;45,00;70,00;12,00;Andreia;Profissional

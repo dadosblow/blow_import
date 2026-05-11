@@ -1,0 +1,147 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Motivo Desconto;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Status NFCe;N da NFCe;Cdigo de Acesso SEFAZ
+01/12/2025;01/12/2025 07:28;Pagamento;59515324;Brenda gobetti;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 07:39;Pagamento;48646355;Cynthia de Andrade Graciosa;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 07:41;Pagamento;47338692;Isabella andrade de Oliveira;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 07:49;Pagamento;53097936;Natlia da Costa;45,00;1;10,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;Emitida;3161,0;'42251248467970000128650010000031611000012344
+01/12/2025;01/12/2025 07:56;Pagamento;79700854;Adriana Martins Barbosa;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+28/11/2025;01/12/2025 08:24;Pagamento;47280130;cristina philippi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 08:31;Pagamento;62607422;Mirna uliano bertoldi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 08:34;Pagamento;53196453;Lorena Peter;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;63,00;0,00;0,00;0,00;0,00;0,00;0,00;63,00;Luciana Aparecida Borges;Emitida;3162,0;'42251248467970000128650010000031621000012341
+01/12/2025;01/12/2025 08:35;Pagamento;47210983;Ana Carolina Marcon;135,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;125,00;0,00;0,00;0,00;0,00;0,00;0,00;125,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 08:44;Pagamento;64432844;Vanessa mesquita;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 09:09;Pagamento;47497014;Caroline Doerner;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 09:17;Pagamento;64181800;Isabel Bacelar de Vasconcelos Apel;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 09:31;Pagamento;64432844;Vanessa mesquita;50,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;50,00;0,00;0,00;50,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 09:36;Pagamento;55969964;Soraya Nunes Lins;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;55,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 09:40;Pagamento;47966235;Marielle Maral;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 09:47;Pagamento;48648619;Erika Giovanini Reupke;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;95,00;0,00;0,00;0,00;0,00;0,00;95,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 10:13;Pagamento;47032115;Marina Vieira;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 10:14;Pagamento;48537529;Paula Videira Laureano de Oliveira;95,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 10:33;Pagamento;54373288;Tatiana Coral Mendes de Lima;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;105,00;0,00;0,00;0,00;0,00;0,00;0,00;105,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 10:40;Pagamento;48214486;Rafaela Zandavalli;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 10:41;Pagamento;61790656;Patrcia Mota;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 11:04;Pagamento;47155881;Geni Clair Bock da Costa;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;60,00;0,00;0,00;-5,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 11:11;Pagamento;50618115;Ana Carolina Oliveira;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 11:11;Pagamento;47032115;Marina Vieira;60,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;60,00;0,00;0,00;0,00;0,00;0,00;0,00;60,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 11:13;Pagamento;50238596;Terezinha Orandina dos Passos;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;45,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 11:45;Pagamento;54392556;Sylvia Kowalski Pereira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 12:00;Pagamento;52544727;Elaine  Vieira;55,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 12:00;Pagamento;57992997;Eliana Paggiarin Marinho;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 12:17;Pagamento;51859325;Monica Bonelli Paulo prazeres;45,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 12:18;Pagamento;73759289;ngela Zoldan da Veiga Cunha;139,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;147,00;0,00;0,00;147,00;Luiza Bueno Ribeiro;Emitida;3164,0;'42251248467970000128650010000031641000012346
+01/12/2025;01/12/2025 12:30;Pagamento;75179834;Jussara Ozorio;105,00;2;22,00;2;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;127,00;0,00;0,00;127,00;Luiza Bueno Ribeiro;Emitida;3165,0;'42251248467970000128650010000031651000012343
+01/12/2025;01/12/2025 12:42;Pagamento;76762738;Bernadete Ractz lima;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;105,00;0,00;0,00;0,00;0,00;0,00;0,00;105,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 12:46;Pagamento;79565193;Kazue Harada Ribeiro;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;55,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 12:54;Pagamento;46977104;Thais  Pinheiro;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 12:59;Pagamento;61272688;Marina Guimaraes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 13:12;Pagamento;54475346;maria lucia lopes;85,00;1;14,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;99,00;0,00;0,00;0,00;0,00;0,00;99,00;Luciana Aparecida Borges;Emitida;3166,0;'42251248467970000128650010000031661000012340
+01/12/2025;01/12/2025 13:38;Pagamento;47552627;Carla Maria Evangelista Vieira Pedrozo;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 13:40;Pagamento;68635369;YANDIARA MARIA COSTA DA SILVEIRA;105,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;113,00;0,00;0,00;0,00;0,00;0,00;0,00;113,00;Luciana Aparecida Borges;Emitida;3167,0;'42251248467970000128650010000031671000012348
+01/12/2025;01/12/2025 13:43;Pagamento;51602748;Maria augusta alcantara;0,00;1;8,00;1;90,00;1;0,00;0,00;0;0,00;0,00;;98,00;0,00;0,00;0,00;0,00;0,00;0,00;98,00;Luciana Aparecida Borges;Emitida;3168,0;'42251248467970000128650010000031681000012345
+01/12/2025;01/12/2025 13:49;Pagamento;62316613;Simone Figueiredo Pereira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 14:08;Pagamento;47218602;Marina empinotti;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 14:12;Pagamento;58277310;Jaqueline Demarco;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;75,00;0,00;0,00;0,00;0,00;0,00;0,00;75,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 14:17;Pagamento;50234187;Viviani Silva;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 14:18;Pagamento;79457638;Gabriela Iria;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 14:23;Pagamento;54587291;Viviane Camargos;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;0,00;53,00;0,00;0,00;0,00;0,00;0,00;53,00;Luiza Bueno Ribeiro;Emitida;3169,0;'42251248467970000128650010000031691000012342
+01/12/2025;01/12/2025 14:43;Pagamento;51104551;Jussara  Silva;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 15:01;Pagamento;47782983;Alessandra Coelho;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luciana Aparecida Borges;No Emitida;;
+01/12/2025;01/12/2025 15:05;Pagamento;79518586;Jeanine Peressoni Bittencourt Lima;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:16;Pagamento;47574966;Bibi;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:17;Pagamento;57139105;Suellen Faistauer;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:17;Pagamento;49294646;Monica Sobierajski;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:23;Pagamento;65542831;Daniela Galego;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;105,00;0,00;0,00;0,00;0,00;0,00;105,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:24;Pagamento;47782983;Alessandra Coelho;30,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:30;Pagamento;47357975;Luciana Bastos;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:36;Pagamento;52597754;Ana Rosa da Silva Trento;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 15:56;Pagamento;46979353;Barbara  Gasperin;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;75,00;0,00;0,00;75,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 16:02;Pagamento;79714951;Nathany Gonalves;110,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;110,00;0,00;0,00;0,00;0,00;0,00;110,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 16:20;Pagamento;76921272;Marina Leite;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 16:43;Pagamento;63204754;Jaqueline Costa;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 16:46;Pagamento;79560538;CAMILA MOTA DE SOUSA;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 17:09;Pagamento;60807169;Grace Serratine;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 17:10;Pagamento;54633583;Karina  Maravai Weiss;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 17:10;Pagamento;64973621;Gabriella Prates;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 17:33;Pagamento;79735965;maria clara;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 17:52;Pagamento;47183411;Sabrina BUbniak;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 18:01;Pagamento;52268564;Christianne rissuta;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 18:12;Pagamento;79736495;Anelise;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 18:27;Pagamento;79737255;fernanda alburqueque;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 18:40;Pagamento;49296687;Patricia Pires;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 18:48;Pagamento;48724893;Samanta;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 18:59;Pagamento;47508421;CAMILA Fernandes Nebuy;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 19:02;Pagamento;55397241;Tatiana Moreira;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;01/12/2025 19:35;Pagamento;48626927;Mariana Rufino;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 07:59;Pagamento;47188042;Andrea Fuchter;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 08:00;Pagamento;52549274;Franciela Lima;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 08:08;Pagamento;71605638;Cristina Broilo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 08:14;Pagamento;53691358;Fabiola  Monteiro Caetano Sebastiani;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 08:23;Pagamento;52140821;Jaquelline cavalcante;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:01;Pagamento;78289555;Daniella Santos de Freitas;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;63,00;0,00;0,00;63,00;Luciana Aparecida Borges;Emitida;3170,0;'42251248467970000128650010000031701000012343
+02/12/2025;02/12/2025 09:02;Pagamento;79310719;caroline;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:03;Pagamento;75003609;Raquel Santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:04;Pagamento;55474761;Renata bolan;55,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:29;Pagamento;47211994;Luciana  Faisca Nahas;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:42;Pagamento;50477862;Janete Umbelino;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:43;Pagamento;63951807;Liziane Horta;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:44;Pagamento;48262098;Julia Salla;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 09:53;Pagamento;48782087;Jamile Snoeijer;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 10:04;Pagamento;66118193;Stfanie Guimares;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 10:23;Pagamento;62598175;Ana Maria Soares;0,00;1;0,00;0;45,00;1;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 10:36;Pagamento;79750529;Debora Santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 11:27;Pagamento;48300097;Teresa Maria Evangelista Vieira Stefan;55,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 11:45;Pagamento;61015066;Juliana Cristina Rizelo Kalafatas;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 11:45;Pagamento;61015066;Juliana Cristina Rizelo Kalafatas;30,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;30,00;0,00;0,00;30,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 11:56;Pagamento;62067494;Mnica Bastos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;0,00;0,00;50,00;0,00;0,00;-5,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 11:57;Pagamento;79743381;Gisele Palma;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 11:58;Pagamento;66918925;Ana Paula;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:00;Pagamento;48281239;Bruna moser;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:01;Pagamento;65086619;Ana Sofia Fabre Vaz;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:06;Pagamento;60325180;Andressa Zancanaro de Abreu;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:08;Pagamento;51079204;Itana Fernandes Pereira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:18;Pagamento;75441747;Luisa macario;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:43;Pagamento;66356072;Neusa Rosane Nunes;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;105,00;0,00;0,00;0,00;0,00;105,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 12:52;Pagamento;47656300;Lizie Taguchi;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 13:03;Pagamento;50302684;Mayara Bertoncini Martins;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;50,00;0,00;0,00;-20,00;0,00;30,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 13:09;Pagamento;76629244;Mirela daux;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 13:54;Pagamento;69552607;Lara Jacinto de Sousa Dutra;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 14:14;Pagamento;70948922;Juliana Procopio;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 14:36;Pagamento;47070611;Anne Perfeito;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 14:36;Pagamento;53435481;Joyce Airoso Dos Santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 14:37;Pagamento;53435481;Joyce Airoso Dos Santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 14:43;Pagamento;50377496;Micheline Hoffmann;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 14:54;Pagamento;47470766;Priscilla Freitas;105,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Luciana Aparecida Borges;No Emitida;;
+02/12/2025;02/12/2025 14:58;Pagamento;64048132;Mariana Pacheco Mendes Batista;105,00;2;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;13,00;100,00;0,00;0,00;0,00;0,00;113,00;Luciana Aparecida Borges;Emitida;3171,0;'42251248467970000128650010000031711000012340
+02/12/2025;02/12/2025 15:09;Pagamento;52283885;Mrlen  Salib De Souza Gonalves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:14;Pagamento;47593279;Roselita Bittencourt;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:21;Pagamento;70687643;Caroline Rasmussen;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:27;Pagamento;55103359;Fabiana Maria Fidelis;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:28;Pagamento;51859325;Monica Bonelli Paulo prazeres;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:30;Pagamento;60011147;Maria Luiza de Lima Estacio;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:33;Pagamento;58211087;madu mello;85,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:37;Pagamento;48400323;Maria Luiza Araujo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:37;Pagamento;46959723;Camila Daiara;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:39;Pagamento;51859325;Monica Bonelli Paulo prazeres;75,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;75,00;0,00;0,00;0,00;0,00;0,00;0,00;75,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:40;Pagamento;56929064;Graciele Parente;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:43;Pagamento;51271784;Romilda Simon;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:54;Pagamento;63136809;Elisa Carlota;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 15:57;Pagamento;51655104;Carolina Borba;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;8,00;60,00;0,00;0,00;-5,00;0,00;63,00;Luiza Bueno Ribeiro;Emitida;3172,0;'42251248467970000128650010000031721000012348
+02/12/2025;02/12/2025 16:27;Pagamento;47376366;Rosani Bento;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 16:30;Pagamento;50548309;Jussara Azevedo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+01/12/2025;02/12/2025 16:34;Pagamento;47574966;Bibi;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 16:38;Pagamento;48665995;Suzana Cariolatto Pinheiro;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 16:44;Pagamento;52455924;Karine Freccia;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 16:45;Pagamento;72856364;Catia regina pirhardt freitas;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 17:40;Pagamento;47876805;sandra simo lobato;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 17:41;Pagamento;61661309;Jlia Machado Buarque;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 17:47;Pagamento;79772880;Jh Leal;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;105,00;0,00;0,00;0,00;0,00;0,00;0,00;105,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 17:51;Pagamento;46956832;Ana Luiza Casagrande;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 18:06;Pagamento;47785091;Flvia Souza;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 18:18;Pagamento;57774199;Jamara Corra de Abreu;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;63,00;0,00;0,00;0,00;0,00;0,00;0,00;63,00;Luiza Bueno Ribeiro;Emitida;3173,0;'42251248467970000128650010000031731000012345
+02/12/2025;02/12/2025 18:19;Pagamento;57774199;Jamara Corra de Abreu;10,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;10,00;0,00;0,00;0,00;0,00;0,00;0,00;10,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 18:57;Pagamento;55919148;Paula Ramos de Azevedo;0,00;1;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;90,00;0,00;0,00;0,00;0,00;0,00;0,00;90,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 19:12;Pagamento;68235081;fernanda amorim;55,00;1;8,00;1;0,00;0;0,00;0,00;0;0,00;-10,00;VS2 / Cupom Viciadas Na Semana;0,00;0,00;70,00;0,00;0,00;-17,00;0,00;53,00;Luiza Bueno Ribeiro;Emitida;3174,0;'42251248467970000128650010000031741000012342
+02/12/2025;02/12/2025 19:15;Pagamento;55901910;Zilda Oliveira Flores;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;30,00;0,00;0,00;0,00;0,00;0,00;0,00;30,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 19:16;Pagamento;51617952;Marilu Lima de Oliveira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 19:22;Pagamento;67060286;Lucyane Lemos Pereira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;
+02/12/2025;02/12/2025 19:42;Pagamento;69274759;Leticia Simon;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Luiza Bueno Ribeiro;No Emitida;;

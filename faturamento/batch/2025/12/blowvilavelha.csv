@@ -1,0 +1,104 @@
+﻿Data de Atendimento/Venda;Data de Pagamento/Estorno;Tipo;ID Cliente;Nome do Cliente;Total (R$) Servio;Quantidade Servio;Total (R$) Produtos;Quantidade Produto UN;Total (R$) Pacotes;Quantidade Pacotes;Total (R$) Clube de Assinaturas;Total (R$) Vale-Presente;Quantidade Vale-Presente;Total (R$) Crdito Cliente;Total (R$) Descontos;Motivo Desconto;Total (R$) Crdito;Total (R$) Dbito;Total (R$) Dinheiro;Total (R$) Pr-Pago;Total (R$) Outros;Total (R$) Troco;Total (R$) Gorjeta;Total (R$);Quem Fechou a Conta;Comentrio sobre o Fechamento;Status NFCe
+01/12/2025;01/12/2025 07:45;Pagamento;73196833;Jhennifer Silveira;105,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;105,00;0,00;0,00;105,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 07:48;Pagamento;74407008;Juara Menezes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 07:51;Pagamento;70957142;Laisa Souza;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 08:41;Pagamento;72706758;Maria Carolina Lahas;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 08:47;Pagamento;73747910;Patrcia Frio;85,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;85,00;0,00;0,00;0,00;0,00;85,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 08:50;Pagamento;71239961;Suellen alves da cunha;0,00;0;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;5,00;0,00;0,00;0,00;0,00;0,00;5,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 09:14;Pagamento;70720219;Marcela Spinola;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 09:29;Pagamento;69800671;Raylane pedra;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 09:41;Pagamento;70709417;Loise Lorenzoni;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 09:44;Pagamento;72569856;Isabela Virginio Macdo;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 10:21;Pagamento;70339591;Thais Albergaria;30,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;30,00;0,00;0,00;0,00;0,00;0,00;30,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 10:22;Pagamento;77590706;Gabriela Araujo;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;85,00;0,00;0,00;0,00;0,00;0,00;85,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 10:37;Pagamento;74982242;Isabella Drea;55,00;1;5,00;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;60,00;0,00;0,00;0,00;0,00;0,00;60,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 10:52;Pagamento;74502595;Viviane campos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 11:10;Pagamento;71597884;Gabi Barbosa;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;65,00;0,00;0,00;0,00;0,00;0,00;0,00;65,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 11:11;Pagamento;79327513;Julia Mansour siqueira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 11:47;Pagamento;72533769;Saula Felicio Gama;10,00;2;0,00;0;90,00;1;0,00;0,00;0;0,00;0,00;;100,00;0,00;0,00;0,00;0,00;0,00;0,00;100,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 11:51;Pagamento;79298905;Mariana Cristina Pereira Fernandes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 12:25;Pagamento;71239961;Suellen alves da cunha;105,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;-105,00;Influencer;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thais Dalla Nora Alves;;No Emitida
+01/12/2025;01/12/2025 12:56;Pagamento;75636847;Karoliny Cardoso;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 13:03;Pagamento;70251470;ADRIANA ALVES TEIXEIRA;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;Cortesia;0,00;0,00;45,00;0,00;0,00;0,00;0,00;45,00;Thais Dalla Nora Alves;no aceitou o aumento pois agendou no valor de R$45,00;No Emitida
+01/12/2025;01/12/2025 13:23;Pagamento;76101909;Beatriz Ferreira Pereira;115,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;99,00;0,00;0,00;0,00;0,00;0,00;99,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 13:34;Pagamento;70454828;Gabriela ramos costa;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 13:38;Pagamento;70308156;Joice Tosta;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 14:21;Pagamento;70330353;Marcella Farias;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 14:31;Pagamento;76688158;Cinthia Paixo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 14:34;Pagamento;71317651;Karen Pagani Mazolini;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;105,00;0,00;0,00;0,00;0,00;0,00;0,00;105,00;Thaynara Afonso Machado Alves;;No Emitida
+01/12/2025;01/12/2025 15:12;Pagamento;74198044;Nivea coelho Pereira Degasperi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 15:27;Pagamento;71386888;marya eduarda barcelos de assis;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;0,00;100,00;-1,00;0,00;-32,00;0,00;68,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 15:50;Pagamento;71462035;Sdina Delpupo;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 15:54;Pagamento;79627553;Karla Azevedo;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;95,00;0,00;0,00;95,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 16:19;Pagamento;79671467;maria de Ftima Sodr Borges;280,00;6;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;280,00;0,00;0,00;0,00;0,00;0,00;0,00;280,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 16:38;Pagamento;70241952;Jordana Valadares;115,00;4;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;115,00;0,00;0,00;0,00;0,00;0,00;0,00;115,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 16:44;Pagamento;72605097;Fernanda Carvalho Pires Barbosa;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 16:52;Pagamento;73331003;Luciana Cotta Queiroz;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 17:32;Pagamento;72052152;Daniela Lacerda;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 17:38;Pagamento;70576868;Lorena Cardoso;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;39,00;0,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 18:07;Pagamento;77007382;Paula Adrielle Stefanelli Lima;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 18:10;Pagamento;71905710;Elizabeth ferreira de souza dos santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;0,00;0,00;0,00;39,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 18:27;Pagamento;79702108;luna azevedo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 18:46;Pagamento;74266893;Claudini vieira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;39,00;0,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 18:59;Pagamento;73727579;Larissa  Pereira Fardin;45,00;1;0,00;0;0,00;0;0,00;0,00;0;1,00;-16,00;FR2;0,00;0,00;50,00;0,00;0,00;-20,00;0,00;30,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 19:04;Pagamento;79703181;Margarete Pascoa tamanini;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+01/12/2025;01/12/2025 19:06;Pagamento;76502473;Glenda Cardoso da silva;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-26,00;FR2;0,00;0,00;0,00;0,00;29,00;0,00;0,00;29,00;Thais Dalla Nora Alves;;No Emitida
+01/12/2025;01/12/2025 19:07;Pagamento;70253081;Thais Dalla Nora Alves;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;-65,00;Cortesia;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thais Dalla Nora Alves;;No Emitida
+01/12/2025;01/12/2025 19:25;Pagamento;70333615;Norma Suely  Sanches Matos;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 19:44;Pagamento;76216455;Carolina Santos de Souza;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;0,00;0,00;0,00;39,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;01/12/2025 19:58;Pagamento;79739087;Carolina Ribeiro Ribeiro;85,00;2;15,00;3;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;100,00;0,00;0,00;0,00;0,00;0,00;100,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 07:35;Pagamento;79669091;Karen Azevedo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 07:43;Pagamento;74505563;Rosi Job;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 07:47;Pagamento;70249331;Lecilandia Lellis;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 08:20;Pagamento;71615414;Mari Costa;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 08:23;Pagamento;70153775;Cndida Ribeiro;110,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;110,00;0,00;0,00;0,00;0,00;0,00;0,00;110,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 08:24;Pagamento;73343833;Flavia Tonini;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 08:32;Pagamento;70418806;Erica Semiao;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 08:51;Pagamento;71507889;Kamila de Freitas Vairo;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;39,00;0,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 08:52;Pagamento;70594435;Tatiana Nogueira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 09:04;Pagamento;78209687;Cludia Nunes;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;0,00;0,00;0,00;39,00;0,00;0,00;39,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 09:16;Pagamento;76337090;Stefania Spala Santos Zottele;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 09:16;Pagamento;70752576;Danielle Ferreira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 10:00;Pagamento;76485257;Katia  Cardoso Coutinho Valiati;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 10:11;Pagamento;72610164;Vanessa Mello;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 10:36;Pagamento;70418227;Janessa Lascosck;85,00;1;79,90;1;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;164,90;0,00;0,00;164,90;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 10:44;Pagamento;71391563;Ana Carolina Campos Silva;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;105,00;0,00;0,00;-50,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 10:45;Pagamento;79700710;Izabela de Melo Alves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 11:15;Pagamento;70791297;Llia Salgado;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 11:21;Pagamento;70744738;Isabella Lopes Saad Meirelles;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;39,00;0,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 11:24;Pagamento;75648197;Viviane  Gonalves;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 11:31;Pagamento;74250231;DAVI E LUCIANA BASONI ME YASMIN;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;0,00;0,00;0,00;39,00;0,00;0,00;39,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 11:45;Pagamento;75424399;Pamela Reis;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+01/12/2025;02/12/2025 11:47;Pagamento;73748666;mariana falqueto mello;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-10,00;Cortesia;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 12:17;Pagamento;75176840;Carolina Fernandes Fernandes Colodetti;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;45,00;0,00;0,00;0,00;0,00;0,00;0,00;45,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 12:18;Pagamento;70456515;Livia Estevao;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;39,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 12:43;Pagamento;73544987;Jlia Schuwartz;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 12:47;Pagamento;74148330;Larissa Batista;45,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;45,00;0,00;0,00;0,00;0,00;0,00;45,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 13:14;Pagamento;79344248;Priscilla Christofori de Andrade;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 13:31;Pagamento;71134156;Michelle Zorzal Novaes;65,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;65,00;0,00;0,00;0,00;0,00;0,00;0,00;65,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 13:51;Pagamento;70773554;Melody Oliveros;0,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 13:51;Pagamento;76771101;Luciene martins;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 13:52;Pagamento;70808922;Adriana Peixoto Miguel;0,00;1;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thais Dalla Nora Alves;;No Emitida
+02/12/2025;02/12/2025 14:27;Pagamento;77179733;Andreia Monteiro;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;39,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 14:29;Pagamento;73502240;Sandra Veloza;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 14:41;Pagamento;79705942;Gabryella Saibert;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 14:51;Pagamento;77778780;Ana Luiza Fantoni;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;39,00;0,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 14:53;Pagamento;72905503;Larissa lima c saibert;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;0,00;0,00;0,00;39,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:07;Pagamento;72803846;Ana Beatriz Lino dos Santos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:07;Pagamento;75169220;Ana Oliveira;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:26;Pagamento;79587579;Lorena Moreira;95,00;3;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;95,00;0,00;0,00;0,00;0,00;0,00;0,00;95,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:27;Pagamento;70440329;Maria Fernanda;85,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;85,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:33;Pagamento;76467236;Daniela Vargas;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;0,00;0,00;55,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:48;Pagamento;79692912;Mia abravanel;115,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;115,00;0,00;0,00;0,00;0,00;0,00;115,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:49;Pagamento;70804999;Letcia Miranda;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 15:59;Pagamento;79521449;Isadora Schwartz;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;-16,00;FR2;0,00;39,00;0,00;0,00;0,00;0,00;0,00;39,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 16:47;Pagamento;71520690;Carolina Lang Cararetto;50,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;50,00;0,00;0,00;0,00;0,00;0,00;0,00;50,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 16:50;Pagamento;70245042;Larissa Barcellos;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 17:13;Pagamento;77458272;Tenizia Assis;85,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 17:37;Pagamento;70694811;Luiza Tosi;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;0,00;105,00;0,00;0,00;-50,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 17:38;Pagamento;70989033;Joaquiria MARENDINo;0,00;1;0,00;0;85,00;1;0,00;0,00;0;0,00;0,00;;85,00;0,00;0,00;0,00;0,00;0,00;0,00;85,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 18:10;Pagamento;70274580;Ana Morbeck;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;55,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 18:38;Pagamento;78287132;Mara lube;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 18:40;Pagamento;74367446;Renata Nichy Pereira Marques;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 18:43;Pagamento;79762114;Virginia Fardin;105,00;2;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;0,00;105,00;0,00;0,00;0,00;0,00;0,00;105,00;Thais Carvalho Dos Santos;;No Emitida
+02/12/2025;02/12/2025 18:49;Pagamento;79740413;Fernanda Teixeira Gonalves Casagrande;55,00;1;0,00;0;0,00;0;0,00;0,00;0;0,00;0,00;;55,00;0,00;0,00;0,00;0,00;0,00;0,00;55,00;Thais Carvalho Dos Santos;;No Emitida

@@ -1,0 +1,571 @@
+﻿Data do atendimento;Cliente;Serviço;Profissional;Data avaliação;Nota;Motivo;Comentário;idAgendamento;idCliente;NumeroTelefone;PedidoAvaliaçãoEnviado
+2026-02-05 11:30:00;Elaine Cristina Silva Casagrande;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;466353725;81802725;5548999713132;2026-02-06T09:32:00.532-03:00
+2026-02-05 11:30:00;Talita Monte;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;466366984;81811718;5514996260212;2026-02-06T09:33:12.966-03:00
+2026-02-05 14:00:00;letícia haeming;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;466158573;81769316;5548998143001;2026-02-06T09:33:24.191-03:00
+2026-02-05 14:00:00;Fernanda de Souza Arena;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;466256124;81791626;5548984182195;2026-02-06T09:33:47.704-03:00
+2026-02-05 14:00:00;Roberta Oyarzabal;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;465270427;81660020;5551985164253;2026-02-06T09:34:06.246-03:00
+2026-02-05 17:00:00;Rosele dos Santos Moraes;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;466135955;81766789;5548998324172;2026-02-06T09:34:28.359-03:00
+2026-02-06 10:30:00;Denise Aparecida Giordano;bLOw (escova modelada ou lisa);013 bLOw da vez;2026-02-07 10:57:48;5.0;;;469315593;81658320;5548991161079;2026-02-07T09:31:06.777-03:00
+2026-02-06 10:30:00;Bárbara Becker;bLOw (escova modelada ou lisa);012 bLOw da vez;2026-02-08 14:40:03;5.0;;;466157187;81769158;5548996568487;2026-02-07T09:32:47.580-03:00
+2026-02-06 10:30:00;Ana Carla Costa;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;2026-02-09 08:02:24;4.0;2 - Durabilidade (durou pouco);Problema na execução, a escova durou 1 tarde. ;466132436;81766412;5584994018787;2026-02-07T09:32:58.107-03:00
+2026-02-06 13:00:00;Juliana Bordignon Flores;bLOw (escova modelada ou lisa);008 blow da vez;2026-02-09 09:53:30;5.0;;;466105163;81763555;5548991861300;2026-02-07T09:33:08.617-03:00
+2026-02-06 13:00:00;Giovana Bianchini;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;466112923;81764319;5548996587448;2026-02-07T09:33:18.131-03:00
+2026-02-06 13:00:00;Nathalia Boeno;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;464622617;81578202;5548999244323;2026-02-07T09:33:34.620-03:00
+2026-02-06 14:30:00;bianca Steil Gil;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;465118615;81643436;5548992173088;2026-02-07T09:33:48.237-03:00
+2026-02-06 14:30:00;Tayná Barros Abraçado;bLOw (escova modelada ou lisa);012 bLOw da vez;2026-02-07 11:50:30;5.0;;;464643423;81580330;5521997760304;2026-02-07T09:33:59.774-03:00
+2026-02-06 15:30:00;Carolina Flores Bernardini;bLOw (escova modelada ou lisa);013 bLOw da vez;;;;;465304681;81663082;5548999830083;2026-02-07T09:34:09.162-03:00
+2026-02-06 16:00:00;tarise giustina;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;463738515;81458726;5548999602443;2026-02-07T09:34:19.618-03:00
+2026-02-06 16:00:00;Genevieve Pinheiro;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;464625067;81578455;5548999102723;2026-02-07T09:34:36.454-03:00
+2026-02-07 08:30:00;Thaiza Marca;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;469667835;82427119;email;2026-02-08T09:31:27.352-03:00
+2026-02-07 08:30:00;Mirelle  Finkler;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;469498720;82410893;5548991092006;2026-02-08T09:32:59.949-03:00
+2026-02-07 09:15:00;Giulia Tieppo;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;469314498;82389631;5549991976654;2026-02-08T09:33:29.433-03:00
+2026-02-07 10:00:00;Tatiane guedes;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;2026-02-08 20:58:40;3.0;4 - Delicadeza (Machucou, puxou, queimou);Lavagem diferente da franquia do centro. ;469637494;82423433;5548984001412;2026-02-08T09:33:45.526-03:00
+2026-02-07 11:30:00;Silvana Lima;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;469606903;81943296;5548996319255;2026-02-08T09:34:03.895-03:00
+2026-02-07 11:30:00;Fernanda  Carla De Oliveira;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;469754595;82434512;5548999591632;2026-02-08T09:34:14.345-03:00
+2026-02-07 12:15:00;Amanda Borges;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;469717086;82431250;5548999452683;2026-02-08T09:34:30.736-03:00
+2026-02-07 12:15:00;Bárbara Barbosa;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;469260345;81460929;5548996879615;2026-02-08T09:34:42.584-03:00
+2026-02-07 13:00:00;Marina Silvério da Silva;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;469781048;82436856;5534988616173;2026-02-08T09:34:55.031-03:00
+2026-02-07 13:45:00;Francine  Sparemberger;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;2026-02-08 09:35:41;5.0;;;469363711;82393893;5548999075363;2026-02-08T09:35:09.602-03:00
+2026-02-07 14:30:00;Betina Lopes Evangelista;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;469572221;82417086;5547999893479;2026-02-08T11:01:09.770-03:00
+2026-02-07 13:45:00;Ana Paula moraes;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;469609707;82421391;5548984098318;2026-02-08T11:02:27.709-03:00
+2026-02-07 14:00:00;Juliana Ramos;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;469866473;81583462;5548988480073;2026-02-08T11:02:51.916-03:00
+2026-02-07 14:00:00;Juliana Ramos;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;469858252;81583462;5548988480073;2026-02-08T11:03:08.464-03:00
+2026-02-07 14:30:00;Daiani Menegatti;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;2026-02-11 12:59:35;5.0;;;467755906;82131879;5548996970650;2026-02-08T11:03:32.839-03:00
+2026-02-07 16:00:00;Manuella Zunino;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;2026-02-09 12:31:29;5.0;;;469777486;82343927;5548996301784;2026-02-08T11:03:49.334-03:00
+2026-02-07 16:00:00;Leticia Ferreira de Araujo;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;469657662;82178236;5548988656928;2026-02-08T11:04:06.767-03:00
+2026-02-07 16:45:00;Roberta Pinheiro;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;469919355;82450025;5548999730207;2026-02-08T11:04:21.202-03:00
+2026-02-07 16:45:00;Renata Godoy Streb Kozma;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;469785974;82451403;5548984083474;2026-02-08T11:04:42.584-03:00
+2026-02-07 16:45:00;kelly kern;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;469931056;82451128;5548991191183;2026-02-08T15:31:03.608-03:00
+2026-02-07 17:30:00;Manoela Maggi;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;;;;;468836625;82338705;5551981265156;2026-02-08T15:32:28.476-03:00
+2026-02-07 16:45:00;Leticia Amarante;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;469667596;82427084;5549999775222;2026-02-08T15:32:44.013-03:00
+2026-02-07 17:30:00;Mariana Muri;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-09 16:22:07;5.0;;;467731728;81632927;5548991039238;2026-02-08T15:33:01.426-03:00
+2026-02-07 17:30:00;carmen Feix;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;469410252;81577917;5561981104567;2026-02-08T15:33:10.884-03:00
+2026-02-07 17:30:00;Josiane Antunes da Silva Cristóvam;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;469968845;82454569;5548996138572;2026-02-08T15:33:25.436-03:00
+2026-02-07 18:00:00;Juliana Ramos;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;469971131;81583462;5548988480073;2026-02-08T15:33:45.976-03:00
+2026-02-09 07:45:00;Isabel Cristina Bertuol Funk;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;470012672;82459599;5548999382887;2026-02-10T09:31:28.351-03:00
+2026-02-09 07:45:00;Glayce josy sasaki acacio sedrez;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;470054332;82468665;5548999140655;2026-02-10T09:33:05.678-03:00
+2026-02-09 09:15:00;Lucyane Lemos Pereira;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;2026-02-10 11:00:56;4.0;2 - Durabilidade (durou pouco);;469102391;82365053;5548991042501;2026-02-10T09:33:27.305-03:00
+2026-02-09 08:46:00;Thaís C. de Andrade;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;469678377;82427966;5524999898655;2026-02-10T09:33:47.831-03:00
+2026-02-09 12:45:00;Luiza Bueno Ribeiro;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;470140692;82477705;email;2026-02-10T09:34:02.459-03:00
+2026-02-09 15:45:00;Elizete Motta;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;;;;;470119350;82475610;5548984057025;2026-02-10T09:34:11.866-03:00
+2026-02-09 16:00:00;Ana Luísa Wegner Alberton;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;470172097;82485636;5548991180659;2026-02-10T09:34:35.883-03:00
+2026-02-10 07:53:00;priortiga;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;470256949;82368794;5548999630005;2026-02-11T09:31:22.872-03:00
+2026-02-10 10:00:00;Carla Maria Evangelista Vieira Pedrozo;bLOw - Clube Plano Duplo;025 - Maria Valderiza Almeida de Morais;;;;;469055830;82360060;5548999808279;2026-02-11T09:32:47.914-03:00
+2026-02-10 09:29:00;Gabriela Castilho;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;470009528;82459152;5512981151642;2026-02-11T09:33:09.690-03:00
+2026-02-10 10:00:00;Lizie Taguchi;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;470069027;82469973;5548991564686;2026-02-11T09:33:22.804-03:00
+2026-02-10 12:35:00;Elaine Dal’Col da Silva;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;2026-02-13 18:32:28;5.0;;;470329491;82500711;5548984231988;2026-02-11T09:33:50.528-03:00
+2026-02-10 13:00:00;Luana reigota;bLOw - Clube Plano Duplo;025 - Maria Valderiza Almeida de Morais;;;;;470378845;82504772;5548984088025;2026-02-11T09:34:10.688-03:00
+2026-02-10 13:45:00;Bárbara Barbosa;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;470422650;81460929;5548996879615;2026-02-11T11:01:37.493-03:00
+2026-02-09 07:00:00;Pilar Sabino;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;470027435;82462253;5548988410663;2026-02-10T17:21:28.206-03:00
+2026-02-09 08:30:00;CLAUDIA ROBERTA GONCALVES DE ALMEIDA;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;2026-02-12 17:37:53;5.0;;;470047070;82467709;5548991047803;2026-02-10T17:22:39.503-03:00
+2026-02-10 14:30:00;Tattiana Teixeira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;470198588;82425181;5548991801301;2026-02-11T11:02:59.881-03:00
+2026-02-10 15:15:00;Lúcia Patrícia Santos;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;470130555;82476713;5579999255755;2026-02-11T11:03:23.627-03:00
+2026-02-10 15:15:00;Larissa Gattringer;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;470478018;82515708;5548999444833;2026-02-11T11:03:46.274-03:00
+2026-02-10 16:00:00;Thais  Pinheiro;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;2026-02-11 13:44:02;5.0;;;470043322;81413429;5548999723625;2026-02-11T11:03:55.896-03:00
+2026-02-10 18:15:00;Luana Lenzi;bLOw - Clube Plano Duplo;025 - Maria Valderiza Almeida de Morais;2026-02-11 22:54:46;1.0;1 - Resultado da Escova (Não bonito, padrão errado);a moça deixou a escova emaranhar no cabelo e trancar a escova nos fios, arrebentando e arrancando cabelo pra tirar. o rapaz do caixa precisou acudir e fazer o cabelo ;470059629;82469297;5548999925884;2026-02-11T11:04:19.616-03:00
+2026-02-10 18:15:00;Renata Godoy Streb Kozma;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;470277252;82451403;5548984083474;2026-02-11T11:04:33.406-03:00
+2026-02-10 19:00:00;Ana torres;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;470569527;82524183;5548996765700;2026-02-11T11:04:44.282-03:00
+2026-02-11 08:30:00;Karen Regina Godoi Sinhor;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;470544080;82522065;5548999825509;2026-02-12T09:31:47.079-03:00
+2026-02-11 09:00:00;Pilar Sabino;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;470628697;82462253;5548988410663;2026-02-12T09:32:47.033-03:00
+2026-02-11 09:51:00;Jeane Moura;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;470665525;82532411;5511915665566;2026-02-12T09:32:59.549-03:00
+2026-02-11 10:45:00;Terezinha Orandina dos Passos;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;470422667;82508608;5548999188055;2026-02-12T09:33:11.004-03:00
+2026-02-11 12:15:00;Viviane Camargos;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;2026-02-12 14:18:55;5.0;;;470692953;82534498;5548999113540;2026-02-12T09:33:22.560-03:00
+2026-02-11 13:00:00;Milene Mattos;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;470787727;82547661;5548991441544;2026-02-12T09:33:35.208-03:00
+2026-02-11 14:30:00;Cristhine Priebe;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;470752173;82543026;5548999621032;2026-02-12T09:33:57.871-03:00
+2026-02-11 15:15:00;Aline mendonca;bLOw (escova modelada ou lisa);025 - Maria Valderiza Almeida de Morais;;;;;470837854;81652311;5548996179184;2026-02-12T09:34:13.350-03:00
+2026-02-11 16:00:00;Karyne Reis Takahashi;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;470813648;81744334;5548996185686;2026-02-12T09:34:33.876-03:00
+2026-02-11 16:00:00;Luiza Todescato furtado;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-02-12 10:51:27;5.0;;;470510443;82518653;5548984321102;2026-02-12T09:34:43.264-03:00
+2026-02-11 17:30:00;Marja Santos;bLOw - Clube Plano Duplo;025 - Maria Valderiza Almeida de Morais;2026-02-12 11:02:13;5.0;;;470310832;82499255;5548984242449;2026-02-12T11:01:59.084-03:00
+2026-02-12 07:00:00;Cristiane de Araújo;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;470925582;82198154;5548996717433;2026-02-12T19:31:59.778-03:00
+2026-02-10 14:30:00;Camila Daiara;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;470426653;82508926;5548984366613;2026-02-12T11:02:35.636-03:00
+2026-02-12 07:45:00;Glayce josy sasaki acacio sedrez;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;470986333;82468665;5548999140655;2026-02-13T09:31:35.290-03:00
+2026-02-12 08:30:00;DAIANE TRAMONTINI;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;470086017;82471548;5548988481815;2026-02-13T09:32:50.173-03:00
+2026-02-12 08:30:00;Ana Paula Franco;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;470974169;82430359;5551996079213;2026-02-13T09:33:20.741-03:00
+2026-02-12 09:25:00;Fernanda  Carla De Oliveira;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;2026-02-13 13:29:55;5.0;;;470985785;82434512;5548999591632;2026-02-13T09:33:30.441-03:00
+2026-02-12 10:00:00;Amanda Caroline Odila Maestri Miguel Padilha;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;470777887;82545162;5549999115986;2026-02-13T09:33:50.118-03:00
+2026-02-12 10:45:00;Paula Botke e Silva;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-02-13 20:05:55;5.0;;;469585206;82418513;5547997319459;2026-02-13T09:34:08.758-03:00
+2026-02-13 10:00:00;Maria Helena Palhano de Oliveira;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;470444397;81599054;5548991184805;2026-02-14T09:31:38.352-03:00
+2026-02-12 11:30:00;Ana júlia de mello miranda;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;;;;;470960183;82564636;5548988203068;2026-02-13T09:34:17.826-03:00
+2026-02-12 09:35:00;Rudineia Deon;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-02-15 08:53:27;5.0;;;470891537;81820247;5548999713558;2026-02-13T09:34:37.614-03:00
+2026-02-12 12:25:00;Carolina Borba;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471077536;82563209;5548999145518;2026-02-13T09:34:49.274-03:00
+2026-02-12 13:45:00;Rosangela Mello;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-02-13 13:53:29;5.0;;;470791496;82546433;5548999921192;2026-02-13T09:35:05.995-03:00
+2026-02-12 16:00:00;INGRID BECKER TEIXEIRA;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;2026-02-18 14:51:38;5.0;;;470872640;82391163;5548996381540;2026-02-13T11:01:52.556-03:00
+2026-02-12 10:55:00;Carolina Santos;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;470547886;82522411;5548991911368;2026-02-13T11:02:46.079-03:00
+2026-02-12 17:30:00;Adriana Almeida;bLOw com Mega;026 - Rosangela Martins Tavares;;;;;470946147;82563372;5548991081978;2026-02-13T11:02:54.695-03:00
+2026-02-13 07:45:00;Juliana Caroline maroni Medeiros souza;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-14 18:14:17;5.0;;;470494709;82467477;554891182177;2026-02-14T09:33:03.844-03:00
+2026-02-13 07:56:00;Cristina Broilo;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;470981022;82567378;5548996153099;2026-02-14T09:33:17.336-03:00
+2026-02-13 09:15:00;Maria Eduarda Madeira Rodrigues;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471175325;82589679;5551993118476;2026-02-14T09:33:27.785-03:00
+2026-02-13 09:15:00;Amanda Brückmann;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;471214665;82593615;5548991258404;2026-02-14T09:33:49.143-03:00
+2026-02-13 10:00:00;Jenifer Varela;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;471356866;82610324;5548988065406;2026-02-14T09:34:04.489-03:00
+2026-02-13 09:35:00;Alessandra Gaspar Mussalam;bLOw com Mega;032 - Letícia Ferreira de Araújo;;;;;471342088;82583535;5516997385898;2026-02-14T09:34:15.870-03:00
+2026-02-13 11:30:00;Marilda Ferreira Reis Barbosa;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-14 10:08:50;5.0;;;470164762;82484863;5548988060646;2026-02-14T09:34:32.237-03:00
+2026-02-13 10:45:00;Carolina Borba;Penteado;032 - Letícia Ferreira de Araújo;;;;;470944556;82563209;5548999145518;2026-02-14T09:34:47.656-03:00
+2026-02-13 10:45:00;CLAUDIA BRANDÃO PEREIRA DE SOUZA;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;471337362;82608588;5548984297007;2026-02-14T11:01:41.857-03:00
+2026-02-13 11:00:00;Pilar Sabino;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;471345182;82462253;5548988410663;2026-02-14T11:03:04.639-03:00
+2026-02-13 12:15:00;Ana Carla Costa;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;471473136;81766412;5584994018787;2026-02-14T11:03:14.394-03:00
+2026-02-13 11:30:00;fernanda chaves;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;471350688;82609839;5548999210662;2026-02-14T11:03:26.779-03:00
+2026-02-13 11:30:00;Daniela Silveira;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;471335134;82565785;5548996793366;2026-02-14T11:03:35.208-03:00
+2026-02-13 12:15:00;rosa Souza;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;471445739;82621293;5548988493223;2026-02-14T11:03:43.667-03:00
+2026-02-13 13:00:00;Amanda de Vasconcellos;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471052629;82573496;5548988294117;2026-02-14T11:03:53.138-03:00
+2026-02-13 13:00:00;Amanda Baptista de Lima;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;471317253;82606707;5548991178656;2026-02-14T11:04:06.556-03:00
+2026-02-13 13:05:00;Claudia Cardoso;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;470599529;82526721;5548999160521;2026-02-14T11:04:30.154-03:00
+2026-02-13 13:45:00;Mauren  Vieira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;2026-02-14 16:17:04;5.0;;;471486877;82626550;5548996393597;2026-02-14T11:04:41.640-03:00
+2026-02-13 16:45:00;Juliana Brüggemann;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;470069084;82469977;5547999671570;2026-02-14T11:05:01.218-03:00
+2026-02-13 13:00:00;Juliana Brüggemann;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;471331634;82469977;5547999671570;2026-02-14T15:31:58.304-03:00
+2026-02-13 13:45:00;Janaina Benincá de Salles;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;471485935;82626474;5548999807440;2026-02-14T15:32:56.904-03:00
+2026-02-13 13:50:00;Bárbara Barbosa;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471457644;81460929;5548996879615;2026-02-14T15:33:15.472-03:00
+2026-02-13 13:45:00;Giulia Tieppo;Penteado;032 - Letícia Ferreira de Araújo;;;;;470777339;82389631;5549991976654;2026-02-14T15:33:25.921-03:00
+2026-02-13 14:30:00;Karina  Maravai Weiss;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-14 15:34:18;5.0;;;471162764;82588509;5548999961824;2026-02-14T15:33:38.308-03:00
+2026-02-13 14:30:00;Leticia Moraes;bLOw com Mega;026 - Rosangela Martins Tavares;;;;;470980440;82567303;5548988069242;2026-02-14T15:33:59.866-03:00
+2026-02-13 14:30:00;Barbara krohling;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;470633747;82530010;5548988586446;2026-02-14T15:34:18.386-03:00
+2026-02-13 15:15:00;KARLA KAREN LEUCH;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-02-15 10:19:21;5.0;;;470281553;82497105;5548991510126;2026-02-14T15:34:30.844-03:00
+2026-02-13 15:15:00;Verônica Rosarito Ramirez Parquet Rolón;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;470864009;82555778;5548984414087;2026-02-14T15:34:53.302-03:00
+2026-02-13 15:53:00;Natália da Costa;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;;;;;471576313;81716243;5548996162432;2026-02-14T17:20:56.665-03:00
+2026-02-13 16:00:00;Viviane vieira da silva Martins;Penteado;029 - Bruna Oliveira da Silva;;;;;469412652;81599403;5548999333331;2026-02-14T17:22:39.604-03:00
+2026-02-13 17:30:00;joyce guedes;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;2026-02-15 16:22:13;3.0;3 - Habilidade (Execução ruim, técnica);"O cabelo não ficou macio 
+Ficou armado e duro";469545195;82414826;5548991083357;2026-02-14T17:22:52.845-03:00
+2026-02-13 16:45:00;Marina Cirimbelli;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;469753970;82434456;5548984841858;2026-02-14T17:23:09.242-03:00
+2026-02-13 16:45:00;Andréia Pinheiro;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;468633176;82318129;5548996289448;2026-02-14T17:23:18.629-03:00
+2026-02-13 16:45:00;Isadora Socas;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;469648686;82425161;5548984790897;2026-02-14T17:23:41.151-03:00
+2026-02-13 15:15:00;Mariana Muri;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-02-22 16:46:18;5.0;;;470211265;81632927;5548991039238;2026-02-14T17:24:01.653-03:00
+2026-02-13 17:30:00;Karen mackeley de souza;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;470232369;82492097;5511994007097;2026-02-14T17:24:24.411-03:00
+2026-02-13 19:00:00;Giulia Bettio;bLOw com Mega;023 - Uylrrana Rodrigues Simione;;;;;467254266;81457814;5548991155038;2026-02-14T17:24:38.818-03:00
+2026-02-13 19:00:00;Isadora Fernandes;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;467911680;82145909;5548991558105;2026-02-14T19:32:17.266-03:00
+2026-02-14 08:00:00;Juliana Ramos;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471733535;81583462;5548988480073;2026-02-15T09:31:53.682-03:00
+2026-02-14 08:00:00;Flavia Lisboa Ramos;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;471733667;82188272;5548988240070;2026-02-15T09:33:01.232-03:00
+2026-02-14 08:30:00;Samara Pereira Aragao;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471070072;82574950;5511949297930;2026-02-15T09:33:21.758-03:00
+2026-02-14 08:30:00;Jessica Stringari;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;471189886;82590925;5547997277784;2026-02-15T09:33:30.244-03:00
+2026-02-14 10:00:00;Cristiane Pereira dos Santos;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;470619109;81630587;5548988074788;2026-02-15T09:33:46.700-03:00
+2026-02-14 10:10:00;Adriana Martins de Souza;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;469911634;82449341;5548991113756;2026-02-15T09:34:01.305-03:00
+2026-02-14 11:00:00;Roberta Cymbalista;bLOw com Mega;028 - Leonardo Augusto Dunker;;;;;471765323;82572808;5542999343237;2026-02-15T09:34:12.814-03:00
+2026-02-14 11:45:00;Francine Mello;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;471805660;82661186;5548991731387;2026-02-15T09:34:25.165-03:00
+2026-02-14 12:30:00;Laura Vaira;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;471751661;82656343;5548988340089;2026-02-15T09:34:47.717-03:00
+2026-02-14 13:15:00;Karin Elisa Schemes;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-15 13:10:34;5.0;;;471784946;82659352;5548999821186;2026-02-15T09:35:06.219-03:00
+2026-02-14 13:15:00;Ana torres;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;471757235;82524183;5548996765700;2026-02-15T11:01:29.980-03:00
+2026-02-14 13:30:00;Maria Eduarda Goulart;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;470891951;82558742;5548999605347;2026-02-15T11:02:49.975-03:00
+2026-02-14 13:31:00;Gabriela Santos;Penteado;029 - Bruna Oliveira da Silva;;;;;471815391;82662343;5548999229395;2026-02-15T11:03:01.937-03:00
+2026-02-14 14:30:00;DAIANE TRAMONTINI;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;470812091;82471548;5548988481815;2026-02-15T11:03:11.509-03:00
+2026-02-14 14:41:00;Izadora Vargas Greca;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;471304367;82605643;5551995955598;2026-02-15T11:03:27.175-03:00
+2026-02-14 14:00:00;Jéssica Takahache;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471852197;82666135;email;2026-02-15T11:03:45.666-03:00
+2026-02-14 14:18:00;Isadora Correa Bruch;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-16 12:12:37;5.0;;;469764949;82435439;5548996674574;2026-02-15T11:04:06.143-03:00
+2026-02-14 14:00:00;Jéssica Takahache;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;471850547;82666135;email;2026-02-15T11:04:23.067-03:00
+2026-02-14 14:10:00;Juliana Ramos;Penteado;032 - Letícia Ferreira de Araújo;;;;;471845301;81583462;5548988480073;2026-02-15T11:04:31.490-03:00
+2026-02-14 14:52:00;Camila lira;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-02-15 12:17:31;5.0;;;471863413;82666360;5547999172007;2026-02-15T11:04:47.998-03:00
+2026-02-14 14:40:00;Ana Luísa Wegner Alberton;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;470175035;82485636;5548991180659;2026-02-15T15:31:47.365-03:00
+2026-02-14 15:15:00;giovana nery;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;470166707;82485050;5548998576834;2026-02-15T15:32:48.769-03:00
+2026-02-14 15:30:00;Renata Godoy Streb Kozma;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;470120480;82451403;5548984083474;2026-02-15T15:32:58.311-03:00
+2026-02-14 16:00:00;Anarrosa garcia silveira;bLOw com Mega;026 - Rosangela Martins Tavares;;;;;469551636;82415287;5548984068307;2026-02-15T15:33:09.013-03:00
+2026-02-14 17:30:00;Juliana Ramos;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;471930330;81583462;5548988480073;2026-02-15T15:33:29.460-03:00
+2026-02-14 15:50:00;Cristina de Souza Costa;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;470046700;82467654;5548984196511;2026-02-15T15:33:43.976-03:00
+2026-02-14 16:07:00;Bettina Becker;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;469974460;82455011;5548984071006;2026-02-15T15:34:02.751-03:00
+2026-02-14 16:45:00;Vanessa Rouvier;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;471826960;82659367;5548489913863;2026-02-15T15:34:19.249-03:00
+2026-02-14 17:55:00;Juliana Ramos;bLOw com Mega;027 - Karina Martins Sertori;;;;;471944024;81583462;5548988480073;2026-02-15T15:34:41.644-03:00
+2026-02-14 17:00:00;Sofia Feitosa;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471866124;82666590;5563992001707;2026-02-15T17:21:13.233-03:00
+2026-02-14 17:00:00;Mariana Muri;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;2026-02-20 16:59:25;5.0;;;471604839;81632927;5548991039238;2026-02-15T17:22:19.707-03:00
+2026-02-14 17:30:00;Elisabeth Silveira;Penteado;029 - Bruna Oliveira da Silva;;;;;469093891;82364293;5548991292001;2026-02-15T17:22:39.185-03:00
+2026-02-14 17:30:00;Patricia de Almeida Baltazar;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;468148781;82176534;5548984014465;2026-02-15T17:22:50.584-03:00
+2026-02-14 16:45:00;EMANUELY FORNEROLLI GONCALVES;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;470042670;82467035;5548988230530;2026-02-15T17:23:12.294-03:00
+2026-02-14 19:00:00;Neide Nocon;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;2026-02-23 07:43:29;5.0;;;471862009;81391897;5548999822474;2026-02-15T17:23:31.751-03:00
+2026-02-14 19:15:00;Andressa Skrzek Flores;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;471696753;82651212;5548996123162;2026-02-15T17:23:47.337-03:00
+2026-02-16 08:30:00;Roberta Alves Diniz;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;472007984;82682306;5547996890030;2026-02-17T09:31:43.345-03:00
+2026-02-16 11:30:00;Milene Mattos;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;470803604;82547661;5548991441544;2026-02-17T09:32:58.162-03:00
+2026-02-16 12:15:00;rosa Souza;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;471979314;82621293;5548988493223;2026-02-17T09:33:11.914-03:00
+2026-02-16 13:00:00;alicia honorato;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472007598;82587320;5548991453010;2026-02-17T09:33:24.568-03:00
+2026-02-16 13:45:00;INGRID BECKER TEIXEIRA;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-18 14:48:30;5.0;;;472020565;82391163;5548996381540;2026-02-17T09:33:32.995-03:00
+2026-02-16 14:30:00;Thais  Pinheiro;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;2026-02-18 18:16:20;5.0;;;472012366;81413429;5548999723625;2026-02-17T09:33:51.500-03:00
+2026-02-16 15:15:00;Catiuscia Santos;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;472050245;82689023;5551982160070;2026-02-17T09:34:12.859-03:00
+2026-02-16 16:00:00;Suziane Marques Barbosa;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;472015817;82684138;email;2026-02-17T09:34:32.394-03:00
+2026-02-16 16:45:00;Terezinha Orandina dos Passos;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;;;;;471975084;82508608;5548999188055;2026-02-17T09:34:41.726-03:00
+2026-02-16 16:45:00;Carolina Eberhardt Francisco;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472013275;82551798;5548999760596;2026-02-17T09:35:03.085-03:00
+2026-02-16 18:15:00;KARLA KAREN LEUCH;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;472044865;82497105;5548991510126;2026-02-17T09:35:23.506-03:00
+2026-02-16 18:15:00;FERNANDA R B SOUZA;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;471956692;82692984;5548999269771;2026-02-17T09:35:46.239-03:00
+2026-02-17 08:30:00;Josiane Saraiva;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472092304;82678368;5511997194508;2026-02-18T09:31:45.144-03:00
+2026-02-17 08:40:00;Andréia Pinheiro;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;471494230;82318129;5548996289448;2026-02-18T09:33:10.874-03:00
+2026-02-17 09:15:00;Flaviana Viana;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;472012502;82683630;5548996198052;2026-02-18T09:33:20.484-03:00
+2026-02-17 10:00:00;Rudineia Deon;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;472074827;81820247;5548999713558;2026-02-18T09:33:38.055-03:00
+2026-02-17 11:30:00;Camila Daiara;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;472090716;82508926;5548984366613;2026-02-18T09:33:57.586-03:00
+2026-02-17 12:45:00;Graciele Parente;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472107998;82696723;5548999636378;2026-02-18T09:34:18.465-03:00
+2026-02-17 09:15:00;Keli Rodrigues Heberle;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;470277387;82496684;5548996648131;2026-02-18T09:34:38.198-03:00
+2026-02-17 12:15:00;Karen Regina Godoi Sinhor;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-18 15:20:59;5.0;;;472093791;82522065;5548999825509;2026-02-18T09:34:56.784-03:00
+2026-02-17 14:30:00;Luiza Bueno Ribeiro;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472130669;82477705;email;2026-02-18T09:35:17.420-03:00
+2026-02-17 14:30:00;Natália da Costa;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;472057003;81716243;5548996162432;2026-02-18T09:35:40.137-03:00
+2026-02-17 15:15:00;Karina  Maravai Weiss;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472120475;82588509;5548999961824;2026-02-18T09:35:56.685-03:00
+2026-02-17 15:15:00;Mariana Scaransi;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;472115149;82697613;5567998688735;2026-02-18T09:36:19.205-03:00
+2026-02-17 16:00:00;Maria Luiza Medeiros;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;471727954;82654202;5548992121309;2026-02-18T09:36:37.130-03:00
+2026-02-17 16:00:00;fernanda chaves;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;472104166;82609839;5548999210662;2026-02-18T09:36:50.588-03:00
+2026-02-17 16:45:00;Scheila Schwingel;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;471825508;81759963;5548984036122;2026-02-18T09:37:02.004-03:00
+2026-02-17 17:30:00;Stéfanie Guimarães;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;471692022;82650816;5516981027509;2026-02-18T09:37:23.491-03:00
+2026-02-17 19:00:00;Yasmin Brito;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;470820507;82549026;5548998402228;2026-02-18T09:37:36.028-03:00
+2026-02-18 08:30:00;Thais  Pinheiro;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;2026-02-19 10:39:42;5.0;;;471930868;81413429;5548999723625;2026-02-19T09:31:04.476-03:00
+2026-02-18 07:50:00;kelly kern;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;472158300;82451128;5548991191183;2026-02-19T09:32:49.563-03:00
+2026-02-18 07:57:00;Glayce josy sasaki acacio sedrez;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;472136565;82468665;5548999140655;2026-02-19T09:33:13.049-03:00
+2026-02-18 08:35:00;Silvana Barcellos Slaviero;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472132954;82699852;5548996301795;2026-02-19T09:33:34.765-03:00
+2026-02-18 09:10:00;Lucyane Lemos Pereira;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;2026-02-19 09:59:53;3.0;3 - Habilidade (Execução ruim, técnica);Muito demorada 50 minutos ;470070148;82365053;5548991042501;2026-02-19T09:33:48.406-03:00
+2026-02-18 10:00:00;DAIANE TRAMONTINI;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;2026-02-19 12:51:48;5.0;;;471982891;82471548;5548988481815;2026-02-19T09:34:07.925-03:00
+2026-02-18 10:45:00;MONICA SEIXAS O MELLO;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-19 11:17:51;5.0;;;472154628;82702289;5548999578670;2026-02-19T09:34:26.528-03:00
+2026-02-18 11:35:00;Isabel Cristina Bertuol Funk;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;472147700;82459599;5548999382887;2026-02-19T09:34:48.026-03:00
+2026-02-18 12:26:00;Fernanda  Carla De Oliveira;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-02-19 12:35:03;5.0;;;472228530;82434512;5548999591632;2026-02-19T09:34:57.583-03:00
+2026-02-18 12:30:00;Helena Heerdt Eyng;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;472236732;82709454;5548999532082;2026-02-19T09:35:20.441-03:00
+2026-02-18 12:15:00;Thaís C. de Andrade;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;2026-02-20 08:04:15;5.0;;;471910408;82427966;5524999898655;2026-02-19T11:01:17.537-03:00
+2026-02-18 16:00:00;LETICIA LUCCA;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;472008101;82564482;5548999874294;2026-02-19T11:03:01.942-03:00
+2026-02-18 16:45:00;Patricia motta;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;472254142;82711025;5548984059025;2026-02-19T11:03:15.579-03:00
+2026-02-18 18:15:00;Vera Marcia Macedo Poletini;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;2026-02-20 14:30:33;5.0;;;472295606;82501717;5548991437288;2026-02-19T11:03:37.213-03:00
+2026-02-18 19:00:00;Rosângela Bassi Astromecas;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;2026-02-19 11:06:59;5.0;;;472278379;82711935;5548996775032;2026-02-19T11:03:57.693-03:00
+2026-02-19 07:45:00;Cristina Broilo;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;472388332;82567378;5548996153099;2026-02-20T09:31:40.383-03:00
+2026-02-19 07:45:00;Pilar Sabino;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472425720;82462253;5548988410663;2026-02-20T09:32:51.071-03:00
+2026-02-19 08:30:00;Aline Rodrigues da Silva;Penteado;029 - Bruna Oliveira da Silva;2026-02-20 11:20:19;4.0;5 - Simpatia (Atenção/profissionalismo);#SAIR;471858125;82665901;554898913012;2026-02-20T09:33:08.289-03:00
+2026-02-19 08:30:00;Maeve Regina de Moura;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;2026-02-21 07:35:36;5.0;;;472430954;82735982;5548984818144;2026-02-20T09:33:17.729-03:00
+2026-02-19 10:00:00;Emi sousa;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472164757;82685248;554899189030;2026-02-20T09:33:40.252-03:00
+2026-02-19 10:45:00;Fabiana ceregatti;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;472216459;82707702;5548999158395;2026-02-20T09:33:55.717-03:00
+2026-02-19 11:05:00;Maria Eduarda Guglielmi;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;472516668;82742387;5548999868827;2026-02-20T09:34:16.267-03:00
+2026-02-19 10:45:00;Elaine Dal’Col da Silva;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472439293;82500711;5548984231988;2026-02-20T09:34:39.729-03:00
+2026-02-19 10:45:00;Priscilla Freitas;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;472484476;82739733;5548996757617;2026-02-20T11:01:44.700-03:00
+2026-02-19 13:45:00;Barbara Rabello;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;472588668;82430664;5548999341731;2026-02-20T11:03:00.497-03:00
+2026-02-19 15:15:00;BETINA GORNISKI;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;472482632;81769279;5551999492141;2026-02-20T11:03:20.420-03:00
+2026-02-19 15:15:00;Bárbara Barbosa;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472585445;81460929;5548996879615;2026-02-20T11:03:31.015-03:00
+2026-02-19 16:00:00;GABRIELE VIEIRA;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;472553528;82747064;5548984617335;2026-02-20T11:03:49.067-03:00
+2026-02-19 17:00:00;Josiane Antunes da Silva Cristóvam;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;472709974;82454569;5548996138572;2026-02-20T11:04:12.951-03:00
+2026-02-19 18:15:00;Elizete Motta;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;472603265;82475610;5548984057025;2026-02-20T11:04:30.617-03:00
+2026-02-19 12:15:00;Rita de Cássia Todescato Furtado;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-20 19:34:20;5.0;;;472213629;81648585;5548984086563;2026-02-20T11:04:41.231-03:00
+2026-02-20 10:00:00;Poliana Costa;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472802393;82801252;5548996382109;2026-02-21T09:31:55.647-03:00
+2026-02-20 10:10:00;Franciani turra costella delagnelo;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;472841661;82732378;554899855922;2026-02-21T09:33:10.472-03:00
+2026-02-20 11:00:00;Mysaelle Guimaraes Marcondes Cezar;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472852051;82804808;5548991011415;2026-02-21T09:33:22.050-03:00
+2026-02-20 10:45:00;Francele Antonello;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472777937;82798616;5551998606269;2026-02-21T09:33:32.499-03:00
+2026-02-20 12:30:00;Luana reigota;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;472929994;82504772;5548984088025;2026-02-21T09:33:42.974-03:00
+2026-02-20 10:11:00;Ana de Albuquerque;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;472797421;82800931;5548999725094;2026-02-21T09:34:03.417-03:00
+2026-02-20 12:15:00;Renata Godoy Streb Kozma;bLOw - Clube Plano Duplo;026 - Rosangela Martins Tavares;;;;;472792553;82451403;5548984083474;2026-02-21T09:34:22.782-03:00
+2026-02-20 13:00:00;Joelma  Moser;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472905369;81812448;5548999428664;2026-02-21T09:34:35.305-03:00
+2026-02-20 14:30:00;Luiza Todescato furtado;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;472817542;82518653;5548984321102;2026-02-21T09:34:54.730-03:00
+2026-02-20 13:45:00;CLAUDIA BRANDÃO PEREIRA DE SOUZA;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472897963;82608588;5548984297007;2026-02-21T11:01:32.543-03:00
+2026-02-19 14:00:00;Juliana Ramos;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472413968;81583462;5548988480073;2026-02-20T15:31:59.591-03:00
+2026-02-20 14:30:00;Vanessa Ferreira de Carvalho;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;472290718;82714518;5548999438033;2026-02-21T11:03:06.909-03:00
+2026-02-20 15:15:00;Amanda rubi;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;472874697;82806638;5548999143319;2026-02-21T11:03:21.613-03:00
+2026-02-20 16:45:00;Kristina Kalafatás;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;472415186;82734555;5548999720019;2026-02-21T11:03:31.010-03:00
+2026-02-20 17:30:00;Renata Lima;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;472731574;82777385;5548999621399;2026-02-21T11:03:53.455-03:00
+2026-02-20 15:15:00;Bárbara Becker;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;472759368;81769158;5548996568487;2026-02-21T11:04:08.165-03:00
+2026-02-20 19:00:00;Clarissa  Ferreira Martins De Souza;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;473026718;82819606;5511934849771;2026-02-21T11:04:31.303-03:00
+2026-02-21 08:00:00;GRAZIELLY DA SILVEIRA;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;473174726;82831876;5548999277024;2026-02-22T09:31:31.479-03:00
+2026-02-21 08:45:00;kelly kern;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;473173469;82451128;5548991191183;2026-02-22T09:32:49.573-03:00
+2026-02-21 08:00:00;Jenifer Varela;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;2026-02-22 18:53:49;5.0;;;473173257;82610324;5548988065406;2026-02-22T09:33:06.055-03:00
+2026-02-21 08:45:00;Míssia Mesquita;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-22 10:23:42;5.0;;;470052403;82468446;5548991619308;2026-02-22T09:33:29.493-03:00
+2026-02-21 09:15:00;Juliana Caroline maroni Medeiros souza;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;2026-02-22 11:07:17;5.0;;;473173222;82467477;554891182177;2026-02-22T09:33:47.038-03:00
+2026-02-21 09:30:00;INGRID BECKER TEIXEIRA;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;2026-02-22 14:13:49;5.0;;;473133500;82391163;5548996381540;2026-02-22T09:34:10.438-03:00
+2026-02-21 10:00:00;Nani Queiroz;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472697043;82834652;5548996039747;2026-02-22T09:34:30.875-03:00
+2026-02-21 09:30:00;Michele  Michielotte;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;473003861;82817743;5548991413356;2026-02-22T11:01:51.948-03:00
+2026-02-21 09:43:00;Marcéli Possamai;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;473186836;82832862;5548999737214;2026-02-22T11:02:55.649-03:00
+2026-02-21 10:15:00;Daniela Silveira;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;473007833;82565785;5548996793366;2026-02-22T11:03:16.498-03:00
+2026-02-21 11:00:00;betina maestrini;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;472489752;82740184;5547999338500;2026-02-22T11:03:38.926-03:00
+2026-02-21 11:45:00;fernanda amorim;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;473214381;82835122;5548999160577;2026-02-22T11:03:57.381-03:00
+2026-02-21 12:00:00;Victoria Morales;bLOw (escova modelada ou lisa);026 - Rosangela Martins Tavares;;;;;473267206;82839380;5548974006529;2026-02-22T11:04:18.950-03:00
+2026-02-21 08:12:00;Thaiza Marca;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;469692352;82427119;email;2026-02-22T11:04:36.427-03:00
+2026-02-21 12:30:00;Manuella Zunino;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472409916;82343927;5548996301784;2026-02-22T15:32:04.148-03:00
+2026-02-21 11:00:00;Bárbara Barbosa;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;473225541;81460929;5548996879615;2026-02-22T15:33:12.132-03:00
+2026-02-21 13:00:00;Scheila Schwingel;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-03-09 08:34:28;5.0;;;473245719;81759963;5548984036122;2026-02-22T15:33:32.733-03:00
+2026-02-21 12:30:00;Juliana Carpeggiani;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;473272345;82839991;5548988252634;2026-02-22T15:33:42.208-03:00
+2026-02-21 11:00:00;Thais  Pinheiro;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;472969839;81413429;5548999723625;2026-02-22T15:33:51.608-03:00
+2026-02-21 14:00:00;Alline Bittencourt;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;473020780;82819087;5548988327077;2026-02-22T15:34:07.088-03:00
+2026-02-21 13:15:00;Ana Paula Franco;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;473118157;82430359;5551996079213;2026-02-22T15:34:28.334-03:00
+2026-02-21 14:00:00;Camila Daiara;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;473330126;82508926;5548984366613;2026-02-22T15:34:49.029-03:00
+2026-02-21 14:45:00;DAIANE TRAMONTINI;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472169753;82471548;5548988481815;2026-02-22T17:21:37.050-03:00
+2026-02-21 15:00:00;Cristhine Priebe;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;2026-02-23 07:09:09;5.0;;;472790134;82543026;5548999621032;2026-02-22T17:22:35.509-03:00
+2026-02-21 14:00:00;Letícia Cardoso;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;473322988;82844390;5549998055259;2026-02-22T17:22:57.003-03:00
+2026-02-21 14:45:00;Louise Lima;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;473205691;82834365;5548996366736;2026-02-22T17:23:06.470-03:00
+2026-02-21 15:33:00;Jeane Moura;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472613712;82532411;5511915665566;2026-02-22T17:23:26.141-03:00
+2026-02-21 15:30:00;Carla Feix;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;473173928;82831821;5548999722498;2026-02-22T17:23:35.476-03:00
+2026-02-21 15:30:00;Sinara Molossi;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;472477837;82739223;5548999987257;2026-02-22T17:23:55.030-03:00
+2026-02-21 16:15:00;Maria Helena Palhano de Oliveira;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472503305;81599054;5548991184805;2026-02-22T17:24:09.486-03:00
+2026-02-21 16:15:00;CLAUDIA ROBERTA GONCALVES DE ALMEIDA;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;2026-02-24 16:33:50;5.0;;;473351271;82467709;5548991047803;2026-02-22T17:24:21.917-03:00
+2026-02-21 16:15:00;CLEUNICE HORST ISHIKAWA;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;473186551;82832834;5548988336305;2026-02-22T19:32:05.540-03:00
+2026-02-21 16:45:00;Tatiana Von Muhlen;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;2026-02-22 19:34:39;5.0;;;473178713;82832205;5548984057685;2026-02-22T19:33:32.023-03:00
+2026-02-21 16:02:00;Fabiana ceregatti;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;2026-02-26 10:37:36;4.0;6 -   Outro Motivo;"A duração. Cheguei às 15:30 no salão e saí às 17:30.
+";472834982;82707702;5548999158395;2026-02-22T19:33:55.595-03:00
+2026-02-21 17:00:00;Andresa darosci;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;2026-02-22 22:43:51;5.0;;;472317670;81788235;5548988346246;2026-02-22T19:34:16.876-03:00
+2026-02-21 17:00:00;Camila Nabosne de Souza;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;473184449;82832647;5541996468040;2026-02-22T19:34:40.990-03:00
+2026-02-21 17:45:00;Debora kamila silva de Souza;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;2026-02-23 20:19:21;5.0;;;473334612;82567244;5548999626541;2026-02-22T19:34:56.320-03:00
+2026-02-21 17:45:00;Anna Varalda da Costa;bLOw (escova modelada ou lisa);032 - Letícia Ferreira de Araújo;;;;;472664583;82764406;5548984048680;2026-02-22T19:35:05.260-03:00
+2026-02-21 19:15:00;Marina Palhano;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;2026-02-22 19:35:48;5.0;;;473205038;82834237;5548996280733;2026-02-22T19:35:23.624-03:00
+2026-02-23 13:00:00;Daiani Menegatti;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-24 10:54:32;5.0;;;473602216;82131879;5548996970650;2026-02-24T09:31:47.785-03:00
+2026-02-23 14:30:00;Miriam Schevz@hotmail.com;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;473524414;82864191;5548988263663;2026-02-24T09:33:14.486-03:00
+2026-02-23 18:15:00;Bárbara Becker;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;473699781;81769158;5548996568487;2026-02-24T09:33:27.221-03:00
+2026-02-24 07:00:00;Nani Queiroz;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;473625267;82834652;5548996039747;2026-02-24T19:32:34.071-03:00
+2026-02-24 07:45:00;Karen Regina Godoi Sinhor;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;473682399;82522065;5548999825509;2026-02-25T09:31:26.575-03:00
+2026-02-24 07:55:00;Glayce josy sasaki acacio sedrez;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;473639542;82468665;5548999140655;2026-02-25T09:33:04.475-03:00
+2026-02-24 08:30:00;Carolina Farrapeira;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;473723198;82887165;5548984151698;2026-02-25T09:33:26.680-03:00
+2026-02-24 10:45:00;Alinne Luccas;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;473793487;82610991;5548999409641;2026-02-25T09:33:43.336-03:00
+2026-02-24 13:00:00;Luiza Bueno Ribeiro;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;473800100;82477705;email;2026-02-25T09:33:58.984-03:00
+2026-02-24 14:00:00;Luana reigota;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;473905066;82504772;5548984088025;2026-02-25T09:34:19.598-03:00
+2026-02-24 10:12:00;Camila Hochleitner;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;473771962;82891860;5548988019652;2026-02-25T09:34:35.222-03:00
+2026-02-24 11:30:00;Aline vinha lima;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;473818529;82878775;5548999089069;2026-02-25T09:34:58.839-03:00
+2026-02-24 14:30:00;Bárbara Becker;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;473872928;81769158;5548996568487;2026-02-25T11:01:44.156-03:00
+2026-02-24 16:45:00;joyce guedes;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-02-25 13:54:55;5.0;;;473731114;82414826;5548991083357;2026-02-25T11:03:03.008-03:00
+2026-02-24 16:45:00;Vera Marcia Macedo Poletini;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;473809479;82501717;5548991437288;2026-02-25T11:03:34.702-03:00
+2026-02-24 17:30:00;Lia Caetano Bastos;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;473635445;82875371;5548999805247;2026-02-25T11:03:50.578-03:00
+2026-02-24 17:50:00;Thais  Pinheiro;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;2026-02-25 11:58:50;5.0;;;473698954;81413429;5548999723625;2026-02-25T11:04:12.172-03:00
+2026-02-24 09:15:00;Juliana Ramos;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472795443;81583462;5548988480073;2026-02-25T11:04:31.822-03:00
+2026-02-25 07:45:00;Cristina Broilo;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;473944758;82567378;5548996153099;2026-02-26T09:31:54.061-03:00
+2026-02-25 08:08:00;rosa Souza;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;474072523;82621293;5548988493223;2026-02-26T09:33:15.881-03:00
+2026-02-25 10:00:00;Míssia Mesquita;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-26 12:00:05;5.0;;;473552532;82468446;5548991619308;2026-02-26T09:33:27.381-03:00
+2026-02-25 10:45:00;Gabriele Bertoldi Bertoldi;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;474118215;81405914;5548988555547;2026-02-26T09:33:35.897-03:00
+2026-02-25 11:30:00;Deise Lima dos Santos;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-26 09:55:14;5.0;;;474101289;82973602;5548999370611;2026-02-26T09:33:52.278-03:00
+2026-02-25 11:00:00;lolidarosci;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;474129365;82977139;5548984153481;2026-02-26T09:34:09.613-03:00
+2026-02-25 12:15:00;Luiza  Pedroso;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-26 14:47:11;5.0;;;474063618;82953270;5547997534404;2026-02-26T09:34:28.549-03:00
+2026-02-25 13:00:00;dariana maggi;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-02-26 11:16:58;5.0;;;474130892;82440405;5548999152031;2026-02-26T09:34:50.736-03:00
+2026-02-25 10:00:00;Elizete Motta;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;474071021;82475610;5548984057025;2026-02-26T09:34:59.132-03:00
+2026-02-25 14:38:00;Karyne Reis Takahashi;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;;;;;473667543;81744334;5548996185686;2026-02-26T09:35:12.632-03:00
+2026-02-25 15:15:00;Caroline Rasmussen;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;474042547;82951403;5548999805678;2026-02-26T11:01:17.520-03:00
+2026-02-25 09:30:00;Juliana Ramos;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474094510;81583462;5548988480073;2026-02-26T11:03:14.791-03:00
+2026-02-25 17:30:00;kelly kern;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;;;;;471828181;82451128;5548991191183;2026-02-26T11:03:29.976-03:00
+2026-02-25 19:00:00;Rosângela Bassi Astromecas;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;2026-02-27 11:27:30;5.0;;;474225769;82711935;5548996775032;2026-02-26T11:03:51.935-03:00
+2026-02-26 07:00:00;Jenifer Varela;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-02-27 10:31:12;5.0;;;474173141;82610324;5548988065406;2026-02-26T19:32:01.800-03:00
+2026-02-26 07:45:00;Fernanda  Carla De Oliveira;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;474385260;82434512;5548999591632;2026-02-27T09:31:23.399-03:00
+2026-02-26 08:30:00;DAIANE TRAMONTINI;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;474084372;82471548;5548988481815;2026-02-27T09:33:10.157-03:00
+2026-02-26 09:23:00;Caroline Rasmussen;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474384538;82951403;5548999805678;2026-02-27T09:33:28.911-03:00
+2026-02-26 10:00:00;Pilar Sabino;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;2026-02-27 09:34:22;5.0;;;474345407;82462253;5548988410663;2026-02-27T09:33:43.423-03:00
+2026-02-26 10:00:00;Juliana Caroline maroni Medeiros souza;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-27 14:09:45;5.0;;;474322395;82467477;554891182177;2026-02-27T09:33:52.849-03:00
+2026-02-26 10:00:00;Paula Botke e Silva;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;474069340;82418513;5547997319459;2026-02-27T09:34:07.540-03:00
+2026-02-26 11:08:00;Dayane Linzmeyer Prates;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;2026-02-27 11:42:16;4.0;2 - Durabilidade (durou pouco);"Na verdade , a escova ficou com um volume bom, porem durou pouco! acho que a atendente passou muito produto (finalizador), meu cabelo estava muito  ""escorrido""logo apos a escova devido ao finalizador (acredito eu)";474063011;82953207;5547999794424;2026-02-27T09:34:30.670-03:00
+2026-02-26 10:45:00;Juliana Nunes Tavares;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472783200;82799161;5548999693209;2026-02-27T11:01:47.366-03:00
+2026-02-26 11:00:00;Juliana Balbinot Reis Girondi;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;2026-03-01 14:47:33;5.0;;;474471697;83025185;5548999248343;2026-02-27T11:03:14.993-03:00
+2026-02-26 11:30:00;Nara Medeiros;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;474394077;83015369;5548991615761;2026-02-27T11:03:25.657-03:00
+2026-02-26 12:15:00;Michele Fossati;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;2026-02-27 15:09:23;5.0;;;473934631;82723827;5548984290464;2026-02-27T11:03:45.311-03:00
+2026-02-26 11:30:00;Ana júlia de mello miranda;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;474068376;82564636;5548988203068;2026-02-27T11:04:02.964-03:00
+2026-02-26 08:30:00;Micheline Hoffmann;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;2026-02-27 11:28:43;5.0;;;473719814;82886818;5548984828020;2026-02-27T11:04:20.676-03:00
+2026-02-26 09:15:00;Terezinha Orandina dos Passos;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;474384630;82508608;5548999188055;2026-02-27T11:04:36.797-03:00
+2026-02-26 12:15:00;Luana Rodrigues;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;474338124;83010600;5548991516969;2026-02-27T11:04:59.345-03:00
+2026-02-26 13:00:00;Maria Aparecida Crepaldi;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;474374900;83013645;5548991370545;2026-02-27T15:31:12.479-03:00
+2026-02-26 13:00:00;Alexandra candemil;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;2026-02-27 16:40:34;5.0;;;474398253;82775964;5548999627997;2026-02-27T15:33:12.302-03:00
+2026-02-26 13:45:00;Viviane vieira da silva Martins;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474375414;81599403;5548999333331;2026-02-27T15:33:24.983-03:00
+2026-02-26 14:30:00;Denise Pereira Sakagami;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;470253401;82494206;5548999885843;2026-02-27T15:33:35.605-03:00
+2026-02-26 15:15:00;Fabiana Machado Didone;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;2026-03-01 17:15:45;3.0;2 - Durabilidade (durou pouco);Em pouco tempo a escova se desmontou. Ficou como se tivesse secado em casa. Não valeu a pena… ;474511266;82467712;5548999359743;2026-02-27T15:33:55.238-03:00
+2026-02-26 16:00:00;Aline Cardozo Pereira;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;474457678;83024043;5548988076556;2026-02-27T15:34:19.114-03:00
+2026-02-26 16:00:00;Camila Daiara;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;474517897;82508926;5548984366613;2026-02-27T15:34:38.854-03:00
+2026-02-26 16:45:00;Natália Calvo de Oliveira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474538699;83030898;5548999338510;2026-02-27T15:34:56.746-03:00
+2026-02-26 16:45:00;Bárbara Barbosa;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;474375168;81460929;5548996879615;2026-02-27T17:22:22.878-03:00
+2026-02-26 10:00:00;Juliana Ramos;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474465491;81583462;5548988480073;2026-02-27T17:23:32.260-03:00
+2026-02-26 19:00:00;Daniela Silveira;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;474377922;82565785;5548996793366;2026-02-27T17:23:54.199-03:00
+2026-02-26 19:00:00;julia capella;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;474698605;83068847;5548996619649;2026-02-27T17:24:15.871-03:00
+2026-02-27 07:05:00;Marcia  Magalhães;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474715613;83073074;5548984264585;
+2026-02-27 07:45:00;Mari Polman;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;474679610;83067352;5548984227389;
+2026-02-27 08:52:00;Juliana Carpeggiani;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;474723033;82839991;5548988252634;
+2026-02-27 10:00:00;Crislaine Bruzamolin;bLOw (escova modelada ou lisa);036 - Julio Cesar Santos da Rosa;;;;;474693088;83068351;5548991043132;
+2026-02-27 10:00:00;Andresa darosci;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;471742674;81788235;5548988346246;
+2026-02-27 10:00:00;Laura Volpato;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;474591106;83035157;5548999108908;
+2026-02-27 10:20:00;Carolina Martins de Magalhães;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474717219;82855436;5548991129472;
+2026-02-27 10:14:00;Daniela Barbosa Pacheco;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474712840;83072866;5548996535261;
+2026-02-26 14:30:00;Thayse Labanca;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;474405942;83014651;5577988115001;2026-02-27T17:24:26.521-03:00
+2026-02-27 12:03:00;ADRIANA DA SILVEIRA;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;474830750;83081568;5548999534230;
+2026-02-27 12:50:00;Márcia Haveroth;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;474710754;83072646;5548991351964;
+2026-02-27 13:45:00;Karina  Maravai Weiss;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;474505231;82588509;5548999961824;
+2026-02-27 07:45:00;Bruna Polmann;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;474069091;82953779;5548984598882;
+2026-02-27 14:22:00;Juliana Ramos;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474901737;81583462;5548988480073;
+2026-02-27 14:30:00;Natália da Costa;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;;;;;474271181;81716243;5548996162432;
+2026-02-27 15:15:00;Kelli Hartzel;bLOw (escova modelada ou lisa);023 - Uylrrana Rodrigues Simione;;;;;474837469;83082055;557755605304;
+2026-02-27 16:00:00;Marta Barbosa Marins;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474696136;83068580;5553984114496;
+2026-02-27 16:00:00;Barbara  Gasperin;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;;;;;473739226;82889462;5548999733684;
+2026-02-27 16:00:00;fabiana Bengochea;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474696415;83068610;5553991071391;
+2026-02-27 16:45:00;Bárbara Becker;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;;;;;474820408;81769158;5548996568487;
+2026-02-27 16:45:00;Amanda Amaro Pereira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474670187;83066645;5548998324477;
+2026-02-27 16:45:00;Milene Mattos;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;474246415;82547661;5548991441544;
+2026-02-27 16:45:00;Luiza Todescato furtado;bLOw - Clube Plano Duplo;023 - Uylrrana Rodrigues Simione;;;;;474709102;82518653;5548984321102;
+2026-02-27 19:00:00;cristina lauer;bLOw - Clube Plano Duplo;036 - Julio Cesar Santos da Rosa;;;;;474736363;81799030;5548991564930;
+2026-02-27 19:00:00;Cristiane de Araújo;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;475062054;82198154;5548996717433;
+2026-02-28 08:00:00;beatriz dutra;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;472273470;82712838;5548996392780;2026-03-02T09:32:30.467-03:00
+2026-02-28 09:30:00;Deise Lima dos Santos;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;475105094;82973602;5548999370611;2026-03-02T09:33:48.154-03:00
+2026-02-28 09:37:00;INGRID BECKER TEIXEIRA;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;2026-03-02 09:40:12;5.0;;;475004239;82391163;5548996381540;2026-03-02T09:34:09.024-03:00
+2026-02-28 10:15:00;Ana Carla Costa;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;475122968;81766412;5584994018787;2026-03-02T09:34:34.072-03:00
+2026-02-28 11:00:00;Vivian Colonetti;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;473560598;82867987;5548984093089;2026-03-02T09:34:56.918-03:00
+2026-02-28 11:45:00;Tailine Rocha Reginato;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;475150156;83152870;email;2026-03-02T09:35:20.704-03:00
+2026-02-28 11:45:00;Ilmara Domingues Diniz;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;475162910;81579729;554999414221;2026-03-02T09:35:32.445-03:00
+2026-02-28 13:15:00;Martha Sell;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;475087852;83147783;5548999583996;2026-03-02T11:01:53.966-03:00
+2026-02-28 14:00:00;Barbara Rabello;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;474070104;82430664;5548999341731;2026-03-02T11:03:16.511-03:00
+2026-02-28 14:00:00;CLAUDIA BRANDÃO PEREIRA DE SOUZA;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;475098622;82608588;5548984297007;2026-03-02T11:03:26.313-03:00
+2026-02-28 14:30:00;Wanessa Minich;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;470020555;82460637;5548999023120;2026-03-02T11:03:48.109-03:00
+2026-02-28 14:45:00;Caroline de souza machado;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;475264840;83162582;5548984333603;2026-03-02T11:04:07.717-03:00
+2026-02-28 08:45:00;Maeve Regina de Moura;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;2026-03-02 13:11:28;5.0;;;474506940;82735982;5548984818144;2026-03-02T11:04:22.493-03:00
+2026-02-28 09:30:00;Lilian Pettres;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;2026-03-02 14:40:40;5.0;;;474969835;82557044;5548999890201;2026-03-02T11:04:40.014-03:00
+2026-02-28 15:30:00;Ingrid Ribeiro Macedo;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;2026-03-02 18:02:49;5.0;;;475071440;83146332;5531999232307;2026-03-02T15:31:50.288-03:00
+2026-02-28 16:15:00;Camila Nabosne de Souza;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;474524199;82832647;5541996468040;2026-03-02T15:33:41.655-03:00
+2026-02-28 17:00:00;Manoella Melim;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;475215334;83158248;5548991326940;2026-03-02T15:34:08.309-03:00
+2026-02-28 17:11:00;Marilda Ferreira Reis Barbosa;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-03-02 17:13:54;5.0;;;475092381;82484863;5548988060646;2026-03-02T15:34:28.035-03:00
+2026-02-28 17:53:00;Alessandra Matsuda;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;474946092;83101774;5511996827558;2026-03-02T15:34:40.528-03:00
+2026-03-03 07:45:00;Glayce josy sasaki acacio sedrez;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;473638536;82468665;5548999140655;2026-03-03T09:31:41.975-03:00
+2026-03-02 07:10:00;Pilar Sabino;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;475313083;82462253;5548988410663;2026-03-02T19:32:14.749-03:00
+2026-03-02 08:00:00;rosa Souza;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;475480861;82621293;5548988493223;2026-03-03T09:33:32.956-03:00
+2026-03-02 09:15:00;CLAUDIA ROBERTA GONCALVES DE ALMEIDA;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-03-03 18:40:23;5.0;;;475470106;82467709;5548991047803;2026-03-03T09:34:02.278-03:00
+2026-03-02 09:15:00;DAIANE TRAMONTINI;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;475476400;82471548;5548988481815;2026-03-03T09:34:17.816-03:00
+2026-03-02 09:18:00;Maria Luiza Medeiros;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;474317517;82654202;5548992121309;2026-03-03T09:34:40.347-03:00
+2026-03-02 10:45:00;Sara Philippi;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;475472688;83184209;5548991492044;2026-03-03T09:35:00.025-03:00
+2026-03-02 10:45:00;Juliana Balbinot Reis Girondi;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;475449810;83025185;5548999248343;2026-03-03T09:35:13.422-03:00
+2026-03-02 11:30:00;Maria Augusta Coelho;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;475471259;83184090;5548999583078;2026-03-03T11:01:40.834-03:00
+2026-03-02 12:30:00;Luiza Bueno Ribeiro;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;475563483;82477705;email;2026-03-03T11:03:33.296-03:00
+2026-03-02 14:01:00;Graziela Schweitzer;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;475567859;82845546;5548996733881;2026-03-03T11:03:51.950-03:00
+2026-03-02 15:15:00;Karin Elisa Schemes;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;475574848;82659352;5548999821186;2026-03-03T11:04:09.210-03:00
+2026-03-02 16:45:00;Debora kamila silva de Souza;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;475597888;82567244;5548999626541;2026-03-03T11:04:22.882-03:00
+2026-03-02 17:05:00;Micheline Hoffmann;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474742487;82886818;5548984828020;2026-03-03T11:04:44.768-03:00
+2026-03-02 15:45:00;carmen Feix;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;475612040;81577917;5561981104567;2026-03-03T11:05:00.719-03:00
+2026-03-03 07:45:00;Cristina Broilo;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;475545125;82567378;5548996153099;2026-03-04T09:32:06.598-03:00
+2026-03-03 10:00:00;Karen Regina Godoi Sinhor;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;475695175;82522065;5548999825509;2026-03-04T09:33:38.872-03:00
+2026-03-03 13:00:00;Mariana Rupp;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;475554324;82544007;5548991183040;2026-03-04T09:33:53.820-03:00
+2026-03-03 13:45:00;CAMILA MOTA DE SOUSA;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;475834779;82899991;5548992115020;2026-03-04T09:34:05.681-03:00
+2026-03-03 14:08:00;Silvia Higashi;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;475818913;83258950;5548984144453;2026-03-04T09:34:15.238-03:00
+2026-03-03 16:45:00;Ana Delia Anceles;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;475710040;82609671;5598991729509;2026-03-04T09:34:30.805-03:00
+2026-03-03 17:30:00;Lilian Joze Gruber;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;473891976;82918607;5549991399277;2026-03-04T09:34:48.932-03:00
+2026-03-03 08:30:00;Maria Beatriz Spada Morosini Telles;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;2026-03-04 21:40:38;5.0;;;474968839;83103659;5548999310005;2026-03-04T09:35:03.679-03:00
+2026-03-04 07:00:00;Leticia Juliatto;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;476023303;82865369;5548996299794;2026-03-04T19:31:55.052-03:00
+2026-03-04 07:45:00;Ana Carolina Marcon;bLOw com Mega;027 - Karina Martins Sertori;;;;;476024010;83288143;5548999808668;2026-03-05T09:31:38.544-03:00
+2026-03-04 10:02:00;Milene Mattos;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;476023429;82547661;5548991441544;2026-03-05T09:33:39.355-03:00
+2026-03-04 10:00:00;MONICA SEIXAS O MELLO;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;475637642;82702289;5548999578670;2026-03-05T09:33:50.017-03:00
+2026-03-04 11:30:00;Caroline Rasmussen;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;475528037;82951403;5548999805678;2026-03-05T09:34:01.953-03:00
+2026-03-04 10:51:00;Gherusa Helena Milbratz;bLOw com Mega;036 - Julio Cezar Santos da Rosa;;;;;475959605;83276593;5548999508585;2026-03-05T09:34:21.679-03:00
+2026-03-04 11:40:00;Patrícia Mota;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;476000418;82953353;5548999300003;2026-03-05T09:34:40.507-03:00
+2026-03-04 13:00:00;Caroline  pecciN;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;475937618;82860112;5548996077890;2026-03-05T09:34:50.154-03:00
+2026-03-04 13:45:00;Carol Pego;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;476116637;82874458;5548988155023;2026-03-05T11:01:50.369-03:00
+2026-03-04 15:45:00;Francine amaral;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;476232185;82484133;5548999600180;2026-03-05T11:03:26.573-03:00
+2026-03-04 16:45:00;Heloisa Soares;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;476236403;83306444;5548991823414;2026-03-05T11:03:47.530-03:00
+2026-03-05 08:30:00;Luciana Lima;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;476355539;83326636;5548984140684;2026-03-06T09:31:50.153-03:00
+2026-03-05 10:00:00;Aline de Lima Ribeiro;bLOw - Clube Plano Duplo;032 - Letícia Ferreira de Araújo;;;;;476370169;83327576;5548996640261;2026-03-06T09:33:40.565-03:00
+2026-03-05 10:08:00;madu mello;bLOw com Mega;036 - Julio Cezar Santos da Rosa;;;;;476356043;82767276;5548988583853;2026-03-06T09:34:01.039-03:00
+2026-03-05 11:30:00;Carolina arguelho;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;2026-03-06 10:13:13;5.0;;;476247329;83308748;5521976382471;2026-03-06T09:34:12.678-03:00
+2026-03-05 07:00:00;Bruna Polmann;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;476031882;82953779;5548984598882;2026-03-05T19:31:27.074-03:00
+2026-03-05 11:00:00;Crisiane Vieira;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;476354112;81815286;5548999178277;2026-03-06T09:34:23.395-03:00
+2026-03-05 17:30:00;Raquel Leal Fittipaldi;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;476394669;83329583;5548999456590;2026-03-06T09:34:40.905-03:00
+2026-03-05 18:15:00;Marja Santos;bLOw - Clube Plano Duplo;040 - Marissol Cristyne Goulart;;;;;476356281;82499255;5548984242449;2026-03-06T11:01:49.561-03:00
+2026-03-06 07:00:00;Priscila ciconi;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;475989095;83284524;5548996691874;
+2026-03-06 10:00:00;Flavia Fett;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;476617573;83370157;5548999153848;
+2026-03-06 10:45:00;Denise Heineck;bLOw (escova modelada ou lisa);040 - Marissol Cristyne Goulart;;;;;476763729;83382852;5548988037503;
+2026-03-06 10:45:00;Fernanda Silveira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476563169;83364946;5548999600592;
+2026-03-06 13:00:00;Rebeca pires;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;475281736;83164153;5548489843343;
+2026-03-06 13:45:00;Marilei Betker;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;472499546;82740947;5555999990303;
+2026-03-06 14:30:00;Tatiana Andrade Andrade;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;476893802;82590947;5548996185758;
+2026-03-06 15:15:00;Manuella Bastos Machado;bLOw (escova modelada ou lisa);040 - Marissol Cristyne Goulart;;;;;476291803;83317716;5548991822171;
+2026-03-06 16:00:00;Mayara Tsuchida Zanfra;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;474902026;83098132;5548988225495;
+2026-03-06 16:45:00;Aniare Minussi;bLOw (escova modelada ou lisa);040 - Marissol Cristyne Goulart;;;;;475593746;83202553;5548991255014;
+2026-03-06 16:45:00;Kelly Haberli;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476979553;83402446;5548999862898;
+2026-03-06 17:30:00;Patricia Rutsatz;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;474162643;82981488;5551992765564;
+2026-03-06 12:15:00;Márcia Haveroth;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;476602311;83072646;5548991351964;
+2026-03-06 18:15:00;Aline Siqueira Vieira simas;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476284800;81309954;5548984073112;
+2026-03-06 18:15:00;Júlia Schweitzer Vargas;bLOw (escova modelada ou lisa);040 - Marissol Cristyne Goulart;;;;;476970629;82433259;5548984683722;
+2026-03-06 18:15:00;Manuela Affonso;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;470540319;82521755;5511981759280;
+2026-03-06 19:00:00;Karina Peiter;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476140643;83297674;5548999786783;
+2026-03-06 19:00:00;Luiza Abreu;bLOw (escova modelada ou lisa);040 - Marissol Cristyne Goulart;;;;;476867630;82953735;5547992177508;
+2026-03-07 09:43:00;Paola Ávila;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;472156435;82702458;5551996496671;2026-03-09T11:02:09.445-03:00
+2026-03-07 10:15:00;Ana Wipprich;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;477127078;83417133;5548991646090;2026-03-09T11:03:31.698-03:00
+2026-03-07 11:00:00;Tatiane Cuneo;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;472004188;81937854;5548988216863;2026-03-09T11:03:40.563-03:00
+2026-03-07 11:00:00;Gisele Marca Tasso;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;475963971;83276997;5549999752027;2026-03-09T11:03:52.792-03:00
+2026-03-07 11:57:00;Maria Lina Moratelli Prado;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476899226;83395403;5548996170022;2026-03-09T11:04:04.672-03:00
+2026-03-07 13:15:00;Mariana Leal de Lima;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476899052;83395395;5548999344724;2026-03-09T15:31:43.296-03:00
+2026-03-07 14:45:00;Luciana Hoepcke Comelli;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477089276;83413535;5548991440065;2026-03-09T15:33:06.138-03:00
+2026-03-07 14:45:00;CHRISTINE NERY DE AZAMBUJA FEYH;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;474292771;83006961;5548999672705;2026-03-09T15:33:24.193-03:00
+2026-03-07 15:30:00;DELMA REBELLO;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477243438;82844971;5548998526297;
+2026-03-07 15:30:00;Isabelle Peralta Leite;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;477065035;83398977;5548996362770;
+2026-03-07 14:58:00;MARIANA DOS SANTOS PADILHA;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;477277021;83430991;554899996593;
+2026-03-07 16:15:00;Débora Ribeiro Couto;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477068340;83411371;5548999880258;
+2026-03-09 08:30:00;Patricia Alves de Souza;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;477485522;83453379;5549998358893;
+2026-03-09 10:15:00;Fabiane Volpato;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477380605;81392611;5548999890580;
+2026-03-09 11:33:00;Louise Fardim;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477496765;83454392;5521988127130;
+2026-03-09 11:30:00;Maria Eduarda Silveira;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;477483539;81791254;5548991525686;
+2026-03-09 13:45:00;Ivana (Nana) Souza Machado;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477526676;83457537;5548988343069;
+2026-03-09 09:15:00;Hannah reiter;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477497430;82830127;5547984218102;
+2026-03-09 14:30:00;Nunna Cecilia Andreon;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;477551358;82199262;5547988276975;
+2026-03-09 15:15:00;Elisa Martinez;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;477143365;82505437;5548999115671;
+2026-03-09 15:15:00;CAMILA Fernandes Nebuy;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477588375;83466199;5548996319291;
+2026-03-09 17:10:00;Vania Ribas Ulbricht;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;477624728;83471456;5548999713962;
+2026-03-09 16:45:00;Geisiani Pagani;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;477574365;83464986;5548988047609;
+2026-03-09 17:15:00;Heloisa Martins;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;477194430;82656927;5547999942627;
+2026-03-09 16:00:00;Cristina Keller;bLOw - Clube Plano Duplo;028 - Leonardo Augusto Dunker;;;;;477449415;81576713;5548984585758;
+2026-03-09 18:15:00;Amanda da silva Barbosa;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;477495910;83473812;5549991918032;
+2026-03-09 19:00:00;Samara Neiva;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477544511;83461206;5548988236224;
+2026-03-10 07:09:00;Maria Fernanda Stodieck;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;477025538;83406431;5548999229262;
+2026-03-10 10:45:00;Jaqueline da Rosa Meggiato;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;477645897;83473900;5548984588456;
+2026-03-10 10:45:00;Daniela Barbosa Pacheco;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477665315;83072866;5548996535261;
+2026-03-10 11:30:00;Ariane Mendonça;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;477620133;83470967;5548991714700;
+2026-03-10 12:34:00;Giorgia Wiggers;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;477802511;83492833;5548999515842;
+2026-03-10 13:00:00;Lauren Prestes;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;477698033;83480043;5511939126138;
+2026-03-10 09:15:00;Caroline Döerner;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;477661057;82890697;554891515041;
+2026-03-10 14:30:00;Patrícia Guimarães;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;476358736;81480882;5548991399898;
+2026-03-10 14:30:00;Aline Pimentel;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;477757435;83484959;5548999048784;
+2026-03-11 09:20:00;Paula;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478009564;82498870;5548991019579;
+2026-03-11 10:52:00;Vanessa Fagundes;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478022639;83530186;5548999520399;
+2026-03-11 10:52:00;Patrícia Cavalcanti Gonzaga;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;477948531;83534469;5548999966469;
+2026-03-11 11:00:00;CAROLINE MARTIZES;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478060970;82500692;5548991418838;
+2026-03-11 11:30:00;Tatiane guedes;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;477681607;82423433;5548984001412;
+2026-03-11 12:30:00;Jonathan Aguiar;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478130286;83359518;5548991602540;
+2026-03-11 13:00:00;Lais Zanchet;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477952178;83521885;5548991046044;
+2026-03-11 13:23:00;Michele de Oliveira Ramos;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478089958;83536165;5511982819018;
+2026-03-11 14:50:00;Leila Jhon;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;478160942;83561580;5548996971962;
+2026-03-11 12:15:00;Ana Castro;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;478043544;83017692;5548984046205;
+2026-03-11 16:45:00;Maria fernanda silva martins;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477992187;83527745;5548999333391;
+2026-03-11 17:30:00;Jackeline Jannuzzi oliveira braga;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478133650;83541620;5548996037699;
+2026-03-12 10:00:00;Rafaela Zandavalli;bLOw - Clube Plano Duplo;042 -  Gislene Fertes Nascimento;;;;;478303148;82530597;5548999279993;
+2026-03-12 08:00:00;Marcia  Magalhães;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;478326852;83073074;5548984264585;
+2026-03-12 10:45:00;Monica Canizares;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;478298521;83577318;554396448978;
+2026-03-12 11:15:00;DIANA CORREIA;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478344095;83581092;5548999666452;
+2026-03-12 12:15:00;Tatiana Muller;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;478256320;83573470;5548999249933;
+2026-03-12 10:45:00;Caroline Daros;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478297161;83577226;5548999639122;
+2026-03-12 13:30:00;Jessica Gonçalves formigheri;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478414166;83594062;5548991235384;
+2026-03-12 14:30:00;Flavia Guglielmi;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;478125491;83540788;5548999627747;
+2026-03-12 16:15:00;Marla Eglaea da Silva Freire;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;478499071;83609878;5592992599337;
+2026-03-12 16:15:00;Jessica Morais Ramos;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;478499672;83611107;5592994289902;
+2026-03-12 17:30:00;Mariana Barbato;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478515406;83615745;5548999817172;
+2026-03-13 09:15:00;Renata Dalva Lucas;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478611164;83628659;5548988456881;
+2026-03-13 08:47:00;CAMILA SZPOGANICZ;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478617073;83629140;5548988560280;
+2026-03-13 10:00:00;Daniela Colombo Zilli;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;478641544;83633691;5548996371011;
+2026-03-13 10:45:00;Ivy Caroline Amaral;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478330048;83580040;554891671881;
+2026-03-13 11:30:00;Rudineia Deon;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;478673624;81820247;5548999713558;
+2026-03-13 12:15:00;EMILLY DAS GRACAS TEIXEIRA DE ASSIS;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;478672605;83633375;5548991022784;
+2026-03-13 11:30:00;Lucia Hoffmann;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478251555;83573069;5548991040964;
+2026-03-13 13:45:00;Karina  Maravai Weiss;bLOw - Clube Plano Duplo;042 -  Gislene Fertes Nascimento;;;;;478554875;82588509;5548999961824;
+2026-03-13 13:56:00;Amanda Amaro Pereira;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477501641;83066645;5548998324477;
+2026-03-13 15:15:00;Rosangela Bertuol;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478472386;83604009;554999607560;
+2026-03-13 15:15:00;Kauani Carraro;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;478758646;83640846;5549999448392;
+2026-03-13 16:00:00;JANAINA WEIS;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;477889538;83508093;5548992234221;
+2026-03-13 16:45:00;Fabiana Harger;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478385433;83588253;5548996968030;
+2026-03-13 16:45:00;Daniela Zanatta;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;478478415;83604545;5548999196766;
+2026-03-13 17:30:00;Mariana Abraham Peres;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478162007;83066031;5548999718836;
+2026-03-13 18:30:00;Aline Gabriele Santos da Silva;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478938113;83668008;5591989384513;
+2026-03-13 18:15:00;Valentina Candemil Hess de Souza;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;478330608;83580098;5548999725523;
+2026-03-13 18:15:00;CAMILA Fernandes Nebuy;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;478900825;83466199;5548996319291;
+2026-03-13 19:00:00;Isabella Oliveira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478600827;83627769;5548988133405;
+2026-03-14 08:08:00;Cintia Miranda;Penteado;029 - Bruna Oliveira da Silva;;;;;475921547;83268265;5548991320974;
+2026-03-14 08:45:00;Paola Becke Menegheti;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;478921185;83666639;5548991172727;
+2026-03-14 10:15:00;REJANE ANDRADE;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;479013940;83674792;5548988441708;
+2026-03-14 10:15:00;vidpagani;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;478992585;83464724;5548998182255;
+2026-03-14 11:00:00;Fernanda Miranda;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;477257833;83429174;5548999647094;
+2026-03-14 11:00:00;Amanda Liermann;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;476265794;82359757;5547991510610;
+2026-03-14 11:19:00;RAFAELA FERNANDES;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;477979135;83526394;5548991039880;
+2026-03-14 11:09:00;Mariana Rottava;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;477959646;83522585;5548999328171;
+2026-03-14 11:45:00;Gabriela Ulrich;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;475320895;81659322;5548996661886;
+2026-03-14 11:57:00;Denise;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;479053515;83678213;5548996718428;
+2026-03-14 11:45:00;Ana Clara Battisti;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478988022;83672533;5548999201043;
+2026-03-14 11:45:00;Paola casteler;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;478983536;83640969;5548999006575;
+2026-03-14 11:45:00;Débora Córdova;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478971095;83670796;5548999512800;
+2026-03-14 12:30:00;Juane Rabello;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;479036002;83676645;5548999891341;
+2026-03-14 14:00:00;Maira Dolzan;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;478391983;83590127;5548988337474;
+2026-03-14 13:30:00;Graziela Canto;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;479138843;83685719;554888124518;
+2026-03-14 14:00:00;Lilian Márcia da Silva Bodenmuller;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;478874702;83689086;5548999822566;
+2026-03-14 14:00:00;Marina Volpato Legat;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;479026938;83675878;5548991751009;
+2026-03-14 14:00:00;Priscilla Borges;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;478981825;83627752;5548988448450;
+2026-03-14 14:56:00;Tatiana de Bem Slongo;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;479167793;83688482;5548988084734;
+2026-03-14 14:45:00;Raquel Mendonça de Faria;bLOw - Clube Plano Duplo;029 - Bruna Oliveira da Silva;;;;;479135226;83684372;5548996126772;
+2026-03-14 14:55:00;Juliana Bordignon Flores;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;478968234;81763555;5548991861300;
+2026-03-14 14:45:00;Inês Pimpão;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;479036033;83676647;5548996221021;
+2026-03-14 15:30:00;Lilly Andri da Silva;bLOw - Clube Plano Duplo;027 - Karina Martins Sertori;;;;;478525326;82571644;554899715923;
+2026-03-14 16:15:00;Gabrielle Laía da silva;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;475380347;81791455;5547991699744;
+2026-03-14 16:00:00;Paula Conradi;Penteado;029 - Bruna Oliveira da Silva;;;;;478240468;83572100;5548996448743;
+2026-03-14 16:20:00;Patricia Alves de Souza;bLOw - Clube Plano Duplo;036 - Julio Cezar Santos da Rosa;;;;;479226471;83453379;5549998358893;
+2026-03-14 17:45:00;Paula Fabri Finoti;bLOw (escova modelada ou lisa);036 - Julio Cezar Santos da Rosa;;;;;478590130;83626736;5548489998928;
+2026-03-14 17:45:00;Livia Frassetto Martins;bLOw (escova modelada ou lisa);028 - Leonardo Augusto Dunker;;;;;478711066;83636670;5548991917373;
+2026-03-14 18:07:00;Luciete vieira;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;478975501;83671262;5549991802200;
+2026-03-14 19:15:00;Carol Fogaça;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;479092886;83681752;5548991526662;
+2026-03-17 08:30:00;Giovanna Colombi;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;479420833;83715465;5548991458880;
+2026-03-17 09:15:00;edvalda freitas madeira dias;bLOw (escova modelada ou lisa);029 - Bruna Oliveira da Silva;;;;;479547191;83729865;5533988736166;
+2026-03-17 10:45:00;Jaqueline da Rosa Meggiato;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;479563002;83473900;5548984588456;
+2026-03-17 12:15:00;Mari Polman;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;479649304;83067352;5548984227389;
+2026-03-17 12:15:00;Maria fernanda silva martins;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;479657947;83527745;5548999333391;
+2026-03-17 14:00:00;Claudia de Souza Pereira da Silva Brodt;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;479719339;83748975;5548998651006;
+2026-03-17 14:30:00;Karina  Maravai Weiss;bLOw - Clube Plano Duplo;040 - Marissol Cristyne Goulart;;;;;479724887;82588509;5548999961824;
+2026-03-17 14:40:00;Mariah Medeiros;bLOw (escova modelada ou lisa);027 - Karina Martins Sertori;;;;;479719901;83749061;554891013653;
+2026-03-17 14:30:00;sofia Finkler;bLOw (escova modelada ou lisa);024 - Solange Pompeu Pereira;;;;;479583899;83735959;5548988135684;
+2026-03-17 17:30:00;Maria dos Anjos;bLOw (escova modelada ou lisa);040 - Marissol Cristyne Goulart;;;;;479813430;83561822;5548991863107;
+2026-03-17 19:00:00;GABRIELE LUZIA RODRIGUES PEREIRA;bLOw (escova modelada ou lisa);042 -  Gislene Fertes Nascimento;;;;;477484890;83453301;5547992270063;
+2026-03-17 16:45:00;Fernanda Vanzella;bLOw - Clube Plano Duplo;024 - Solange Pompeu Pereira;;;;;479767839;83754468;5545999746240;
